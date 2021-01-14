@@ -1,36 +1,22 @@
 from NER_model import NER
 from src.NER_preprocessing import *
-#from src.Mortgage_preprocessing import *
 import os
 import logging
 
 logging.basicConfig(filename='test.log', level=logging.DEBUG, format='%(asctime)s:%(levelname)s:%(message)s')
 
 if __name__ == '__main__':
-
-
-
   #Preprocessing part
     path = os.path.join(os.getcwd(), "Data", "NER_data", "BankStatements.txt")
-    #path = os.path.join(os.getcwd(), "Data", "Wikicorpus", "wiki_mortgages_0.txt")
-    My = NER_preprocessing(lines_sent=1, spliter="lines")
-    # My.special_split(path)
-    # My.create_csv_NER_combined()
-    My.create_csv_NER()
-    # My = Mort_preprocessing(wiki=True)
-    # My.preprocessing()
+    Preprocesser = NER_preprocessing(lines_sent=1, spliter="lines")
+    # Preprocesser.special_split(path)
+    # Preprocesser.create_csv_NER_combined()
+    Preprocesser.create_csv_NER()
     print('Preprocessing Complete....')
-    print('NER Started....')
-
 
 
     #NER part
-
-
-
-
-
-
+    print('NER Started....')
     model = NER(encoding="utf-8", base_model="bert-base-uncased",
                 pos_dropout=0.3, tag_dropout=0.3,
                 pos_dropout_2=0.3, tag_dropout_2=0.3,
@@ -41,7 +27,6 @@ if __name__ == '__main__':
 
 
     """
-    
     model.predict(" Contact tel 03457 60 60 60 see reverse for call times Text phone 03457 125 563"
                   "used by deaf or speech impaired customers"
                   "www.hsbc.co.uk"
