@@ -1,6 +1,6 @@
 from NER_model import NER
 from src.NER_preprocessing import *
-from src.Mortgage_preprocessing import *
+#from src.Mortgage_preprocessing import *
 import os
 import logging
 
@@ -11,7 +11,7 @@ if __name__ == '__main__':
 
 
   #Preprocessing part
-    path = os.path.join(os.getcwd(), "Data", "NER_data", "Example_2.txt")
+    path = os.path.join(os.getcwd(), "Data", "NER_data", "BankStatements.txt")
     #path = os.path.join(os.getcwd(), "Data", "Wikicorpus", "wiki_mortgages_0.txt")
     My = NER_preprocessing(lines_sent=1, spliter="lines")
     # My.special_split(path)
@@ -19,6 +19,8 @@ if __name__ == '__main__':
     My.create_csv_NER()
     # My = Mort_preprocessing(wiki=True)
     # My.preprocessing()
+    print('Preprocessing Complete....')
+    print('NER Started....')
 
 
 

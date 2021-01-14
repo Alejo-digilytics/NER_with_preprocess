@@ -1,0 +1,59 @@
+2021-01-14 08:39:36,085:INFO:Loading NLP libraries ... 
+2021-01-14 08:39:36,653:INFO:The libraries were loaded in 0.5677857398986816 seconds
+2021-01-14 08:39:36,653:INFO: Creating the data frame ...
+2021-01-14 08:39:36,677:INFO: There were at least 0 wrong labels in the file
+2021-01-14 08:39:37,863:INFO: There were at least 12 wrong labels in the file
+2021-01-14 08:40:19,519:INFO: ... created
+2021-01-14 08:40:19,519:INFO: It took 42.865646839141846 seconds
+2021-01-14 09:11:22,214:INFO:Loading NLP libraries ... 
+2021-01-14 09:11:22,291:INFO:The libraries were loaded in 0.07696413993835449 seconds
+2021-01-14 09:11:22,291:INFO: Creating the data frame ...
+2021-01-14 09:11:22,304:INFO: There were at least 0 wrong labels in the file
+2021-01-14 09:11:22,384:INFO: There were at least 12 wrong labels in the file
+2021-01-14 09:12:04,481:INFO: ... created
+2021-01-14 09:12:04,482:INFO: It took 42.190309286117554 seconds
+2021-01-14 09:23:41,192:INFO:Loading NLP libraries ... 
+2021-01-14 09:23:41,524:INFO:The libraries were loaded in 0.33270716667175293 seconds
+2021-01-14 09:23:41,525:INFO: Creating the data frame ...
+2021-01-14 09:23:41,546:INFO: There were at least 0 wrong labels in the file
+2021-01-14 09:23:41,618:INFO: There were at least 12 wrong labels in the file
+2021-01-14 09:24:23,810:INFO: ... created
+2021-01-14 09:24:23,810:INFO: It took 42.28532600402832 seconds
+2021-01-14 09:24:25,225:INFO:preprocessing data ...
+2021-01-14 09:24:25,541:INFO:Data has been preprocessed
+2021-01-14 09:24:25,541:INFO:Making checkpoint for the preprocessed data ...
+2021-01-14 09:26:48,148:INFO:Loading NLP libraries ... 
+2021-01-14 09:26:48,314:INFO:The libraries were loaded in 0.1653134822845459 seconds
+2021-01-14 09:26:48,314:INFO: Creating the data frame ...
+2021-01-14 09:26:48,329:INFO: There were at least 0 wrong labels in the file
+2021-01-14 09:26:48,411:INFO: There were at least 12 wrong labels in the file
+2021-01-14 09:27:30,509:INFO: ... created
+2021-01-14 09:27:30,509:INFO: It took 42.19511079788208 seconds
+2021-01-14 09:27:30,614:INFO:preprocessing data ...
+2021-01-14 09:27:30,941:INFO:Data has been preprocessed
+2021-01-14 09:27:30,942:INFO:Making checkpoint for the preprocessed data ...
+2021-01-14 09:27:31,230:INFO: Splitting data and creating data sets ...
+2021-01-14 09:27:31,232:INFO:Moving model to cuda ...
+2021-01-14 09:27:31,413:INFO:loading archive file /content/drive/My Drive/Colab Notebooks/Digilytics/BERT_NER/NER-Preprocessing/models/bert-base-uncased
+2021-01-14 09:27:31,859:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-01-14 09:27:42,362:INFO:Starting Fine-tuning ...
+2021-01-14 09:27:42,362:INFO:Start epoch 1

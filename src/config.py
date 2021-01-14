@@ -25,7 +25,7 @@ BERT_CASED_VOCAB = join(BERT_CASED_PATH, "vocab.txt")
 BERT_UNCASED_VOCAB = join(BERT_UNCASED_PATH, "vocab.txt")
 
 # DATA PATHS
-TRAINING_FILE = join(BASE_DATA_PATH, "NER_data", "ner_dataset.csv")
+TRAINING_FILE = join(BASE_DATA_PATH, "NER_DF", "ner_dataset.csv")
 ACC_FILE = join(BASE_DATA_PATH, "NER_data")
 CHECKPOINTS_META_PATH = join(BASE_DATA_PATH, "Checkpoints", "std_data.bin")
 CHECKPOINTS_MODEL_PATH = join(BASE_DATA_PATH, "Checkpoints", "model.bin")

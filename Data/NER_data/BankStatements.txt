@@ -1,0 +1,3874 @@
+Account  number  41649294 [ANU-U] Sort  code  05-06-43 [SC-U] Statement  date  01 [FD-B]
+Apr [FD-I] 20 [FD-L] -  30 [TD-B] Apr [TD-I] 20 [TD-L] STANDARD [AT-B] BUSINESS [AT-L] ARCH [AN-B]
+GLOBAL [AN-I] UK [AN-I] LIMITED [AN-L] 23 [AA-B] DRAGOON [AA-I] ROAD, [AA-I] COVENTRY, [AA-I] CV3 [AA-I] 1PD [AA-L]
+Date  Description  Type  Debits  Credits  Balance  01 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+Opening [PDE-B] Balance [PDE-L] £8637.79 [B-U] 01 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £46.16 [PI-U] £8683.95 [B-U] 01 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £695.03 [PI-U] £9378.98 [B-U]
+01 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L]
+Transfer [PT-U] £3249.86 [PI-U] £12628.84 [B-U] 01 [PDA-B] Apr [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I]
+3118908513 [PDE-L] Direct [PT-B] Debit [PT-L] £305.59 [PO-U] £12323.25 [B-U] 01 [PDA-B] Apr [PDA-I] 20 [PDA-L] Tetrosyl [PDE-B]
+Ltd, [PDE-I] 4740000 [PDE-L] Direct [PT-B] Debit [PT-L] £761.19 [PO-U] £11562.06 [B-U] 02 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1103.07 [PI-U] £12665.13 [B-U]
+03 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L]
+Transfer [PT-U] £124.53 [PI-U] £12789.66 [B-U] 06 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £7500.00 [PI-U] £20289.66 [B-U] 06 [PDA-B] Apr [PDA-I] 20 [PDA-L] Uk [PDE-B]
+Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £23.44 [PO-U] £20266.22 [B-U] 07 [PDA-B] Apr [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1490.45 [PI-U]
+£21756.67 [B-U] 07 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I]
+LTD [PDE-L] Transfer [PT-U] £2000.00 [PI-U] £23756.67 [B-U] 07 [PDA-B] Apr [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I]
+2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £21302.81 [PO-U] £2453.86 [B-U] 08 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £2376.78 [PI-U] £4830.64 [B-U] 08 [PDA-B]
+Apr [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3118922334 [PDE-L] Direct [PT-B] Debit [PT-L] £289.28 [PO-U]
+£4541.36 [B-U] 09 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I]
+LTD [PDE-L] Transfer [PT-U] £241.25 [PI-U] £4782.61 [B-U] 14 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I]
+Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £201.84 [PI-U] £4984.45 [B-U] 14 [PDA-B] Apr [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £14984.45 [B-U]
+14 [PDA-B] Apr [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L]
+£36.84 [PO-U] £14947.61 [B-U] 14 [PDA-B] Apr [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I]
+62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £552.00 [PO-U] £14395.61 [B-U] 14 [PDA-B] Apr [PDA-I] 20 [PDA-L] MOB, [PDE-B]
+Surinder [PDE-I] Kaur, [PDE-I] BILSTON [PDE-L] Transfer [PT-U] £295.56 [PO-U] £14100.05 [B-U] 14 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+MOB, [PDE-B] Shikala, [PDE-I] Bilston [PDE-L] Transfer [PT-U] £399.97 [PO-U] £13700.08 [B-U] 14 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+MOB, [PDE-B] Rajni, [PDE-I] Bilston [PDE-L] Transfer [PT-U] £422.30 [PO-U] £13277.78 [B-U] 14 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+MOB, [PDE-B] Michael [PDE-I] Hutchinson, [PDE-I] BILSTON [PDE-L] Transfer [PT-U] £501.39 [PI-U] £12776.39 [B-U] 14 [PDA-B] Apr [PDA-I]
+20 [PDA-L] MOB, [PDE-B] Manjit [PDE-I] Sondhi, [PDE-I] BILSTON [PDE-L] Transfer [PT-U] £656.80 [PO-U] £12119.59 [B-U] 14 [PDA-B]
+Apr [PDA-I] 20 [PDA-L] MOB, [PDE-B] Victoria [PDE-I] Bond, [PDE-I] BILSTON [PDE-I] Dav [PDE-L] Transfer [PT-U] £926.70 [PO-U]
+£11192.89 [B-U] 15 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £8000.00 [PI-U] £19192.89 [B-U] 15 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £8070.14 [PI-U] £27263.03 [B-U] 15 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+G4S [PDE-B] Cash [PDE-I] Solutions, [PDE-I] 1000 [PDE-I] 11025499 [PDE-L] Direct [PT-B] Debit [PT-L] £91.55 [PO-U] £27171.48 [B-U]
+15 [PDA-B] Apr [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3118935217 [PDE-L] Direct [PT-B] Debit [PT-L]
+£326.21 [PO-U] £26845.27 [B-U] 15 [PDA-B] Apr [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B]
+Debit [PT-L] £18198.47 [PO-U] £8646.80 [B-U] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-L] 17 [PDA-B] Apr [PDA-I]
+20 [PDA-L] WATFORD [PDE-B] LTD [PDE-L] Transfer [PT-U] £875.40 [PI-U] £9522.20 [B-U] 20 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £19522.20 [B-U] 20 [PDA-B]
+Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U]
+£29522.20 [B-U] 20 [PDA-B] Apr [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B]
+Debit [PT-L] £76.98 [PO-U] £29445.22 [B-U] 21 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1143.54 [PI-U] £30588.76 [B-U] 21 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £2421.39 [PI-U] £33010.15 [B-U]
+21 [PDA-B] Apr [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B]
+Debit [PT-L] £552.00 [PO-U] £32458.15 [B-U] 21 [PDA-B] Apr [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L]
+Direct [PT-B] Debit [PT-L] £24335.39 [PO-U] £8122.76 [B-U] 22 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I]
+Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1279.12 [PI-U] £9401.88 [B-U] 22 [PDA-B] Apr [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £19401.88 [B-U]
+22 [PDA-B] Apr [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3118948611 [PDE-L] Direct [PT-B] Debit [PT-L]
+£297.16 [PO-U] £19104.72 [B-U] 22 [PDA-B] Apr [PDA-I] 20 [PDA-L] Booker [PDE-B] Ltd [PDE-I] -Bk, [PDE-I] 0728755884 [PDE-L]
+Direct [PT-B] Debit [PT-L] £3787.62 [PO-U] £15317.10 [B-U] 24 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I]
+Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £435.12 [PI-U] £15752.22 [B-U] 27 [PDA-B] Apr [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £692.09 [PI-U]
+£16444.31 [B-U] 27 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £10000.00 [PI-U] £26444.31 [B-U] 27 [PDA-B] Apr [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I]
+01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £51.42 [PO-U] £26392.89 [B-U] 28 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £2863.66 [PI-U] £29256.55 [B-U] 28 [PDA-B]
+Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £5000.00 [PI-U]
+£34256.55 [B-U] 28 [PDA-B] Apr [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L]
+Direct [PT-B] Debit [PT-L] £552.00 [PO-U] £33704.55 [B-U] 28 [PDA-B] Apr [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I]
+2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £29166.30 [PO-U] £4538.25 [B-U] 28 [PDA-B] Apr [PDA-I] 20 [PDA-L] CHARGES [PDE-U]
+Charges [PT-U] £19.10 [PO-U] £4519.15 [B-U] 29 [PDA-B] Apr [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £730.86 [PI-U] £5250.01 [B-U] 29 [PDA-B] Apr [PDA-I] 20 [PDA-L]
+Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3118961636 [PDE-L] Direct [PT-B] Debit [PT-L] £317.13 [PO-U] £4932.88 [B-U] Total 
+debits  £104245.20 [POW-U] Total  credits  £100540.29 [PID-U] Closing  balance  £4932.88 [CB-U] Important 
+information  about  compensation  arrangements  We  are  covered  by  the 
+Financial  Services  Compensation  Scheme  (FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Account  number  41649294 [ANU-U] Sort  code  05-06-43 [SC-U] Statement  date  01 [FD-B]
+Aug [FD-I] 20 [FD-L] -  31 [TD-B] Aug [TD-I] 20 [TD-L] STANDARD  BUSINESS  ARCH [AN-B]
+GLOBAL [AN-I] UK [AN-I] LIMITED [AN-L] 23 [AA-B] DRAGOON [AA-I] ROAD, [AA-I] COVENTRY, [AA-I] CV3 [AA-I] 1PD [AA-L]
+Date  Description  Type  Debits  Credits  Balance  01 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+Opening [PDE-B] Balance [PDE-L] £16126.60 [B-U] 03 [PDA-B] Aug [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I]
+01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £60.69 [PO-U] £16065.91 [B-U] 04 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £4890.30 [PI-U] £20956.21 [B-U] 04 [PDA-B] Aug [PDA-I]
+20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £917.00 [PO-U]
+£20039.21 [B-U] 04 [PDA-B] Aug [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L]
+£18405.93 [PO-U] £1633.28 [B-U] 05 [PDA-B] Aug [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119144689 [PDE-L]
+Direct [PT-B] Debit [PT-L] £261.18 [PO-U] £1372.10 [B-U] 07 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I]
+Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9998.53 [PI-U] £11370.63 [B-U] 10 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9600.00 [PI-U] £20970.63 [B-U] 10 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £54.29 [PO-U]
+£20916.34 [B-U] 10 [PDA-B] Aug [PDA-I] 20 [PDA-L] Card [PDE-B] 13, [PDE-I] Hmrc [PDE-I] Gov.Uk [PDE-I] Vat [PDE-L]
+Card [PT-U] £3055.18 [PO-U] £17861.16 [B-U] 11 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £5000.00 [PI-U] £22861.16 [B-U] 11 [PDA-B] Aug [PDA-I] 20 [PDA-L] Costa [PDE-B]
+- [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £622.00 [PO-U] £22239.16 [B-U] 11 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £19827.03 [PO-U] £2412.13 [B-U]
+12 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L]
+Transfer [PT-U] £195.88 [PO-U] £2608.01 [B-U] 12 [PDA-B] Aug [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I]
+3119158501 [PDE-L] Direct [PT-B] Debit [PT-L] £270.89 [PO-U] £2337.12 [B-U] 13 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £82.27 [PI-U] £2419.39 [B-U] 13 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £10000.00 [PI-U] £12419.39 [B-U] 13 [PDA-B] Aug [PDA-I]
+20 [PDA-L] Capital [PDE-B] On [PDE-I] Tap, [PDE-I] 4RCNZND [PDE-L] Direct [PT-B] Debit [PT-L] £11215.09 [PO-U] £1204.30 [B-U]
+14 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £88.47 [PI-U] £1292.77 [B-U]
+14 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L]
+£5001.00 [PI-U] £6293.77 [B-U] 17 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U]
+£42.48 [PI-U] £6336.25 [B-U] 17 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U]
+£43.87 [PI-U] £6380.12 [B-U] 17 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U]
+£131.20 [PI-U] £6511.32 [B-U] 18 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U]
+£41.85 [PI-U] £6553.17 [B-U] 18 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global [PDE-I] Uk [PDE-I]
+Limited, [PDE-I] DD [PDE-I] short [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £16553.17 [B-U] 18 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £10000.00 [PI-U] £26553.17 [B-U] 18 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L]
+£622.00 [PO-U] £25931.17 [B-U] 18 [PDA-B] Aug [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B]
+Debit [PT-L] £23711.72 [PO-U] £2219.45 [B-U] 19 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £71.12 [PI-U] £2290.57 [B-U] 19 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £97.24 [PI-U] £2387.81 [B-U] 19 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119171231 [PDE-L] Direct [PT-B] Debit [PT-L] £286.95 [PO-U] £2100.86 [B-U] 20 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £63.22 [PI-U] £2164.08 [B-U] 21 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £33.82 [PI-U] £2197.90 [B-U] 21 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] Nest, [PDE-B] IT000003254330 [PDE-L] Direct [PT-B] Debit [PT-L] £60.96 [PO-U] £2136.94 [B-U] 24 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £12.51 [PI-U] £2149.45 [B-U] 24 [PDA-B]
+Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £10000.00 [PI-U]
+£12149.45 [B-U] 24 [PDA-B] Aug [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B]
+Debit [PT-L] £124.85 [PO-U] £12024.60 [B-U] 25 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L]
+Transfer [PT-U] £53.79 [PI-U] £12078.39 [B-U] 25 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global [PDE-I]
+Uk [PDE-I] Limited, [PDE-I] DD [PDE-I] short [PDE-L] Transfer [PT-U] £4000.00 [PI-U] £16078.39 [B-U] 25 [PDA-B] Aug [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £10000.00 [PI-U] £26078.39 [B-U]
+25 [PDA-B] Aug [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B]
+Debit [PT-L] £622.00 [PO-U] £25456.39 [B-U] 25 [PDA-B] Aug [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L]
+Direct [PT-B] Debit [PT-L] £23540.04 [PO-U] £1916.35 [B-U] 26 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I]
+Limited [PDE-L] Transfer [PT-U] £101.82 [PI-U] £2018.17 [B-U] 26 [PDA-B] Aug [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I]
+260574 [PDE-I] 3119184983 [PDE-L] Direct [PT-B] Debit [PT-L] £263.16 [PO-U] £1755.01 [B-U] 27 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Roofoods [PDE-I] Limited [PDE-L] Transfer [PT-U] £65.37 [PI-U] £1820.38 [B-U] 27 [PDA-B] Aug [PDA-I] 20 [PDA-L]
+CHARGES [PDE-U] Charges [PT-U] £17.30 [PO-U] £1803.08 [B-U] 28 [PDA-B] Aug [PDA-I] 20 [PDA-L] FPS, [PDE-B] Roofoods [PDE-I]
+Limited [PDE-L] Transfer [PT-U] £38.27 [PI-U] £1841.35 [B-U] Total  debits  £103938.26 [POW-U] Total  credits 
+£89653.01 [PID-U] Closing  balance  £1841.35 [CB-U] Important  information  about  compensation  arrangements 
+We  are  covered  by  the  Financial  Services  Compensation  Scheme 
+(FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Account  number  41649294 [ANU-U] Sort  code  05-06-43 [SC-U] Statement  date  01 [FD-B]
+Jul [FD-I] 20 [FD-L] -  31 [TD-B] Jul [TD-I] 20 [TD-L] STANDARD [AT-B] BUSINESS [AT-L] ARCH [AN-B]
+GLOBAL [AN-I] UK [AN-I] LIMITED [AN-L] 23 [AA-B] DRAGOON [AA-I] ROAD, [AA-I] COVENTRY, [AA-I] CV3 [AA-I] 1PD [AA-L]
+Date  Description  Type  Debits  Credits  Balance  01 [PDA-B] Jul [PDA-I] 20 [PDA-L]
+Opening [PDE-B] Balance [PDE-L] £3940.20 [OB-U] 01 [PDA-B] Jul [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I]
+3119078985 [PDE-L] Direct [PT-B] Debit [PT-L] £272.07 [PO-U] £3668.13 [B-U] 02 [PDA-B] Jul [PDA-I] 20 [PDA-L] MOB, [PDE-B]
+Don [PDE-I] Subasinghage, [PDE-I] Bilston [PDE-L] Transfer [PT-U] £366.20 [PO-U] £3301.93 [B-U] 03 [PDA-B] Jul [PDA-I] 20 [PDA-L]
+Tetrosyl [PDE-B] Ltd, [PDE-I] 4740000 [PDE-L] Direct [PT-B] Debit [PT-L] £362.36 [PO-U] £2939.57 [B-U] 06 [PDA-B] Jul [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9635.04 [PI-U] £12574.61 [B-U]
+06 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L]
+£9998.99 [PI-U] £22573.60 [B-U] 06 [PDA-B] Jul [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L]
+Direct [PT-B] Debit [PT-L] £60.64 [PO-U] £22512.96 [B-U] 07 [PDA-B] Jul [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I]
+Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £917.00 [PO-U] £21595.96 [B-U] 07 [PDA-B] Jul [PDA-I]
+20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £19749.82 [PO-U] £1846.14 [B-U] 08 [PDA-B]
+Jul [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119091973 [PDE-L] Direct [PT-B] Debit [PT-L] £273.18 [PO-U]
+£1572.96 [B-U] 13 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B]
+Transfer [PT-L] £9976.63 [PI-U] £11549.59 [B-U] 13 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9999.99 [PI-U] £21549.58 [B-U] 13 [PDA-B] Jul [PDA-I] 20 [PDA-L] Uk [PDE-B]
+Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £71.96 [PO-U] £21477.62 [B-U] 14 [PDA-B] Jul [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global [PDE-I] Uk [PDE-I] Limited, [PDE-L] DD [PT-B] Transfer [PT-L] £2000.00 [PI-U]
+£23477.62 [B-U] 14 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B]
+Transfer [PT-L] £10000.00 [PI-U] £33477.62 [B-U] 14 [PDA-B] Jul [PDA-I] 20 [PDA-L] Capital [PDE-B] On [PDE-I] Tap, [PDE-I]
+4RCNZND [PDE-L] Direct [PT-B] Debit [PT-L] £453.09 [PO-U] £33024.53 [B-U] 14 [PDA-B] Jul [PDA-I] 20 [PDA-L] Costa [PDE-B]
+- [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £917.00 [PO-U] £32107.53 [B-U] 14 [PDA-B]
+Jul [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £31923.35 [PO-U] £184.18 [B-U]
+15 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L]
+£1500.00 [PI-U] £1684.18 [B-U] 15 [PDA-B] Jul [PDA-I] 20 [PDA-L] Nest, [PDE-B] IT000003254330 [PDE-L] Direct [PT-B] Debit [PT-L]
+£117.43 [PO-U] £1566.75 [B-U] 15 [PDA-B] Jul [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119104699 [PDE-L]
+Direct [PT-B] Debit [PT-L] £247.06 [PO-U] £1319.69 [B-U] 17 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I]
+Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9997.99 [PI-U] £11317.68 [B-U] 20 [PDA-B] Jul [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £10000.00 [PI-U] £21317.68 [B-U] 20 [PDA-B]
+Jul [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £74.02 [PO-U]
+£21243.66 [B-U] 20 [PDA-B] Jul [PDA-I] 20 [PDA-L] Card [PDE-B] 13, [PDE-I] Hmrc [PDE-I] Gov.Uk [PDE-L] Vat [PT-B]
+Card [PT-L] £3239.39 [PO-U] £18004.27 [B-U] 21 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9856.35 [PI-U] £27860.62 [B-U] 21 [PDA-B] Jul [PDA-I] 20 [PDA-L] Nest, [PDE-B]
+IT000003254330 [PDE-L] Direct [PT-B] Debit [PT-L] £30.48 [PO-U] £27830.14 [B-U] 21 [PDA-B] Jul [PDA-I] 20 [PDA-L] Costa [PDE-B]
+- [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £917.00 [PO-U] £26913.14 [B-U] 21 [PDA-B]
+Jul [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £20403.75 [PO-U] £6509.39 [B-U]
+22 [PDA-B] Jul [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119118480 [PDE-L] Direct [PT-B] Debit [PT-L]
+£286.63 [PO-U] £6222.76 [B-U] 27 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L]
+DD [PT-B] Transfer [PT-L] £9856.25 [PI-U] £16079.01 [B-U] 27 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I]
+Global, [PDE-I] Rontec [PDE-L] DD [PT-B] Transfer [PT-L] £9869.85 [PI-U] £25948.86 [B-U] 28 [PDA-B] Jul [PDA-I] 20 [PDA-L]
+Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £917.00 [PO-U] £25031.86 [B-U]
+28 [PDA-B] Jul [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £18166.12 [PO-U]
+£6865.74 [B-U] 28 [PDA-B] Jul [PDA-I] 20 [PDA-L] CHARGES [PDE-U] Charges [PT-U] £20.90 [PO-U] £6844.84 [B-U] 29 [PDA-B]
+Jul [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119131991 [PDE-L] Direct [PT-B] Debit [PT-L] £281.86 [PO-U]
+£6562.98 [B-U] 30 [PDA-B] Jul [PDA-I] 20 [PDA-L] MOB, [PDE-B] Don [PDE-I] Subasinghage, [PDE-I] Bilston [PDE-L] Transfer [PT-U]
+£422.77 [PO-U] £6140.21 [B-U] 31 [PDA-B] Jul [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-L]
+DD [PT-B] Transfer [PT-L] £9986.39 [PI-U] £16126.60 [B-U] Total  debits  £100491.08 [POW-U] Total  credits 
+£112677.48 [PID-U] Closing  balance  £16126.60 [CB-U] Important  information  about  compensation  arrangements 
+We  are  covered  by  the  Financial  Services  Compensation  Scheme 
+(FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Account  number  41649294 [ANU-U] Sort  code  05-06-43 [SC-U] Statement  date  01 [FD-B]
+Jun [FD-I] 20 [FD-L] -  30 [TD-B] Jun [TD-I] 20 [TD-L] STANDARD [AN-B] BUSINESS [AN-L] ARCH [AA-B]
+GLOBAL [AA-I] UK [AA-I] LIMITED [AA-I] 23 [AA-I] DRAGOON [AA-I] ROAD, [AA-I] COVENTRY, [AA-I] CV3 [AA-I] 1PD [AA-L]
+Date  Description  Type  Debits  Credits  Balance  01  Jun  20 
+Opening  Balance  £3017.78 [OB-U] 01 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9672.85 [PI-U] £12690.63 [B-U] 01 [PDA-B] Jun [PDA-I] 20 [PDA-L] Uk [PDE-B]
+Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £136.39 [PO-U] £12554.24 [B-U] 02 [PDA-B] Jun [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1534.04 [PI-U]
+£14088.28 [B-U] 02 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £9623.55 [PI-U] £23711.83 [B-U] 02 [PDA-B] Jun [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I]
+Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £865.00 [PO-U] £22846.83 [B-U] 02 [PDA-B] Jun [PDA-I] 20 [PDA-L]
+Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £16874.95 [PO-U] £5971.88 [B-U] 03 [PDA-B] Jun [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1189.55 [PI-U]
+£7161.43 [B-U] 03 [PDA-B] Jun [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119026958 [PDE-L] Direct [PT-B]
+Debit [PT-L] £254.63 [PO-U] £6906.80 [B-U] 04 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £212.88 [PI-U] £7119.68 [B-U] 04 [PDA-B] Jun [PDA-I] 20 [PDA-L]
+MOB, [PDE-B] Don [PDE-I] Subasinghage, [PDE-I] Bilston [PDE-L] Transfer [PT-U] £463.27 [PO-U] £6656.41 [B-U] 08 [PDA-B] Jun [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9250.44 [PI-U] £15906.85 [B-U]
+08 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U]
+£10000.00 [PI-U] £25906.85 [B-U] 08 [PDA-B] Jun [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L]
+Direct [PT-B] Debit [PT-L] £3.60 [PO-U] £25903.25 [B-U] 08 [PDA-B] Jun [PDA-I] 20 [PDA-L] MOB, [PDE-B] Kent [PDE-I]
+Mart [PDE-I] Limited, [PDE-I] Arul [PDE-L] Transfer [PT-U] £10000.00 [PO-U] £15903.25 [B-U] 09 [PDA-B] Jun [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £1555.91 [PI-U] £17459.16 [B-U]
+09 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] R [PDE-I] Navaratnam, [PDE-I] FOR [PDE-I] DD [PDE-I] SHORT [PDE-L]
+Transfer [PT-U] £3400.00 [PI-U] £20859.16 [B-U] 09 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £30859.16 [B-U] 09 [PDA-B] Jun [PDA-I] 20 [PDA-L] Costa [PDE-B]
+- [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £835.00 [PO-U] £30024.16 [B-U] 09 [PDA-B]
+Jun [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £28400.13 [PO-U] £1624.03 [B-U]
+10 [PDA-B] Jun [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119039990 [PDE-L] Direct [PT-B] Debit [PT-L]
+£274.39 [PO-U] £1349.64 [B-U] 11 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I]
+WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £399.08 [PI-U] £1748.72 [B-U] 11 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £11748.72 [B-U] 11 [PDA-B] Jun [PDA-I]
+20 [PDA-L] MOB, [PDE-B] Arulparam, [PDE-I] L [PDE-L] Transfer [PT-U] £10000.00 [PO-U] £1748.72 [B-U] 12 [PDA-B] Jun [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £97.19 [PI-U]
+£1845.91 [B-U] 12 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £9825.45 [PI-U] £11671.36 [B-U] 15 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9300.00 [PI-U] £20971.36 [B-U] 15 [PDA-B] Jun [PDA-I] 20 [PDA-L] Capital [PDE-B]
+On [PDE-I] Tap, [PDE-I] 4RCNZND [PDE-L] Direct [PT-B] Debit [PT-L] £7943.68 [PO-U] £13027.68 [B-U] 16 [PDA-B] Jun [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £23027.68 [B-U]
+16 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] R [PDE-I] Navaratnam, [PDE-I] FOR [PDE-I] DD [PDE-I] SHORT [PDE-L]
+Transfer [PT-U] £12000.00 [PI-U] £35027.68 [B-U] 16 [PDA-B] Jun [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I]
+Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £835.00 [PO-U] £34192.68 [B-U] 16 [PDA-B] Jun [PDA-I] 20 [PDA-L]
+Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £33018.24 [PO-U] £1174.44 [B-U] FPS,  Rontec 
+Watford,  RONTEC  17 [PDA-B] Jun [PDA-I] 20 [PDA-L] WATFORD [PDE-B] LT [PDE-L] Transfer [PT-U] £609.17 [PI-U]
+£1783.61 [B-U] 17 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £9982.36 [PI-U] £11765.97 [B-U] 17 [PDA-B] Jun [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I]
+3119053007 [PDE-L] Direct [PT-B] Debit [PT-L] £301.37 [PO-U] £11464.60 [B-U] 19 [PDA-B] Jun [PDA-I] 20 [PDA-L] Tetrosyl [PDE-B]
+Ltd, [PDE-I] 4740000 [PDE-L] Direct [PT-B] Debit [PT-L] £839.38 [PO-U] £10625.22 [B-U] 22 [PDA-B] Jun [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9999.99 [PI-U] £20625.21 [B-U] 22 [PDA-B]
+Jun [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £65.68 [PO-U]
+£20559.53 [B-U] 23 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £8600.15 [PI-U] £29159.68 [B-U] 23 [PDA-B] Jun [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I]
+Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £835.00 [PO-U] £28324.68 [B-U] 23 [PDA-B] Jun [PDA-I] 20 [PDA-L]
+Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £25206.25 [PO-U] £3118.43 [B-U] 24 [PDA-B] Jun [PDA-I]
+20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119065989 [PDE-L] Direct [PT-B] Debit [PT-L] £306.97 [PO-U] £2811.46 [B-U]
+25 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L]
+Transfer [PT-U] £54.45 [PI-U] £2865.91 [B-U] 25 [PDA-B] Jun [PDA-I] 20 [PDA-L] CHARGES [PDE-U] Charges [PT-U] £22.10 [PO-U]
+£2843.81 [B-U] 29 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £9400.00 [PI-U] £12243.81 [B-U] 29 [PDA-B] Jun [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9998.00 [PI-U] £22241.81 [B-U] 29 [PDA-B] Jun [PDA-I] 20 [PDA-L] Uk [PDE-B]
+Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £59.42 [PO-U] £22182.39 [B-U] 30 [PDA-B] Jun [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £665.04 [PI-U]
+£22847.43 [B-U] 30 [PDA-B] Jun [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L]
+Direct [PT-B] Debit [PT-L] £835.00 [PO-U] £22012.43 [B-U] 30 [PDA-B] Jun [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I]
+2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £18072.23 [PO-U] £3940.20 [B-U] Total  debits  £156447.68 [POW-U] Total 
+credits  £157370.10 [PID-U] Closing  balance  £3940.20 [CB-U] Important  information  about  compensation 
+arrangements  We  are  covered  by  the  Financial  Services  Compensation 
+Scheme  (FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Account  number  41649294 [ANU-U] Sort  code  05-06-43 [SC-U] Statement  date  01 [FD-B]
+May [FD-I] 20 [FD-L] -  31 [TD-B] May [TD-I] 20 [TD-L] STANDARD [AN-B] BUSINESS [AN-L] ARCH [AA-B]
+GLOBAL [AA-I] UK [AA-I] LIMITED [AA-I] 23 [AA-I] DRAGOON [AA-I] ROAD, [AA-I] COVENTRY, [AA-I] CV3 [AA-I] 1PD [AA-L]
+Date  Description  Type  Debits  Credits  Balance  01  May  20 
+Opening  Balance  £4932.88 [OB-U] 01 [PDA-B] May [PDA-I] 20 [PDA-L] Tetrosyl [PDE-B] Ltd, [PDE-I] 4740000 [PDE-L]
+Direct [PT-B] Debit [PT-L] £982.08 [PO-U] £3950.80 [B-U] 04 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I]
+Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £13950.80 [B-U] 04 [PDA-B] May [PDA-I] 20 [PDA-L]
+Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £69.71 [PO-U] £13881.09 [B-U] 05 [PDA-B]
+May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U]
+£266.45 [PI-U] £14147.54 [B-U] 05 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] R [PDE-I] Navaratnam, [PDE-I] FOR [PDE-I]
+DD [PDE-I] SHORT [PDE-L] Transfer [PT-U] £2500.00 [PI-U] £16647.54 [B-U] 05 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £10000.00 [PI-U] £26647.54 [B-U] 05 [PDA-B] May [PDA-I]
+20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £552.00 [PO-U]
+£26095.54 [B-U] 05 [PDA-B] May [PDA-I] 20 [PDA-L] Card [PDE-B] 13, [PDE-I] Costco [PDE-I] Wholesale [PDE-I] Uk [PDE-L]
+Card [PT-U] £2328.61 [PO-U] £23766.93 [B-U] 05 [PDA-B] May [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L]
+Direct [PT-B] Debit [PT-L] £23377.41 [PO-U] £389.52 [B-U] 06 [PDA-B] May [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I]
+260574 [PDE-I] 3118974952 [PDE-L] Direct [PT-B] Debit [PT-L] £292.43 [PO-U] £97.09 [B-U] 07 [PDA-B] May [PDA-I] 20 [PDA-L]
+FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £773.23 [PI-U] £870.32 [B-U]
+07 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U]
+£10000.00 [PI-U] £10870.32 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] BRANCH [PDE-U] Transfer [PT-U] £50000.00 [PI-U] £60870.32 [B-U]
+11 [PDA-B] May [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L]
+£58.90 [PO-U] £60811.42 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] Card [PDE-B] 13, [PDE-I] Www.Capitalontap.Com [PDE-L] Card [PT-U]
+£5837.08 [PO-U] £54974.34 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B] Shikala, [PDE-I] Bilston [PDE-L] Transfer [PT-U]
+£463.07 [PO-U] £54511.27 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B] Rajni, [PDE-I] Bilston [PDE-L] Transfer [PT-U]
+£492.00 [PO-U] £54019.27 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B] Surinder [PDE-I] Kaur, [PDE-I] BILSTON [PDE-L]
+Transfer [PT-U] £521.47 [PO-U] £53497.80 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B] Michael [PDE-I] Hutchinson, [PDE-I]
+BILSTON [PDE-L] Transfer [PT-U] £662.72 [PO-U] £52835.08 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B] Manjit [PDE-I]
+Sondhi, [PDE-I] BILSTON [PDE-L] Transfer [PT-U] £697.60 [PO-U] £52137.48 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B]
+Victoria [PDE-I] Bond, [PDE-I] BILSTON [PDE-I] Dav [PDE-L] Transfer [PT-U] £987.80 [PO-U] £51149.68 [B-U] 11 [PDA-B] May [PDA-I]
+20 [PDA-L] MOB, [PDE-B] Arul, [PDE-I] L [PDE-L] Transfer [PT-U] £25000.00 [PO-U] £26149.68 [B-U] 12 [PDA-B] May [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £319.31 [PI-U]
+£26468.99 [B-U] 12 [PDA-B] May [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L]
+Direct [PT-B] Debit [PT-L] £865.00 [PO-U] £25603.99 [B-U] 12 [PDA-B] May [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I]
+2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £12141.90 [PO-U] £13462.09 [B-U] 12 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B]
+Arul, [PDE-I] L [PDE-L] Transfer [PT-U] £10000.00 [PO-U] £3462.09 [B-U] 13 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £903.05 [PI-U] £4365.14 [B-U] 13 [PDA-B]
+May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U]
+£2219.42 [PI-U] £6584.56 [B-U] 13 [PDA-B] May [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3118987945 [PDE-L]
+Direct [PT-B] Debit [PT-L] £281.32 [PO-U] £6303.24 [B-U] 15 [PDA-B] May [PDA-I] 20 [PDA-L] Tetrosyl [PDE-B] Ltd, [PDE-I]
+4740000 [PDE-L] Direct [PT-B] Debit [PT-L] £751.86 [PO-U] £5551.38 [B-U] 18 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £7935.34 [PI-U] £13486.72 [B-U] 18 [PDA-B] May [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9989.85 [PI-U] £23476.57 [B-U]
+18 [PDA-B] May [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L]
+£56.56 [PO-U] £23420.01 [B-U] 19 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I]
+DD [PDE-L] Transfer [PT-U] £1263.50 [PI-U] £24683.51 [B-U] 19 [PDA-B] May [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I]
+2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £23806.04 [PO-U] £877.47 [B-U] 20 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £4300.25 [PI-U] £5177.72 [B-U] 20 [PDA-B] May [PDA-I]
+20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119000958 [PDE-L] Direct [PT-B] Debit [PT-L] £286.42 [PO-U] £4891.30 [B-U]
+20 [PDA-B] May [PDA-I] 20 [PDA-L] Booker [PDE-B] Ltd [PDE-I] -Bk, [PDE-I] 0728755884 [PDE-L] Direct [PT-B] Debit [PT-L]
+£2109.86 [PO-U] £2781.44 [B-U] 21 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I]
+WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £753.84 [PI-U] £3535.28 [B-U] 21 [PDA-B] May [PDA-I] 20 [PDA-L] Costa [PDE-B]
+- [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £865.00 [PO-U] £2670.28 [B-U] 22 [PDA-B]
+May [PDA-I] 20 [PDA-L] Tetrosyl [PDE-B] Ltd, [PDE-I] 4740000 [PDE-L] Direct [PT-B] Debit [PT-L] £359.28 [PO-U] £2311.00 [B-U]
+26 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L]
+Transfer [PT-U] £234.03 [PI-U] £2545.03 [B-U] 26 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I]
+Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £6044.22 [PI-U] £8589.25 [B-U] 26 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B]
+Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L] Transfer [PT-U] £9600.35 [PI-U] £18189.60 [B-U] 27 [PDA-B] May [PDA-I]
+20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £393.80 [PI-U]
+£18583.40 [B-U] 27 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Arch [PDE-I] Global, [PDE-I] Rontec [PDE-I] DD [PDE-L]
+Transfer [PT-U] £485.30 [PI-U] £19068.70 [B-U] 27 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I]
+RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-L] Transfer [PT-U] £2781.35 [PI-U] £21850.05 [B-U] 27 [PDA-B] May [PDA-I] 20 [PDA-L]
+Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119013656 [PDE-L] Direct [PT-B] Debit [PT-L] £320.39 [PO-U] £21529.66 [B-U] 27 [PDA-B]
+May [PDA-I] 20 [PDA-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L]
+£865.00 [PO-U] £20664.66 [B-U] 27 [PDA-B] May [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L] Direct [PT-B]
+Debit [PT-L] £17722.06 [PO-U] £2942.60 [B-U] 28 [PDA-B] May [PDA-I] 20 [PDA-L] Nest, [PDE-B] IT000003254330 [PDE-L] Direct [PT-B]
+Debit [PT-L] £25.90 [PO-U] £2916.70 [B-U] 28 [PDA-B] May [PDA-I] 20 [PDA-L] CHARGES [PDE-U] Charges [PT-U] £22.10 [PO-U]
+£2894.60 [B-U] 29 [PDA-B] May [PDA-I] 20 [PDA-L] FPS, [PDE-B] Rontec [PDE-I] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I]
+LTD [PDE-L] Transfer [PT-U] £505.59 [PI-U] £3400.19 [B-U] 29 [PDA-B] May [PDA-I] 20 [PDA-L] Tetrosyl [PDE-B] Ltd, [PDE-I]
+4740000 [PDE-L] Direct [PT-B] Debit [PT-L] £382.41 [PO-U] £3017.78 [B-U] Total  debits  £133183.98 [POW-U] Total 
+credits  £131268.88 [PID-U] Closing  balance  £3017.78 [CB-U] Important  information  about  compensation 
+arrangements  We  are  covered  by  the  Financial  Services  Compensation 
+Scheme  (FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Account  number  10824206 [ANU-U] Sort  code  05-03-03 [SC-U] Statement  date  01 [FD-B]
+May [FD-I] 20 [FD-L] -  31 [TD-B] May [TD-I] 20 [TD-L] STANDARD [AT-B] BUSINESS [AT-L] BRADFORD [AN-B]
+BAZAAR [AN-I] LIMITED [AN-L] 36 [AA-B] CEMETERY [AA-I] ROAD, [AA-I] BRADFORD, [AA-I] BD8 [AA-I] 9RY [AA-L] Date 
+Description  Type  Debits  Credits  Balance  01 [PDA-B] May [PDA-I] 20 [PDA-L] Opening [PDE-B]
+Balance [PDE-L] £122986.58 [B-U] 01 [PDA-B] May [PDA-I] 20 [PDA-L] Tv [PDE-B] Licence [PDE-I] Mbp, [PDE-I] 3761329707 [PDE-L]
+Direct [PT-B] Debit [PT-L] £13.20 [PO-U] £122973.38 [B-U] 01 [PDA-B] May [PDA-I] 20 [PDA-L] Sippdeal [PDE-B] Trustees, [PDE-I]
+15978766/1 [PDE-L] Direct [PT-B] Debit [PT-L] £500.00 [PO-U] £122473.38 [B-U] 01 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B]
+Beata [PDE-I] Malinowska, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £105.08 [PO-U] £122368.30 [B-U] 01 [PDA-B] May [PDA-I] 20 [PDA-L]
+BOL, [PDE-B] Debbie [PDE-I] Lister, [PDE-I] Wages [PDE-L] Transfer [PT-U] £163.70 [PO-U] £122204.60 [B-U] 01 [PDA-B] May [PDA-I]
+20 [PDA-L] BOL, [PDE-B] Samreen [PDE-I] Shahzadi, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £157.20 [PO-U] £122047.40 [B-U] 04 [PDA-B]
+May [PDA-I] 20 [PDA-L] I [PDE-B] K [PDE-I] Associates [PDE-I] Uk, [PDE-I] INVOICE [PDE-I] Standing [PDE-L] Order [PT-U]
+£100.00 [PO-U] £121947.40 [B-U] 04 [PDA-B] May [PDA-I] 20 [PDA-L] Anita [PDE-B] Kaur, [PDE-I] WAGES [PDE-I] Standing [PDE-L]
+Order [PT-U] £117.00 [PO-U] £121830.40 [B-U] 04 [PDA-B] May [PDA-I] 20 [PDA-L] Jasvinder [PDE-B] Pal [PDE-I] Sing, [PDE-I]
+DIRECTORS [PDE-I] PERSONAL [PDE-I] Standing [PDE-L] Order [PT-U] £1000.00 [PO-U] £120830.40 [B-U] 05 [PDA-B] May [PDA-I] 20 [PDA-L]
+Intuit [PDE-B] Limited, [PDE-I] 002HWFS16000A00RT [PDE-L] Direct [PT-B] Debit [PT-L] £9.60 [PO-U] £120820.80 [B-U] 11 [PDA-B] May [PDA-I]
+20 [PDA-L] I [PDE-B] K [PDE-I] Associates [PDE-I] Uk, [PDE-I] INVOICE [PDE-I] Standing [PDE-L] Order [PT-U] £100.00 [PO-U]
+£120720.80 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] Anita [PDE-B] Kaur, [PDE-I] WAGES [PDE-I] Standing [PDE-L] Order [PT-U]
+£117.00 [PO-U] £120603.80 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] Jasvinder [PDE-B] Pal [PDE-I] Sing, [PDE-I] DIRECTORS [PDE-I]
+PERSONAL [PDE-I] Standing [PDE-L] Order [PT-U] £1000.00 [PO-U] £119603.80 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B]
+Beata [PDE-I] Malinowska, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £105.08 [PO-U] £119498.72 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L]
+BOL, [PDE-B] Debbie [PDE-I] Lister, [PDE-I] Wages [PDE-L] Transfer [PT-U] £163.70 [PO-U] £119335.02 [B-U] 11 [PDA-B] May [PDA-I]
+20 [PDA-L] BOL, [PDE-B] M [PDE-I] Akram, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £211.92 [PO-U] £119123.10 [B-U] 11 [PDA-B]
+May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Mr [PDE-I] Khurram [PDE-I] Khan, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £262.53 [PO-U]
+£118860.57 [B-U] 11 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Samreen [PDE-I] Shahzadi, [PDE-I] WAGES [PDE-L] Transfer [PT-U]
+£157.20 [PO-U] £118703.37 [B-U] 15 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Beata [PDE-I] Malinowska, [PDE-I] WAGES [PDE-L]
+Transfer [PT-U] £105.08 [PO-U] £118598.29 [B-U] 15 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Debbie [PDE-I] Lister, [PDE-I]
+Wags [PDE-L] Transfer [PT-U] £163.70 [PO-U] £118434.59 [B-U] 15 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] M [PDE-I]
+Akram, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £211.92 [PO-U] £118222.67 [B-U] 15 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B]
+Mr [PDE-I] Khurram [PDE-I] Khan, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £262.53 [PO-U] £117960.14 [B-U] 15 [PDA-B] May [PDA-I]
+20 [PDA-L] BOL, [PDE-B] Samreen [PDE-I] Shahzadi, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £157.20 [PO-U] £117802.94 [B-U] 18 [PDA-B]
+May [PDA-I] 20 [PDA-L] Scottish [PDE-B] Equitable, [PDE-I] 96893214 [PDE-L] Direct [PT-B] Debit [PT-L] £55.83 [PO-U] £117747.11 [B-U]
+18 [PDA-B] May [PDA-I] 20 [PDA-L] I [PDE-B] K [PDE-I] Associates [PDE-I] Uk, [PDE-I] INVOICE [PDE-I] Standing [PDE-L]
+Order [PT-U] £100.00 [PO-U] £117647.11 [B-U] 18 [PDA-B] May [PDA-I] 20 [PDA-L] Anita [PDE-B] Kaur, [PDE-I] WAGES [PDE-I]
+Standing [PDE-L] Order [PT-U] £117.00 [PO-U] £117530.11 [B-U] 18 [PDA-B] May [PDA-I] 20 [PDA-L] Jasvinder [PDE-B] Pal [PDE-I]
+Sing, [PDE-I] DIRECTORS [PDE-I] PERSONAL [PDE-I] Standing [PDE-L] Order [PT-U] £1000.00 [PO-U] £116530.11 [B-U] 19 [PDA-B] May [PDA-I]
+20 [PDA-L] MOB, [PDE-B] Umar [PDE-I] Ali, [PDE-I] Umar [PDE-L] Transfer [PT-U] £110.00 [PO-U] £116420.11 [B-U] 22 [PDA-B]
+May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Beata [PDE-I] Malinowska, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £105.08 [PO-U] £116315.03 [B-U]
+22 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Debbie [PDE-I] Lister, [PDE-I] Wages [PDE-L] Transfer [PT-U] £163.70 [PO-U]
+£116151.33 [B-U] 22 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] M [PDE-I] Akram, [PDE-I] WAGES [PDE-L] Transfer [PT-U]
+£211.92 [PO-U] £115939.41 [B-U] 22 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Mr [PDE-I] Khurram [PDE-I] Khan, [PDE-I]
+WAGES [PDE-L] Transfer [PT-U] £262.53 [PO-U] £115676.88 [B-U] 22 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Samreen [PDE-I]
+Shahzadi, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £157.20 [PO-U] £115519.68 [B-U] 26 [PDA-B] May [PDA-I] 20 [PDA-L] I [PDE-B]
+K [PDE-I] Associates [PDE-I] Uk, [PDE-I] INVOICE [PDE-I] Standing [PDE-L] Order [PT-U] £100.00 [PO-U] £115419.68 [B-U] 26 [PDA-B]
+May [PDA-I] 20 [PDA-L] Anita [PDE-B] Kaur, [PDE-I] WAGES [PDE-I] Standing [PDE-L] Order [PT-U] £117.00 [PO-U] £115302.68 [B-U]
+26 [PDA-B] May [PDA-I] 20 [PDA-L] Kinex, [PDE-B] 949011 [PDE-L] Direct [PT-B] Debit [PT-L] £136.73 [PO-U] £115165.95 [B-U]
+26 [PDA-B] May [PDA-I] 20 [PDA-L] Jasvinder [PDE-B] Pal [PDE-I] Sing, [PDE-I] DIRECTORS [PDE-I] PERSONAL [PDE-I] Standing [PDE-L]
+Order [PT-U] £1000.00 [PO-U] £114165.95 [B-U] 26 [PDA-B] May [PDA-I] 20 [PDA-L] MOB, [PDE-B] Funterior, [PDE-I] Aslam [PDE-L]
+Transfer [PT-U] £2000.00 [PO-U] £112165.95 [B-U] 27 [PDA-B] May [PDA-I] 20 [PDA-L] HMRC [PDE-B] JRS [PDE-I] GRANT [PDE-L]
+Giro [PT-U] £2160.57 [PI-U] £114326.52 [B-U] 27 [PDA-B] May [PDA-I] 20 [PDA-L] BRANCH [PDE-U] Transfer [PT-U] £50000.00 [PI-U]
+£164326.52 [B-U] 28 [PDA-B] May [PDA-I] 20 [PDA-L] CHARGES [PDE-U] Charges [PT-U] £22.00 [PO-U] £164304.52 [B-U] 29 [PDA-B]
+May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Bharat [PDE-I] Restaurant [PDE-I] Bar [PDE-I] & [PDE-I] Grill [PDE-I] Ltd, [PDE-I]
+MB [PDE-I] Funterior [PDE-L] Transfer [PT-U] £2000.00 [PI-U] £166304.52 [B-U] 29 [PDA-B] May [PDA-I] 20 [PDA-L] Business [PDE-B]
+Stream, [PDE-I] 9010404801 [PDE-L] Direct [PT-B] Debit [PT-L] £560.52 [PO-U] £165744.00 [B-U] 29 [PDA-B] May [PDA-I] 20 [PDA-L]
+BOL, [PDE-B] Beata [PDE-I] Malinowska, [PDE-I] WAGES [PDE-L] Transfer [PT-U] £105.08 [PO-U] £165638.92 [B-U] 29 [PDA-B] May [PDA-I]
+20 [PDA-L] BOL, [PDE-B] Debbie [PDE-I] Lister, [PDE-I] Wages [PDE-L] Transfer [PT-U] £163.70 [PO-U] £165475.22 [B-U] 29 [PDA-B]
+May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Miss [PDE-I] S [PDE-I] K [PDE-I] Zainab, [PDE-I] WAGES [PDE-L] Transfer [PT-U]
+£1343.04 [PO-U] £164132.18 [B-U] 29 [PDA-B] May [PDA-I] 20 [PDA-L] BOL, [PDE-B] Samreen [PDE-I] Shahzadi, [PDE-I] WAGES [PDE-L]
+Transfer [PT-U] £157.20 [PO-U] £163974.98 [B-U] Total  debits  £13172.17 [POW-U] Total  credits  £54160.57 [PID-U]
+Closing  balance  £163974.98 [CB-U] Important  information  about  compensation  arrangements  We 
+are  covered  by  the  Financial  Services  Compensation  Scheme  (FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Account  number  41649294 [ANU-U] Sort  code  05-06-43 [SC-U] Statement  date  01 [FD-B]
+Sep [FD-I] 20 [FD-L] -  08 [TD-B] Sep [TD-I] 20 [TD-L] STANDARD [AN-B] BUSINESS [AN-L] ARCH [AA-B]
+GLOBAL [AA-I] UK [AA-I] LIMITED [AA-I] 23 [AA-I] DRAGOON [AA-I] ROAD, [AA-I] COVENTRY, [AA-I] CV3 [AA-I] 1PD [AA-L]
+Date  Description  Type  Debits  Credits  Balance  01 [FD-B] Sep [FD-I] 20 [FD-L]
+Opening  Balance  £1841.35 [OB-U] 01 [FD-B] Sep [FD-I] 20 [FD-L] FPS [PT-U] ,  Roofoods [PDE-B]
+Limited [PDE-I] Transfer [PDE-L] £3.81 [PI-U] £1845.16 [B-U] 01 [FD-B] Sep [FD-I] 20 [FD-L] FPS [PT-U] , 
+Roofoods [PDE-B] Limited [PDE-I] Transfer [PDE-L] £31.14 [PI-U] £1876.30 [B-U] 01 [FD-B] Sep [FD-I] 20 [FD-L] FPS [PT-U]
+,  Roofoods [PDE-B] Limited [PDE-I] Transfer [PDE-L] £38.40 [PI-U] £1914.70 [B-U] 01 [FD-B] Sep [FD-I] 20 [FD-L]
+FPS [PT-U] ,  Roofoods [PDE-B] Limited [PDE-I] Transfer [PDE-L] £44.21 [PI-U] £1958.91 [B-U] 01 [FD-B] Sep [FD-I]
+20 [FD-L] FPS [PT-U] ,  Arch [PDE-B] Global, [PDE-I] Rontec [PDE-I] DD [PDE-I] Transfer [PDE-L] £10000.00 [PI-U]
+£11958.91 [B-U] 01 [FD-B] Sep [FD-I] 20 [FD-L] Uk [PDE-B] Fuels [PDE-I] Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B]
+Debit [PT-L] £59.70 [PO-U] £11899.21 [B-U] 01 [FD-B] Sep [FD-I] 20 [FD-L] Tetrosyl [PDE-B] Ltd, [PDE-I] 4740000 [PDE-L]
+Direct [PT-B] Debit [PT-L] £617.61 [PO-U] £11281.60 [B-U] 01 [FD-B] Sep [FD-I] 20 [FD-L] Costa [PDE-B] - [PDE-I]
+Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B] Debit [PT-L] £622.00 [PO-U] £10659.60 [B-U] 02 [PDA-B] Sep [PDA-I]
+20 [PDA-L] FPS [PT-U] ,  Rontec [PDE-B] Watford, [PDE-I] RONTEC [PDE-I] WATFORD [PDE-I] LTD [PDE-I] Transfer [PDE-L]
+£33.98 [PI-U] £10693.58 [B-U] 02 [PDA-B] Sep [PDA-I] 20 [PDA-L] FPS [PT-U] ,  Roofoods [PDE-B] Limited [PDE-I]
+Transfer [PDE-L] £51.47 [PI-U] £10745.05 [B-U] 02 [PDA-B] Sep [PDA-I] 20 [PDA-L] FPS [PT-U] ,  R [PDE-B]
+Navaratnam, [PDE-I] FOR [PDE-I] DD [PDE-I] SHORT [PDE-I] Transfer [PDE-L] £3000.00 [PI-U] £13745.05 [B-U] 02 [PDA-B] Sep [PDA-I]
+20 [PDA-L] FPS [PT-U] ,  Arch [PDE-B] Global, [PDE-I] Rontec [PDE-I] DD [PDE-I] Transfer [PDE-L] £10000.00 [PI-U]
+£23745.05 [B-U] 02 [PDA-B] Sep [PDA-I] 20 [PDA-L] Smiths [PDE-B] News, [PDE-I] 260574 [PDE-I] 3119197595 [PDE-L] Direct [PT-B]
+Debit [PT-L] £269.65 [PO-U] £23475.4 [B-U] 0  02 [PDA-B] Sep [PDA-I] 20 [PDA-L] Rontec, [PDE-B] 2002094 [PDE-I]
+2002094 [PDE-L] Direct [PT-B] Debit [PT-L] £22085.82 [PO-U] £1389.58 [B-U] 03 [PDA-B] Sep [PDA-I] 20 [PDA-L] FPS [PT-U]
+,  Roofoods [PDE-B] Limited [PDE-I] Transfer [PDE-L] £59.97 [PI-U] £1449.55 [B-U] 03 [PDA-B] Sep [PDA-I] 20 [PDA-L]
+FPS [PT-U] ,  Arch [PDE-B] Global, [PDE-I] Rontec [PDE-I] DD [PDE-I] Transfer [PDE-L] £9856.85 [PI-U] £11306.40 [B-U]
+04 [PDA-B] Sep [PDA-I] 20 [PDA-L] FPS [PT-U] ,  Roofoods [PDE-B] Limited [PDE-I] Transfer [PDE-L] £56.91 [PI-U]
+£11363.31 [B-U] 07 [PDA-B] Sep [PDA-I] 20 [PDA-L] FPS [PT-U] ,  Arch [PDE-B] Global, [PDE-I] Rontec [PDE-I]
+DD [PDE-I] Transfer [PDE-L] £10000.00 [PI-U] £21363.31 [B-U] 07 [PDA-B] Sep [PDA-I] 20 [PDA-L] Uk [PDE-B] Fuels [PDE-I]
+Ltd, [PDE-I] 01097148 [PDE-L] Direct [PT-B] Debit [PT-L] £43.25 [PO-U] £21320.06 [B-U] 07 [PDA-B] Sep [PDA-I] 20 [PDA-L]
+MOB, [PDE-B] Hmrc [PDE-I] Paye, [PDE-I] 120PG013301022103 [PDE-I] Transfer [PDE-L] £412.72 [PO-U] £20907.34 [B-U] 07 [PDA-B] Sep [PDA-I]
+20 [PDA-L] MOB, [PDE-B] Hmrc [PDE-I] Paye, [PDE-I] 120PG013301022104 [PDE-I] Transfer [PDE-L] £424.80 [PO-U] £20482.54 [B-U] 07 [PDA-B]
+Sep [PDA-I] 20 [PDA-L] MOB, [PDE-B] Hmrc [PDE-I] Paye, [PDE-I] 120PG013301022101 [PDE-I] Transfer [PDE-L] £427.09 [PO-U] £20055.45 [B-U]
+07 [PDA-B] Sep [PDA-I] 20 [PDA-L] MOB, [PDE-B] Hmrc [PDE-I] Paye, [PDE-I] 120PG013301022012 [PDE-I] Transfer [PDE-L] £480.63 [PO-U]
+£  19574.82 [B-U] 07 [PDA-B] Sep [PDA-I] 20 [PDA-L] MOB, [PDE-B] Hmrc [PDE-I] Paye, [PDE-I] 120PG013301022011 [PDE-I]
+Transfer [PDE-L] £709.58 [PO-U] £18865.24 [B-U] 07 [PDA-B] Sep [PDA-I] 20 [PDA-L] MOB, [PDE-B] Hmrc [PDE-I] Paye, [PDE-I]
+120PG013301022102 [PDE-I] Transfe [PDE-L] r [PT-U] £922.35 [PO-U] £17942.89 [B-U] 08 [TD-B] Sep [TD-I] 20 [TD-L] FPS [PT-U]
+,  Arch [PDE-B] Global, [PDE-I] Rontec [PDE-I] DD [PDE-I] Transfer [PDE-L] £6958.88 [PI-U] £24901.7 [B-U] 7 
+08 [TD-B] Sep [TD-I] 20 [TD-L] Costa [PDE-B] - [PDE-I] Costa [PDE-I] Expr, [PDE-I] 62369RONTECBILSTON [PDE-L] Direct [PT-B]
+Debit [PT-L] £595.00 [PO-U] £24306.77 [B-U] 08 [TD-B] Sep [TD-I] 20 [TD-L] Rontec, [PDE-B] 2002094 [PDE-I] 2002094 [PDE-L]
+Direct [PT-B] Debit [PT-L] £22144.07 [PO-U] £2162.70 [B-U] Total  debits  £49814.27 [POW-U] Total  credits 
+£50135.62 [PID-U] Closing  balance  £2162.70 [B-U] Important  information  about  compensation  arrangements 
+We  are  covered  by  the  Financial  Services  Compensation  Scheme 
+(FSCS).
+The  FSCS  can  pay  compensation  to  depositors  if  a  bank  is  unable  to  meet  its  financial  obligations.
+Your  deposit  is  covered  by  the  scheme.
+Details  on  the  protection  of  eligible  deposits  can  be 
+found  in  the  information  sheet  and  deposits  excluded  from 
+the  scheme  can  be  found  in  the  exclusion  list 
+which  can  be  obtained  from  your  local  branch.
+For  further  information  about  the  compensation  provided  by  the  FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk.
+Interest  rate  information  Arranged  Overdraft  interest  rates  apply  to 
+the  amount  of  any  borrowing,  up  to  your  Arranged 
+Overdraft  limit.
+Unarranged  Overdraft  interest  rates  apply  to  any  borrowing  which 
+is  the  result  of  our  agreeing  to  a  request 
+from  you  for  a  temporary  Unarranged  Overdraft  or  temporary 
+increase  to  an  existing  Arranged  Overdraft  to  cover  a 
+payment  despite  lack  of  funds.
+Interest  rates  applicable  during  the  statement  period  are  available 
+on  request,  please  call  the  team  at  Yorkshire  Bank 
+on  <  strong>0800  456  1247<  /strong>  or  <  strong>+44 
+141  951  7315<  /strong>.
+Dispute  resolution  If  you  have  a  complaint,  please  talk 
+to  us  first  so  that  we  can  try  to 
+resolve  it.
+If  you  are  not  happy  with  the  way  we 
+handled  your  complaint  or  the  result,  you  can  then 
+refer  the  matter  to  the  Financial  Ombudsman  Service.
+The  Financial  Ombudsman  Service  is  an  independent  organisation  that 
+helps  resolve  complaints  that  customers  and  financial  institutions  haven't 
+been  able  to  solve  themselves.
+Summary  of  charges  for  the  period  01 [ID-B] APR [ID-I] 2020 [ID-L]
+Metro  Bank  Commercial [AT-B] Account [AT-L] Statement  BIC:  The  total  charge 
+for  this  account  during  this  period  is  £0.00 [CB-U] How 
+your  total  charge  has  been  calculated:  Monthly  maintenance  fee: 
+Online  banking  fee,  if  applicable:  Transaction  charges:  Cash  charges: 
+Instant  overdraft  charges:  Interest  charged:  Post  Office  Change  Giving 
+Charges:  Post  Office  Setup  Fee:  FX  Platform  Monthly  Fee 
+Total  charges:  Transaction  charges  Sub  Total  Cash  charges  Sub 
+Total  Transaction  charges  summary  MYMBGB2L  BRIGHTON [AN-B] DEVELOPMENTS [AN-I] LIMITED [AN-L] 6 [AA-B]
+BLOOMSBURY [AA-I] SQUARE [AA-I] LONDON [AA-I] WC1A [AA-I] 2LP [AA-L] IBAN:  GB73MYMB23058027648665 [IBAN-U] to  30 [PDA-B]
+APR [PDA-I] 2020 [PDA-L] Volume  Amount  (£)  Metro  Bank  Commercial [AT-B] Account [AT-L]
+number  Sort  code  Statement  date  Overdraft  limit  £0.00 [CB-B] £0.00 [CB-I]
+£0.00 [CB-I] £0.00 [CB-I] £0.00 [CB-I] £0.00 [CB-I] £0.00 [CB-I] £0.00 [CB-I] £0.00 [CB-I] £0.00 [CB-L] Price 
+(£)  %  Charge  metrobank  One  Southampton  Row  MBS5C_11790185@00006598  1030 
+London  WC1B  5HA  T:  0345  08  08  500  Charge 
+(£)  Charge  (£)  online.co.uk  30 [PDA-B] APR [PDA-I] 2020 [PDA-L] 27648665 [ANU-U] 23-05-80 [SC-U]
+£0.00 [CB-U] 0.00  0.00  Statement  number  Metro  Bank  Commercial [AT-B] Account [AT-L]
+number  Sort  code  This  document  sets  out  the  charges 
+and  interest  that  have  accrued  on  your  account  within 
+the  above  period.There  are  5  types  of  charge:  1.
+2.
+Information  Summary  for  Commercial  Online  Banking  for  more  details  3.
+Information  Summary  for  further  details.
+4.  further  details.
+5.
+6.  overdraft  facility  letter)  is  charged.
+Please  see  Commercial  Bank  Account  Important  Information  Summary  for  any  additional  charges  applicable  to  your  account.
+Should  you  require  information  about  the  calculation  of  debit 
+interest  (if  any)  deducted  from  your  account  and  detailed 
+in  this  statement  please  contact  us.
+Should  you  have  any  queries  regarding  your  statement  or 
+any  transaction  on  your  statement,  we  love  to  hear 
+from  you.
+Please  call  us  on  0345  08  08  500  (or 
++44  20  3402  8312  outside  the  UK),  or  visit 
+one  of  our  stores.
+*EAR  stands  for  Effective  Annual  Rate  and  illustrates  what 
+the  interest  rate  on  the  overdraft  would  be  if 
+interest  was  charged  and  added  to  the  amount  owed 
+once  each  year.
+It  does  not  take  into  account  fees  and  charges.
+‘Monthly  maintenance  fee’  ‘Online  banking  fee’  ‘Transaction  charges’  ‘Cash 
+charges’  ‘Instant  Overdraft  Charges’  ‘Agreed  Overdraft  Charges’  •  When 
+a  transaction  creates  or  increases  an  instant  overdraft  - 
+debit  interest  at  25%  EAR*  is  charged  and  we 
+may  make  a  ‘paid  item  charge’;  and  •  When 
+we  refuse  to  allow  a  transaction  because  it  would 
+have  created  or  increased  an  instant  overdraft  -  ‘unpaid 
+item  charges’  may  be  charged.
+–  incurred  when  you  bank  or  withdraw  cash  - 
+please  see  Commercial [AT-B] Account [AT-L] Important  Information  Summary  for  - 
+-  these  are  incurred  when  you  make  certain  types 
+of  transaction  -  please  see  Commercial [AT-B] Account [AT-L] Important  this 
+is  applied  if  you  have  subscribed  to  our  Commercial 
+Online  Banking  service  -  please  see  our  Important  - 
+please  see  the  Commercial [AT-B] Account [AT-L] Important  Information  Summary  for 
+information  on  the  monthly  fee.
+-  these  are  incurred  as  follows:  -  these  are 
+incurred  when  you  use  your  agreed  overdraft  facility  - 
+debit  interest  (as  set  out  in  your  agreed  27648665 [ANU-U]
+23-05-80 [SC-U] 26  MBS5C_11790185@00006598  1030  Metro  Bank  Commercial [AT-B] Account [AT-L] Statement 
+BIC:  Your  account  summary  From:  Opening  balance  Total  money 
+in  Total  money  out  End  balance  Date  28  APR 
+2020  Your  transactions  MYMBGB2L  BRIGHTON [AN-B] DEVELOPMENTS [AN-I] LIMITED [AN-L] 6 [AA-B] BLOOMSBURY [AA-I]
+SQUARE [AA-I] LONDON [AA-I] WC1A [AA-I] 2LP [AA-L] 01 [ID-B] APR [ID-I] 2020 [ID-L] IBAN:  Transaction 
+Balance  brought  forward  Transaction  Charges  Closing  Balance  GB73MYMB23058027648665 [IBAN-U] To: 
+30 [PDA-B] APR [PDA-I] 2020 [PDA-L] £185.53 [PI-U] £174.53 [PO-B] £11.00 [PO-L] £0.00 [CB-U] ACCOUNT  NAME: 
+Account  number  Sort  code  Statement  number  Overdraft  limit  Money 
+out  (£)  11.00 [PO-U] BRIGHTON [AN-B] DEVELOPMENTS [AN-I] LIMITED [AN-L] Money  in  (£) 
+metrobank  One  Southampton  Row  MBS5C_11790185@00006598  1030  London  WC1B  5HA 
+T:  0345  08  08  500  Balance  (£)  online.co.uk  185.53 [PI-U]
+174.53 [B-B] 174.53 [B-L] 27648665 [ANU-U] 23-05-80 [SC-U] £0.00 [CB-U] 26  Statement  number  Metro 
+Bank  Commercial [AT-B] Account [AT-L] number  Sort  code  Important  Information  about 
+compensation  arrangements.
+Deposits  held  with  us  are  covered  by  the  Financial  Services  Compensation  Scheme  (FSCS),  subject  to  eligibility  criteria.
+We  will  provide  you  with  an  information  sheet  and  exclusions  list  every  year.
+For  further  information  about  the  compensation  provided  by  the 
+FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk  We 
+love  to  hear  from  you  -  if  you  have 
+any  queries  regarding  your  statement  or  any  transaction  on 
+your  statement,  please  call  us  on  0345  08  08 
+500  (or  +44  20  3402  8312  outside  the  UK), 
+or  visit  your  local  store.
+Listening  to  you  If  you  have  a  problem  with 
+your  agreement,  please  try  to  resolve  it  with  us 
+in  the  first  instance.
+If  you  are  not  happy  with  the  way  in 
+which  we  handled  your  complaint  or  the  result,  you 
+may  be  able  to  complain  to  the  Financial  Ombudsman 
+Service.
+If  you  do  not  take  up  your  problem  with 
+us  first  you  will  not  be  entitled  to  complain 
+to  the  Ombudsman.
+We  can  provide  details  of  how  to  contact  the  Ombudsman.
+27648665 [ANU-U] 23-05-80 [SC-U] 26  MBS5C_11790185@00006598  1030  MBS5C_11790185@00006598  1030  Summary  of 
+charges  for  the  period  01 [FD-B] JUN [FD-I] 2020 [FD-L] Metro  Bank 
+Commercial [AT-B] Account [AT-L] Statement  BIC:  The  total  charge  for  this 
+account  during  this  period  is  £0.00  How  your  total 
+charge  has  been  calculated:  Monthly  maintenance  fee:  Online  banking 
+fee,  if  applicable:  Transaction  charges:  Cash  charges:  Instant  overdraft 
+charges:  Interest  charged:  Post  Office  Change  Giving  Charges:  Post 
+Office  Setup  Fee:  FX  Platform  Monthly  Fee  Total  charges: 
+Transaction  charges  Sub  Total  Cash  charges  Sub  Total  Transaction 
+charges  summary  MYMBGB2L  BRIGHTON [AN-B] DEVELOPMENTS [AN-I] LIMITED [AN-L] 6 [AA-B] BLOOMSBURY [AA-I] SQUARE [AA-I]
+LONDON [AA-I] WC1A [AA-I] 2LP [AA-L] IBAN:  GB73MYMB23058027648665 [AA-U] to  30 [TD-B] JUN [TD-I] 2020 [TD-L]
+Volume  Amount  (£)  Metro  Bank  Commercial [AT-B] Account [AT-L] number  Sort 
+code  Statement  date  Overdraft  limit  £0.00  £0.00  £0.00  £0.00 
+£0.00  £0.00  £0.00  £0.00  £0.00  £0.00  Price  (£)  % 
+Charge  metrobank  One  Southampton  Row  MBS2B_11790185@00004106  1030  London  WC1B 
+5HA  T:  0345  08  08  500  Charge  (£)  Charge 
+(£)  online.co.uk  30 [TD-B] JUN [TD-I] 2020 [TD-L] 27648665 [ANU-U] 23-05-80 [SC-U] £0.00  0.00 
+0.00  Statement  number  Metro  Bank  Commercial [AT-B] Account [AT-L] number  Sort 
+code  This  document  sets  out  the  charges  and  interest 
+that  have  accrued  on  your  account  within  the  above 
+period.There  are  5  types  of  charge:  1.
+2.
+Information  Summary  for  Commercial  Online  Banking  for  more  details  3.
+Information  Summary  for  further  details.
+4.  further  details.
+5.
+6.  overdraft  facility  letter)  is  charged.
+Please  see  Commercial  Bank  Account  Important  Information  Summary  for  any  additional  charges  applicable  to  your  account.
+Should  you  require  information  about  the  calculation  of  debit 
+interest  (if  any)  deducted  from  your  account  and  detailed 
+in  this  statement  please  contact  us.
+Should  you  have  any  queries  regarding  your  statement  or 
+any  transaction  on  your  statement,  we  love  to  hear 
+from  you.
+Please  call  us  on  0345  08  08  500  (or 
++44  20  3402  8312  outside  the  UK),  or  visit 
+one  of  our  stores.
+*EAR  stands  for  Effective  Annual  Rate  and  illustrates  what 
+the  interest  rate  on  the  overdraft  would  be  if 
+interest  was  charged  and  added  to  the  amount  owed 
+once  each  year.
+It  does  not  take  into  account  fees  and  charges.
+‘Monthly  maintenance  fee’  ‘Online  banking  fee’  ‘Transaction  charges’  ‘Cash 
+charges’  ‘Instant  Overdraft  Charges’  ‘Agreed  Overdraft  Charges’  •  When 
+a  transaction  creates  or  increases  an  instant  overdraft  - 
+debit  interest  at  25%  EAR*  is  charged  and  we 
+may  make  a  ‘paid  item  charge’;  and  •  When 
+we  refuse  to  allow  a  transaction  because  it  would 
+have  created  or  increased  an  instant  overdraft  -  ‘unpaid 
+item  charges’  may  be  charged.
+–  incurred  when  you  bank  or  withdraw  cash  - 
+please  see  Commercial [AT-B] Account [AT-L] Important  Information  Summary  for  - 
+-  these  are  incurred  when  you  make  certain  types 
+of  transaction  -  please  see  Commercial [AT-B] Account [AT-L] Important  this 
+is  applied  if  you  have  subscribed  to  our  Commercial 
+Online  Banking  service  -  please  see  our  Important  - 
+please  see  the  Commercial [AT-B] Account [AT-L] Important  Information  Summary  for 
+information  on  the  monthly  fee.
+-  these  are  incurred  as  follows:  -  these  are 
+incurred  when  you  use  your  agreed  overdraft  facility  - 
+debit  interest  (as  set  out  in  your  agreed  27648665 [ANU-U]
+23-05-80 [SC-U] 28  MBS2B_11790185@00004106  1030  Metro  Bank  Commercial [AT-B] Account [AT-L] Statement 
+BIC:  Your  account  summary  From:  Opening  balance  Total  money 
+in  Total  money  out  End  balance  Date  10 [PDA-B] JUN [PDA-I]
+2020 [PDA-I] 12 [PDA-I] JUN [PDA-I] 2020 [PDA-I] 26 [PDA-I] JUN [PDA-I] 2020 [PDA-L] Your  transactions 
+MYMBGB2L  BRIGHTON [AN-B] DEVELOPMENTS [AN-I] LIMITED [AN-L] 6 [AA-B] BLOOMSBURY [AA-I] SQUARE [AA-I] LONDON [AA-I] WC1A [AA-I]
+2LP [AA-L] 01 [ID-B] JUN [ID-I] 2020 [ID-L] IBAN:  Transaction  Balance [OB-B] brought [OB-I] forward [OB-L]
+Account [PDE-B] to [PDE-I] Account [PDE-I] Transfer [PDE-I] METRO [PDE-I] BANK [PDE-I] PLC [PDE-I] BBLS [PDE-I] 13357 [PDE-I]
+Account [PDE-I] to [PDE-I] Account [PDE-I] Transfer [PDE-I] MHA [PDE-I] LONDON [PDE-I] LTD [PDE-I] BRI-ICL [PDE-L] Transaction 
+Charges  Closing  Balance  GB73MYMB23058027648665 [AA-U] To:  30 [TD-B] JUN [TD-I] 2020 [TD-L] £127,503.25 [OB-U]
+£77,639.89 [PI-B] £50,000.00 [PI-L] £136.64 [PO-U] ACCOUNT  NAME:  Account  number  Sort  code 
+Statement  number  Overdraft  limit  Money  out  (£)  127,500.00 [B-U] 3.25 [PO-U]
+BRIGHTON [AN-B] DEVELOPMENTS [AN-I] LIMITED [AN-L] Money  in  (£)  50,000.00 [PID-U] metrobank  One 
+Southampton  Row  MBS2B_11790185@00004106  1030  London  WC1B  5HA  T:  0345 
+08  08  500  Balance  (£)  online.co.uk  127,639.89 [B-U] 77,639.89 [PO-U] 139.89 
+136.64  136.64  27648665 [ANU-U] 23-05-80 [SC-U] £0.00  28  Statement  number  Metro 
+Bank  Commercial [AT-B] Account [AT-L] number  Sort  code  Important  Information  about 
+compensation  arrangements.
+Deposits  held  with  us  are  covered  by  the  Financial  Services  Compensation  Scheme  (FSCS),  subject  to  eligibility  criteria.
+We  will  provide  you  with  an  information  sheet  and  exclusions  list  every  year.
+For  further  information  about  the  compensation  provided  by  the 
+FSCS,  refer  to  the  FSCS  website  at  www.FSCS.org.uk  We 
+love  to  hear  from  you  -  if  you  have 
+any  queries  regarding  your  statement  or  any  transaction  on 
+your  statement,  please  call  us  on  0345  08  08 
+500  (or  +44  20  3402  8312  outside  the  UK), 
+or  visit  your  local  store.
+Listening  to  you  If  you  have  a  problem  with 
+your  agreement,  please  try  to  resolve  it  with  us 
+in  the  first  instance.
+If  you  are  not  happy  with  the  way  in 
+which  we  handled  your  complaint  or  the  result,  you 
+may  be  able  to  complain  to  the  Financial  Ombudsman 
+Service.
+If  you  do  not  take  up  your  problem  with 
+us  first  you  will  not  be  entitled  to  complain 
+to  the  Ombudsman.
+We  can  provide  details  of  how  to  contact  the  Ombudsman.
+27648665 [ANU-U] 23-05-80 [SC-U] 28  MBS2B_11790185@00004106  1030  Page  1  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+Avenue [AN-B] Food [AN-I] & [AN-I] Wine [AN-I] Stores [AN-L] 179-181 [AA-B] ST. [AA-I] GEORGES [AA-I] AVENUE [AA-I]
+SHEERNESS [AA-I] KENT [AA-I] ME12 [AA-I] 1DS [AA-L] Your  Account  Sort  Code  30-18-06 
+Account  Number  17212368 [ANU-U] BUSINESS  ACCOUNT.
+01 [FD-B] January [FD-I] 2019 [FD-L] to  31 [TD-B] January [TD-I] 2019 [TD-L] .
+Money  In.
+£76,362.70.
+Balance  on  01 [FD-B] January [FD-I] 2019 [FD-L] .
+£2,923.51 [OB-U] .
+Money  Out.
+£74,016.53.
+Balance  on  31 [TD-B] January [TD-I] 2019 [TD-L] .
+£5,269.68 [CB-U] .
+[B-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  02 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  715.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,639.46 [B-U] .
+Date  02 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,400.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,039.46 [B-U] .
+Date  02 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ALLPAY [PDE-B] LIMITED [PDE-I] 274954076 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  57.93 [PO-U] .
+Balance  (£)  5,981.53 [B-U] .
+Date  02 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  MENZIES [PDE-B] DISTRIBUTI [PDE-I] 22002140 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  542.05 [PO-U] .
+Balance  (£)  5,439.48 [B-U] .
+Date  02 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,066.79 [PO-U] .
+Balance  (£)  4,372.69 [B-U] .
+Date  02 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SJP [PDE-B] C050919541247894 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,488.72 [PO-U] .
+Balance  (£)  1,883.97 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  597.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  2,481.37 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  671.55 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,152.92 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  755.44 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,908.36 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  900.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,808.36 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,110.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,918.36 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,160.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,078.36 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  CAMELOT [PDE-B] UK [PDE-I] LOTTERI [PDE-I] 0000465312 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,830.61 [PO-U] .
+Balance  (£)  6,247.75 [B-U] .
+Date  03 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,538.50 [PO-U] .
+Balance  (£)  2,709.25 [B-U] .
+Date  04  Jan  19  .
+Description  AX9603514274  29.99 [PI-U] 0.00.
+Type  BGC [PT-U] .
+Money  In  (£)  29.99 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  2,739.24 [B-U] .
+Date  04  Jan  19  .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  724.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,464.19 [B-U] .
+(Continued  on  next  page)  Page  2  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-18-06 
+Account  Number  17212368 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  04  Jan  19  .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  800.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,264.19 [B-U] .
+Date  04  Jan  19  .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,441.87 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,706.06 [B-U] .
+Date  04  Jan  19  .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,640.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,346.06 [B-U] .
+Date  04  Jan  19  .
+Description  FDR [PDE-B] POS [PDE-I] TERM [PDE-I] RENT [PDE-I] FDGL1272417Z1A [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  48.00 [PO-U] .
+Balance  (£)  8,298.06 [B-U] .
+Date  04  Jan  19  .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,994.46 [PO-U] .
+Balance  (£)  6,303.60 [B-U] .
+Date  04  Jan  19  .
+Description  SITTINGBOURNE [PDE-B] CD [PDE-I] 3849 [PDE-I] 04JAN19 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  4,000.00 [PO-U] .
+Balance  (£)  2,303.60 [B-U] .
+Date  07 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  507.24 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  2,810.84 [B-U] .
+Date  07 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYMENT [PDE-B] SENSE [PDE-I] LTD [PDE-I] WDJZQAB-PM04063052 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  85.08 [PO-U] .
+Balance  (£)  2,725.76 [B-U] .
+Date  07 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,594.83 [PO-U] .
+Balance  (£)  1,130.93 [B-U] .
+Date  07 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SITTINGBOURNE [PDE-B] CD [PDE-I] 3849 [PDE-I] 07JAN19 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,040.00 [PO-U] .
+Balance  (£)  90.93 [B-U] .
+Date  07 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SITTINGBOURNE [PDE-U] .
+Type  DEP [PT-U] .
+Money  In  (£)  36.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  126.93 [B-U] .
+Date  08 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  620.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  747.18 [B-U] .
+Date  08 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,790.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  2,537.18 [B-U] .
+Date  08 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  GOCARDLESS [PDE-B] NEWHORIZONSY-VXEAV [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  30.00 [PO-U] .
+Balance  (£)  2,507.18 [B-U] .
+Date  08 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,209.37 [PO-U] .
+Balance  (£)  297.81 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  764.31 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  1,062.12 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  771.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  1,833.87 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,007.70 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  2,841.57 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,120.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,961.57 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,990.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,951.57 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,520.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,471.57 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  MENZIES [PDE-B] DISTRIBUTI [PDE-I] 22002140 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  457.35 [PO-U] .
+Balance  (£)  8,014.22 [B-U] .
+(Continued  on  next  page)  Page  3  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-18-06 
+Account  Number  17212368 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  CAMELOT [PDE-B] UK [PDE-I] LOTTERI [PDE-I] 0000465312 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,729.72 [PO-U] .
+Balance  (£)  6,284.50 [B-U] .
+Date  09 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,355.02 [PO-U] .
+Balance  (£)  2,929.48 [B-U] .
+Date  10 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  840.69 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,770.17 [B-U] .
+Date  10 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  UTILITA [PDE-B] 865899625401 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  648.00 [PO-U] .
+Balance  (£)  3,122.17 [B-U] .
+Date  10 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,099.75 [PO-U] .
+Balance  (£)  2,022.42 [B-U] .
+Date  11 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  873.64 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  2,896.06 [B-U] .
+Date  11 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,590.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,486.06 [B-U] .
+Date  11 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  WPA [PDE-B] HEALTH [PDE-I] 01WPA920125545EFB [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  277.89 [PO-U] .
+Balance  (£)  4,208.17 [B-U] .
+Date  11 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,206.13 [PO-U] .
+Balance  (£)  3,002.04 [B-U] .
+Date  14 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  764.64 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,766.68 [B-U] .
+Date  14 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,610.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,376.68 [B-U] .
+Date  14 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,260.00 [PO-U] .
+Balance  (£)  4,116.68 [B-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  720.30 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,836.98 [B-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,045.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,881.98 [B-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,430.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,311.98 [B-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] GSA [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  52.00 [PO-U] .
+Balance  (£)  7,259.98 [B-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] SVCCHG [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  213.06 [PO-U] .
+Balance  (£)  7,046.92 [PO-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  906.81 [PO-U] .
+Balance  (£)  6,140.11 [B-U] .
+Date  15 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SERVICE [PDE-B] CHARGES [PDE-I] REF [PDE-I] : [PDE-I] 269971611 [PDE-L] .
+Type  PAY [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  139.10 [PO-U] .
+Balance  (£)  6,001.01 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  810.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,811.01 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  872.15 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,683.16 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  895.76 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,578.92 [B-U] .
+(Continued  on  next  page)  Page  4  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-18-06 
+Account  Number  17212368 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  982.16.
+Money  Out  (£)blank.
+Balance  (£)  9,561.08.
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,210.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  10,771.08 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,410.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  13,181.08 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  MENZIES [PDE-B] DISTRIBUTI [PDE-I] 22002140 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  410.22 [PO-U] .
+Balance  (£)  12,770.86 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  CAMELOT [PDE-B] UK [PDE-I] LOTTERI [PDE-I] 0000465312 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,523.15 [PO-U] .
+Balance  (£)  11,247.71 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,058.70 [PO-U] .
+Balance  (£)  8,189.01 [B-U] .
+Date  16 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SITTINGBOURNE [PDE-B] CD [PDE-I] 3849 [PDE-I] 16JAN19 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,000.00 [PO-U] .
+Balance  (£)  3,189.01 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  749.29 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,938.30 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] GSA [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  24.00 [PO-U] .
+Balance  (£)  3,914.30 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861417 [PDE-I] 2404215 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  27.53 [PO-U] .
+Balance  (£)  3,886.77 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861418 [PDE-I] 2404216 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  27.53 [PO-U] .
+Balance  (£)  3,859.24 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861430 [PDE-I] 2404221 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  28.97 [PO-U] .
+Balance  (£)  3,830.27 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861425 [PDE-I] 2404219 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  28.97 [PO-U] .
+Balance  (£)  3,801.30 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861413 [PDE-I] 24042 [PDE-L] 14.
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  29.93 [PO-U] .
+Balance  (£)  3,771.37 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861428 [PDE-I] 2404220 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  39.13 [PO-U] .
+Balance  (£)  3,732.24 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  ONEBILL [PDE-B] LIMITED [PDE-I] 4861408 [PDE-I] 2404213 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  39.53 [PO-U] .
+Balance  (£)  3,692.71 [B-U] .
+Date  17 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,469.49 [PO-U] .
+Balance  (£)  2,223.22 [B-U] .
+Date  18 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  990.57 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,213.79 [B-U] .
+Date  18 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,480.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,693.79 [B-U] .
+Date  18 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  EMS [PDE-B] AL01016054MSC1218 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  50.94 [PO-U] .
+Balance  (£)  4,642.85 [B-U] .
+Date  18 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,121.20 [PO-U] .
+Balance  (£)  3,521.65 [B-U] .
+Date  21 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,256.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,778.05 [B-U] .
+(Continued  on  next  page)  Page  5  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-18-06 
+Account  Number  17212368 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  21 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,370.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,148.05 [B-U] .
+Date  21 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  866.68 [PO-U] .
+Balance  (£)  5,281.37 [B-U] .
+Date  22 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  822.13 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,103.50 [B-U] .
+Date  22 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,640.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,743.50 [B-U] .
+Date  22 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,103.96 [PO-U] .
+Balance  (£)  6,639.54 [B-U] .
+Date  22 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SITTINGBOURNE [PDE-B] CD [PDE-I] 3849 [PDE-I] 22JAN19 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  4,000.00 [PO-U] .
+Balance  (£)  2,639.54 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  761.32 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,400.86 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  808.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,209.81 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19.
+[PDA-L] Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,073.78 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,283.59 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,140.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,423.59 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,360.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,783.59 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,690.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  10,473.59 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SCOTTISHPOWER [PDE-B] 16037200103 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  14.00 [PO-U] .
+Balance  (£)  10,459.59 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  MENZIES [PDE-B] DISTRIBUTI [PDE-I] 22002140 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  379.95 [PO-U] .
+Balance  (£)  10,079.64 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  CAMELOT [PDE-B] UK [PDE-I] LOTTERI [PDE-I] 0000465312 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,726.50 [PDA-U] .
+Balance  (£)  8,353.14 [B-U] .
+Date  23 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,151.66 [PO-U] .
+Balance  (£)  5,201.48 [B-U] .
+Date  24 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  690.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,891.48 [B-U] .
+Date  24 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  710.05 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,601.53 [B-U] .
+Date  24 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,192.85 [PO-U] .
+Balance  (£)  5,408.68 [B-U] .
+Date  25 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  752.31 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,160.99 [B-U] .
+Date  25 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,230.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,390.99 [B-U] .
+Date  25  Jan  19.
+Description  WHYBROW.
+Type  SO.
+Money  In  (£)blank.
+Money  Out  (£)  550.00.
+Balance  (£)  6,840.99.
+(Continued  on  next  page)  Page  6  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-18-06 
+Account  Number  17212368 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  25  Jan  19.
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,337.17.
+Balance  (£)  5,503.82.
+Date  28  Jan  19.
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,070.00.
+Money  Out  (£)blank.
+Balance  (£)  6,573.82.
+Date  28  Jan  19.
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,278.23.
+Money  Out  (£)blank.
+Balance  (£)  7,852.05.
+Date  28  Jan  19.
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,367.75.
+Balance  (£)  6,484.30.
+Date  29  Jan  19.
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  952.48.
+Money  Out  (£)blank.
+Balance  (£)  7,436.78.
+Date  29  Jan  19.
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,510.00.
+Money  Out  (£)blank.
+Balance  (£)  8,946.78.
+Date  29  Jan  19.
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+[PT-U] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,698.48.
+Balance  (£)  7,248.30.
+Date  29 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  020541163874109 [PDE-B] 300000000435558240 [PDE-I] WAGES [PDE-L] Type  FPO.
+Money  In  (£)blank.
+Money  Out  (£)  666.86 [PO-U] .
+Balance  (£)  6,581.44 [B-U] .
+Date  29 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  SITTINGBOURNE [PDE-U] CD  3849  29JAN19.
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  4,000.00 [PO-U] .
+Balance  (£)  2,581.44 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  983.80 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  3,565.24 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,058.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  4,623.34 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,105.23 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,728.57 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,360.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,088.57 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,830.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,918.57 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,850.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  10,768.57 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  MENZIES [PDE-B] DISTRIBUTI [PDE-I] 22002140 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  510.97 [PO-U] .
+Balance  (£)  10,257.60 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  CAMELOT [PDE-B] UK [PDE-I] LOTTERI [PDE-I] 0000465312 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,232.50 [PO-U] .
+Balance  (£)  9,025.10 [B-U] .
+Date  30 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,913.19 [PO-U] .
+Balance  (£)  5,111.91 [B-U] .
+Date  31 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  FDMS [PDE-B] 509624375 [PDE-I] 509624375 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  681.32 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,793.23 [B-U] .
+Date  31 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  YOURCASH [PDE-B] /HR92140 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  1,030.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,823.23 [B-U] .
+Date  31 [PDA-B] Jan [PDA-I] 19 [PDA-L] .
+Description  PAYPOINT [PDE-B] COLLECTIO [PDE-I] 0007438729122009 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,553.55 [PO-U] .
+Balance  (£)  5,269.68 [B-U] .
+(Continued  on  next  page)  Page  7  of  7  logo,  Lloyds  Bank.
+09 [ID-B] April [ID-I] 2019 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+Transaction  types.
+blank.
+BGC [PT-U] .
+Bank  Giro  Credit.
+BP.
+Bill  Payments.
+CHG.
+Charge.
+CHQ.
+Cheque.
+COR.
+Correction.
+CPT.
+Cashpoint.
+DD [PT-U] .
+Direct  Debit.
+DEB [PT-U] .
+Debit  Card.
+DEP [PT-U] .
+Deposit.
+FEE.
+Fixed  Service  FPI.
+Faster  Payment  In.
+FPO.
+Faster  Payment  Out.
+MPI.
+Mobile  Payment  In.
+MPO.
+Mobile  Payment  Out.
+PAY [PT-U] .
+Payment.
+SO.
+Standing  Order.
+TFR.
+Transfer.
+blank.
+blank.
+blank.
+blank.
+blank.
+blank.
+Page  1  of  3  logo,  Lloyds  Bank.
+12 [ID-B] August [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+BRIT [AN-B] FRIED [AN-I] CHICKEN [AN-I] LIMITED [AN-L] Unit [AA-B] 3 [AA-I] Station [AA-I] Gate [AA-I] Basildon [AA-I]
+Essex [AA-I] SS15 [AA-I] 6UA [AA-L] Your  Account  Sort  Code  30-90-90 [SC-U] Account 
+Number  31207668 [ANU-U] BUSINESS  ACCOUNT.
+01 [FD-B] August [FD-I] 2020 [FD-L] to  12 [TD-B] August [TD-I] 2020 [TD-L] .
+Money  In.
+£12,196.08.
+Balance  on  01 [FD-B] August [FD-I] 2020 [FD-L] .
+£74,592.12 [OB-U] .
+Money  Out.
+£23,053.97.
+Balance  on  12 [TD-B] August [TD-I] 2020 [TD-L] .
+£63,734.23 [CB-U] .
+[B-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-I] 01AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  209.76 [PO-U] .
+Balance  (£)  74,382.36 [PI-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 02AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  37.52 [PO-U] .
+Balance  (£)  74,344.84 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799010820 [PDE-B] BW2451578812121400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  572.90 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  74,917.74 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799310720 [PDE-B] BW2449113220221300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  377.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,294.94 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799020820 [PDE-B] BW2454054917021500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  517.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,812.69 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] LAINDON [PDE-I] RAILWA [PDE-I] CD [PDE-I] 0616 [PDE-I] 03AUG20 [PDE-L] .
+Type  CPT [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  200.00 [PO-U] .
+Balance  (£)  75,612.69 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200803 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  987.67 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  76,600.36 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  MAKRO [PDE-B] SELF [PDE-I] SERVICE [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  47.24 [PO-U] .
+Balance  (£)  76,553.12 [B-U] .
+Date  04 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799030820 [PDE-B] BW2456137401921600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  337.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  76,890.52 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799040820 [PDE-B] BW2458437275121700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  469.65 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  77,360.17 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] SAM [PDE-I] POOPALAS [PDE-I] 500000000632993956 [PDE-I] SALARY [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,000.00 [PO-U] .
+Balance  (£)  75,360.17 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  38.26 [PO-U] .
+Balance  (£)  75,321.91 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  48.46 [PO-U] .
+Balance  (£)  75,273.45 [B-U] .
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799050820 [PDE-B] BW2460743022021800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  420.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,693.65 [B-U] .
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] DISTRICT [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  700.00 [PO-U] .
+Balance  (£)  74,993.65 [B-U] .
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] DISTRICT [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,000.00 [PO-U] .
+Balance  (£)  69,993.65 [B-U] .
+(Continued  on  next  page)  Page  2  of  3  logo,  Lloyds  Bank.
+12 [ID-B] August [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-90-90 [SC-U]
+Account  Number  31207668 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] DISTRICT [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,000.00 [PO-U] .
+Balance  (£)  64,993.65 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT4829034-566811 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  5,011.73 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,005.38 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799060820 [PDE-B] BW2463109870121900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  499.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,504.63 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 07AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  150.00 [PO-B] .
+[PO-L] Balance  (£)  70,354.63 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  15.83 [PO-U] .
+Balance  (£)  70,338.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 200000000632230125 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  67,338.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] PFS [PDE-I] 3987 [PDE-I] CD [PDE-I] 0616 [PDE-I] 08AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  50.00 [PO-U] .
+Balance  (£)  67,288.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] SAM [PDE-I] POOPALAS [PDE-I] 200000000632536102 [PDE-I] SALARY [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,500.00 [PO-U] .
+Balance  (£)  65,788.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 09AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  32.98 [PO-U] .
+Balance  (£)  65,755.82 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BARCLAYCARD [PDE-B] BCD01477799310720.
+[PDE-L] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  184.52 [PO-U] .
+Balance  (£)  65,571.30 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799070820 [PDE-B] BW2465556043722000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  463.50 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  66,034.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799090820 [PDE-B] BW2470385508122200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  435.65 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  66,470.45 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799080820 [PDE-B] BW2467981634122100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  599.55 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  67,070.00 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200810 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  685.48 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  67,755.48 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  52.45 [PO-U] .
+Balance  (£)  67,703.03 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799100820 [PDE-B] BW2472460733222300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  428.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  68,131.78 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  ESSEX [PDE-B] MEAT [PDE-I] 500000000635229243 [PDE-I] BFC [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,115.00 [PO-U] .
+Balance  (£)  67,016.78 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  25.03 [PO-U] .
+Balance  (£)  66,991.75 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,628.92 [PO-U] .
+Balance  (£)  63,362.83 [B-U] .
+Date  12 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TP [PDE-B] LTD [PDE-I] / [PDE-I] PAYZONE [PDE-I] TPL82028-1 [PDE-I] 0050656 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  18.00 [PO-U] .
+Balance  (£)  63,344.83 [B-U] .
+Date  12 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799110820 [PDE-B] BW2474810567022400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  389.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  63,734.23 [B-U] .
+(Continued  on  next  page)  Page  3  of  3  logo,  Lloyds  Bank.
+12 [ID-B] August [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+Transaction  types.
+blank.
+BGC.
+Bank  Giro  Credit.
+BP.
+Bill  Payments.
+CHG.
+Charge.
+CHQ.
+Cheque.
+COR.
+Correction.
+CPT.
+Cashpoint.
+DD.
+Direct  Debit.
+DEB.
+Debit  Card.
+DEP.
+Deposit.
+FEE.
+Fixed  Service  FPI.
+Faster  Payment  In.
+FPO.
+Faster  Payment  Out.
+MPI.
+Mobile  Payment  In.
+MPO.
+Mobile  Payment  Out.
+PAY.
+Payment.
+SO.
+Standing  Order.
+TFR.
+Transfer.
+blank.
+blank.
+blank.
+blank.
+blank.
+blank.
+Page  1  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+BRIT [AN-B] FRIED [AN-I] CHICKEN [AN-I] LIMITED [AN-L] Unit [AA-B] 3 [AA-I] Station [AA-I] Gate [AA-I] Basildon [AA-I]
+Essex [AA-I] SS15 [AA-I] 6UA [AA-L] Your  Account  Sort  Code  30-90-90 [SC-U] Account 
+Number  31207668 [ANU-U] BUSINESS [AT-B] ACCOUNT [AT-L] .
+01 [FD-B] September [FD-I] 2020 [FD-L] to  30 [TD-B] September [TD-I] 2020 [TD-L] .
+Money  In.
+£37,995.86 [PID-U] .
+Balance  on  01 [FD-B] September [FD-I] 2020 [FD-L] .
+£  70,920.28 [OB-U] .
+Money  Out.
+£40,269.39 [POW-U] .
+Balance  on  30 [TD-B] September [TD-I] 2020 [TD-L] .
+£  69,146.75 [CB-U] .
+Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] TESCO [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 29AUG20 [PDE-L] .
+Type  CPT [AT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  500.00 [PO-U] .
+Balance  (£)  70,920.28 [OB-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 30AUG20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  35.36 [PO-U] .
+Balance  (£)  70,884.92 [B-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200831 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  603.29 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  71,488.21 [B-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799300820 [PDE-B] BW2519740057924300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  557.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,045.31 [B-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799290820 [PDE-B] BW2517163635224200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  554.55 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,599.86 [B-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799310820 [PDE-B] BW2522340043124400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  599.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  73,199.11 [B-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799280820 [PDE-B] BW2514543173024100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  434.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  73,633.36 [B-U] .
+Date  01 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] SAM [PDE-I] POOPALAS [PDE-I] 100000000642523432 [PDE-I] SALARY [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,000.00 [PO-U] .
+Balance  (£)  71,633.36 [B-U] .
+Date  02 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799010920  BW2524675355224500  200000  Type  FPI [PT-U] .
+Money  In  (£)  397.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,031.11.
+[B-U] Date  02 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 02SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,000.00 [PO-U] .
+Balance  (£)  67,031.11 [B-U] .
+Date  02 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 02SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  250.00 [PO-U] .
+Balance  (£)  66,781.11 [B-U] .
+Date  02 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  MAKRO [PDE-B] SELF [PDE-I] SERVICE [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  292.28 [PO-U] .
+Balance  (£)  66,488.83 [B-U] .
+Date  03 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799020920 [PDE-B] BW2527108168224600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  369.35 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  66,858.18 [B-U] .
+Date  03 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  72.94 [PO-U] .
+Balance  (£)  66,785.24 [B-U] .
+Date  04 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT4962704-566923.
+[PDE-L] Type  BGC [PT-U] .
+Money  In  (£)  5,284.50 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,069.74 [B-U] .
+Date  04 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799030920 [PDE-B] BW2529459725124700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  314.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,383.74 [B-U] .
+(Continued  on  next  page)  Page  2  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS [AT-B] ACCOUNT [AT-L] Sort  Code  30-90-90 
+Account  Number  31207668  Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  04 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  MINA  STORES  CD  0616.
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  86.46 [PO-U] .
+Balance  (£)  72,297.28 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 400000000650608052 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  69,297.28 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-I] 05SEP20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  120.19 [PO-U] .
+Balance  (£)  69,177.09 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  XLN [PDE-B] TELECOM [PDE-I] LTD [PDE-I] CD [PDE-I] 0616 [PDE-I] 05SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  131.50 [PO-U] .
+Balance  (£)  69,045.59 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 06SEP20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  39.00 [PO-U] .
+Balance  (£)  69,006.59 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799060920 [PDE-B] BW2536998181425000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  511.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  69,517.99 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799040920 [PDE-B] BW2531936044624800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  397.45 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  69,915.44 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799050920 [PDE-B] BW2534445088824900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  526.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,442.39 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] S [PDE-I] POOP [PDE-I] 300000000650069465 [PDE-I] RENT [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  200.00 [PO-U] .
+Balance  (£)  70,242.39 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] TESCO [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 07SEP20 [PDE-L] .
+Type  CPT [AT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  500.00 [PO-U] .
+Balance  (£)  69,742.39 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200907 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  401.91 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,144.30 [B-U] .
+Date  07 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  166.38 [PO-U] .
+Balance  (£)  69,977.92 [B-U] .
+Date  08 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799070920 [PDE-B] BW2539067430425100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  373.35.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  70,351.27 [B-U] .
+Date  08 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] TESCO [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 08SEP20.
+[PDE-L] Type  CPT [AT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  500.00 [PO-U] .
+Balance  (£)  69,851.27 [B-U] .
+Date  09 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799080920 [PDE-B] BW2541404560225200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  323.50.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  70,174.77 [B-U] .
+Date  09 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  ESSEX [PDE-B] MEAT [PDE-I] 100000000645866142 [PDE-I] BFC [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,137.00 [PO-U] .
+Balance  (£)  69,037.77 [B-U] .
+Date  09 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  38.20 [PO-U] .
+Balance  (£)  68,999.57 [B-U] .
+Date  09 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  VEOLIA [PDE-B] ES [PDE-I] UK [PDE-I] LTD [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  286.72 [PO-U] .
+Balance  (£)  68,712.85 [B-U] .
+Date  10 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BARCLAYCARD [PDE-B] BCD01477799310820 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  193.89 [PO-U] .
+Balance  (£)  68,518.96 [B-U] .
+Date  10 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799090920 [PDE-B] BW2543732285525300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  466.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  68,985.36 [B-U] .
+Date  10 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  S.O.S.
+[PDE-B] CATERING [PDE-I] EQ [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  115.70 [PO-U] .
+Balance  (£)  68,869.66 [B-U] .
+Date  10 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,436.27 [PO-U] .
+Balance  (£)  65,433.39 [B-U] .
+(Continued  on  next  page)  Page  3  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS [AT-B] ACCOUNT [AT-L] Sort  Code  30-90-90 
+Account  Number  31207668  Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  11 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT5005045-566958.
+[PDE-L] Type  BGC [PT-U] .
+Money  In  (£)  5,089.13 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,522.52 [B-U] .
+Date  11 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799100920 [PDE-B] BW2546097641925400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  475.40.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  70,997.92 [B-U] .
+Date  11 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 11SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  67,997.92 [B-U] .
+Date  11 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 11SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  320.00 [PO-U] .
+Balance  (£)  67,677.92 [B-U] .
+Date  11 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  32.0 [PO-U] 0.
+Balance  (£)  67,645.92 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20.
+[PDA-L] Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616 [PDE-I] 12SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  50.44 [PO-U] .
+Balance  (£)  67,595.48 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  FISH'N'CHICK'N [PDE-B] CD [PDE-I] 0616 [PDE-I] 13SEP20.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  19.96 [PO-U] .
+Balance  (£)  67,575.52 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] PFS [PDE-I] 3987 [PDE-I] CD [PDE-I] 0616 [PDE-I] 13SEP20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  46.01 [PO-U] .
+Balance  (£)  67,529.51 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TP [PDE-B] LTD [PDE-I] / [PDE-I] PAYZONE [PDE-I] TPL82028-1 [PDE-I] 0050699.
+[PDE-L] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  18.00 [PO-U] .
+Balance  (£)  67,511.51 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799130920 [PDE-B] BW2553640997025700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  460.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  67,971.91 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799110920 [PDE-B] BW2548562479325500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  349.50 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  68,321.41 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799120920 [PDE-B] BW2551076667925600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  701.45 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  69,022.86 [B-U] .
+Date  14 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200914 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  318.11 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  69,340.97 [B-U] .
+Date  15 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  ROCHVILLES [PDE-B] & [PDE-I] CO. [PDE-L] Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  90.00 [PO-U] .
+Balance  (£)  69,250.97 [B-U] .
+Date  15 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799140920 [PDE-B] BW2555760952925800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  383.00.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  69,633.97 [B-U] .
+Date  15 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] SAM [PDE-I] POOPALAS [PDE-I] 500000000649773539 [PDE-I] SALARY [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,718.00.
+[PO-U] Balance  (£)  67,915.97 [B-U] .
+Date  1  6 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799150920 [PDE-B] BW2558107827325900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  435.05.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  68,351.02 [B-U] .
+Date  17 [PDA-B] Sep [PDA-I] 20.
+[PDA-L] Description  BCARD1477799160920 [PDE-B] BW2560457245626000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  583.55 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  68,934.57 [B-U] .
+Date  17 [PDA-B] Sep [PDA-I] 20.
+[PDA-L] Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  17.32 [PO-U] .
+Balance  (£)  68,917.25 [B-U] .
+Date  17 [PDA-B] Sep [PDA-I] 20.
+[PDA-L] Description  EE [PDE-B] LIMITED [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  607.23 [PO-U] .
+Balance  (£)  68,310.02 [B-U] .
+Date  18 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT5046186-566982 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  5,339.15 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  73,649.17 [B-U] .
+Date  18 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799170920 [PDE-B] BW2562834610726100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  435.55 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  74,084.72 [B-U] .
+(Continued  on  next  page)  Page  4  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS [AT-B] ACCOUNT [AT-L] Sort  Code  30-90-90 
+Account  Number  31207668  Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] 20SEP20.
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  23.24 [PO-U] .
+Balance  (£)  74,061.48 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  AX8170932123 [PDE-B] 9.45 [PDE-I] 0.18.
+[PDE-L] Type  BGC [PT-U] .
+Money  In  (£)  9.27.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  74,070.75 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799200920 [PDE-B] BW2570431553226400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  501.05 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  74,571.80 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799190920 [PDE-B] BW2567886460026300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  670.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,242.05 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799180920 [PDE-B] BW2565347510826200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  381.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,623.30 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 600000000651785090 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  72,623.30 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200921 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  328.74 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,952.04 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  SERVICE [PDE-B] CHARGES [PDE-I] REF [PDE-I] : [PDE-I] 318027606.
+[PDE-L] Type  PAY [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  82.30 [PO-U] .
+Balance  (£)  72,869.74 [B-U] .
+Date  21 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  MAKRO [PDE-B] SELF [PDE-I] SERVICE [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  77.91 [PO-U] .
+Balance  (£)  72,791.83 [B-U] .
+Date  22 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799210920 [PDE-B] BW2572541416426500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  458.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  73,250.03 [B-U] .
+Date  22 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] TESCO [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 22SEP20.
+[PDE-L] Type  CPT [AT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  500.00 [PO-U] .
+Balance  (£)  72,750.03 [B-U] .
+Date  23 [PDA-B] Sep [PDA-I] 20.
+[PDA-L] Description  BCARD1477799220920 [PDE-B] BW2574880404326600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  485.15 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  73,235.18 [B-U] .
+Date  24 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799230920 [PDE-B] BW2577165228826700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  480.20.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  73,715.38 [B-U] .
+Date  24 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 600000000652938309 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  70,715.38 [B-U] .
+Date  24 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 24SEP20.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  340.00.
+[PO-U] Balance  (£)  70,375.38 [B-U] .
+Date  24 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 24SEP20.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  100.00 [PO-U] .
+Balance  (£)  70,275.38 [B-U] .
+Date  24 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  42.08 [PO-U] .
+Balance  (£)  70,233.30 [B-U] .
+Date  25 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT5087548-567011 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  4,515.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  74,748.55 [B-U] .
+Date  25 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799240920 [PDE-B] BW2579443434126800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  405.50.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  75,154.05 [B-U] .
+Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] 26SEP20.
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  9.77 [PO-U] .
+Balance  (£)  75,144.28 [B-U] .
+Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  INTERNATIONAL [PDE-B] CAR [PDE-I] CD [PDE-I] 0616 [PDE-I] 26SEP20.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  570.00 [PO-U] .
+Balance  (£)  74,574.28 [B-U] .
+Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  KINGSWOOD [PDE-B] 600000000654271796 [PDE-I] REN [PDE-L] T  Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  4,950.00 [PO-U] .
+Balance  (£)  69,624.28 [B-U] .
+(Continued  on  next  page)  Page  5  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS [AT-B] ACCOUNT [AT-L] Sort  Code  30-90-90 
+Account  Number  31207668  Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] TESCO [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 27SEP20.
+[PDE-L] Type  CPT [AT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  100.00 [PO-U] .
+Balance  (£)  69,524.28 [B-U] .
+Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799270920 [PDE-B] BW2586908378427100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  597.70.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  70,121.98.
+[B-U] Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799260920 [PDE-B] BW2584382690227000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  648.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,770.08 [B-U] .
+Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799250920 [PDE-B] BW2581860796826900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  422.60 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  71,192.68.
+[B-U] Date  28 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200928 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  456.76.
+[PI-U] Money  Out  (£)blank.
+Balance  (£)  71,649.44 [B-U] .
+Date  29 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799280920 [PDE-B] BW2588983110627200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  446.15 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  72,095.59 [B-U] .
+Date  29 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  21.04.
+[PO-U] Balance  (£)  72,074.55 [B-U] .
+Date  29 [PDA-B] Sep [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,432.20 [PO-U] .
+Balance  (£)  68,642.35 [B-U] .
+Date  30 [PDA-B] Sep [PDA-I] 20.
+[PDA-L] Description  BCARD1477799290920 [PDE-B] BW2591292677827300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  504.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  69,146.75 [CB-U] .
+Transaction  types.
+blank.
+BGC [PT-U] .
+Bank  Giro  Credit.
+BP.
+Bill  Payments.
+CHG.
+Charge.
+CHQ.
+Cheque.
+COR.
+Correction.
+CPT [AT-U] .
+Cashpoint.
+DD [PT-U] .
+Direct  Debit.
+DEB [PT-U] .
+Debit  Card.
+DEP.
+Deposit.
+FEE.
+Fixed  Service  FPI [PT-U] .
+Faster  Payment  In.
+FPO [PT-U] .
+Faster  Payment  Out.
+MPI.
+Mobile  Payment  In.
+MPO.
+Mobile  Payment  Out.
+PAY [PDE-U] .
+Payment.
+SO.
+Standing  Order.
+TFR.
+Transfer.
+blank.
+blank.
+blank.
+blank.
+blank.
+blank.
+Page  1  of  3  logo,  Lloyds  Bank.
+12 [ID-B] August [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+BRIT [AN-B] FRIED [AN-I] CHICKEN [AN-I] LIMITED [AN-L] Unit [AA-B] 3 [AA-I] Station [AA-I] Gate [AA-I] Basildon [AA-I]
+Essex [AA-I] SS15 [AA-I] 6UA [AA-L] Your  Account  Sort  Code  30-90-90  Account 
+Number  31207668 [ANU-U] BUSINESS  ACCOUNT.
+01 [FD-B] August [FD-I] 2020 [FD-L] to  12 [ID-B] August [ID-I] 2020 [ID-L] .
+Money  In.
+£12,196.08 [PID-U] .
+Balance  on  01 [FD-B] August [FD-I] 2020 [FD-L] .
+£74,592.12 [OB-U] .
+Money  Out.
+£23,053.97 [POW-U] .
+Balance  on  12 [ID-B] August [ID-I] 2020 [ID-L] .
+£63,734.23.
+[CB-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-I] 01AUG20.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  209.76 [PO-U] .
+Balance  (£)  74,382.3 [B-U] 6.
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TE  SCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 02AUG20.
+[PDE-I] Type [PDE-L] DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  37.52 [PO-U] .
+Balance  (£)  74,344.84 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799010820 [PDE-B] BW2451578812121400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  572.90 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  74,917.74 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799310720 [PDE-B] BW2449113220221300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  377.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,294.94 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799020820 [PDE-B] BW2454054917021500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  517.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,812.69 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  LNK [PDE-B] LAINDON [PDE-I] RAILWA [PDE-I] CD [PDE-I] 0616 [PDE-I] 03AUG20.
+[PDE-L] Type  CPT [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  200.00 [PO-U] .
+Balance  (£)  75,612.69 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200803 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  987.67 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  76,600.36 [B-U] .
+Date  03 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  MAKRO [PDE-B] SELF [PDE-I] SERVICE [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  47.24 [PO-U] .
+Balance  (£)  76,553.12 [B-U] .
+Date  04 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799030820 [PDE-B] BW2456137401921600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  337.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  76,890.52 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799040820 [PDE-B] BW2458437275121700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  469.65 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  77,360.17 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] SAM [PDE-I] POOPALAS [PDE-I] 500000000632993956 [PDE-I] SALARY [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,000.00 [PO-U] .
+Balance  (£)  75,360.17 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  38.26 [PO-U] .
+Balance  (£)  75,321.91 [B-U] .
+Date  05 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  48.46 [PO-U] .
+Balance  (£)  75,273.45 [B-U] .
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799050820 [PDE-B] BW2460743022021800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  420.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  75,693.65 [B-U] .
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] DISTRICT [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  700.00 [PO-U] .
+Balance  (£)  74,993.65 [B-U] .
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] DISTRICT [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+[PT-U] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,000.00 [PO-U] .
+Balance  (£)  69,993.65 [B-U] .
+(Continued  on  next  page)  Page  2  of  3  logo,  Lloyds  Bank.
+12 [ID-B] August [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Con  duct [PDA-B] Authority [PDA-I] a [PDA-L] nd  the  Prudential 
+Regulation  Authority  under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort 
+Code  30-90-90  Account  Number  31207668 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  06 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] DISTRICT [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+[PT-U] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,000.00 [PO-U] .
+Balance  (£)  64,993.65.
+[B-U] Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT4829034-566811 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  5,011.73 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,005.38 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799060820 [PDE-B] BW2463109870121900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  499.25 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  70,504.63 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 07AUG20.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  150.00 [PO-B] .
+[PO-L] Balance  (£)  70,354.63 [B-U] .
+Date  07 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  15.83 [PO-U] .
+Balance  (£)  70,338.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 200000000632230125 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  67,338.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] PFS [PDE-I] 3987 [PDE-I] CD [PDE-I] 0616 [PDE-I] 08AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  50.00 [PO-U] .
+Balance  (£)  67,288.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] SAM [PDE-I] POOPALAS [PDE-I] 200000000632536102 [PDE-I] SALARY [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,500.00 [PO-U] .
+Balance  (£)  65,788.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 09AUG20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  32.98 [PO-U] .
+Balance  (£)  65,755.82 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BARCLAYCARD [PDE-B] BCD01477799310720 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  184.52 [PO-U] .
+Balance  (£)  65,571.30 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799070820 [PDE-B] BW2465556043722000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  463.50 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  66,034.80 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799090820 [PDE-B] BW2470385508122200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  435.65 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  66,470.45 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799080820 [PDE-B] BW2467981634122100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  599.55 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  67,070.00.
+[B-U] Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200810 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  685.48 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  67,755.48 [B-U] .
+Date  10 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+[PT-U] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  52.45 [PO-U] .
+Balance  (£)  67,703.03 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799100820 [PDE-B] BW2472460733222300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  428.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  68,131.78 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  ESSEX [PDE-B] MEAT [PDE-I] 500000000635229243 [PDE-I] BFC [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,115.00 [PO-U] .
+Balance  (£)  67,016.78 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616.
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  25.03 [PO-U] .
+Balance  (£)  66,991.75 [B-U] .
+Date  11 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,628.92 [PO-U] .
+Balance  (£)  63,362.83 [B-U] .
+Date  12 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  TP [PDE-B] LTD [PDE-I] / [PDE-I] PAYZONE [PDE-I] TPL82028-1 [PDE-I] 0050656 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  18.00 [PO-U] .
+Balance  (£)  63,344.83 [B-U] .
+Date  12 [PDA-B] Aug [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799110820 [PDE-B] BW2474810567022400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  389.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  63,734.23 [B-U] .
+(Continued  on  next  page)  Page  3  of  3  logo,  Lloyds  Bank.
+12 [ID-B] August [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+Transaction  types.
+blank.
+BGC [PT-U] .
+Bank  Giro  Credit.
+BP.
+Bill  Payments.
+CHG.
+Charge.
+CHQ.
+Cheque.
+COR.
+Correction.
+CPT [PT-U] .
+Cashpoint.
+DD [PT-U] .
+Direct  Debit.
+DEB [PT-U] .
+Debit  Card.
+DEP.
+Deposit.
+FEE.
+Fixed  Service  FPI [PT-U] .
+Faster  Payment  In.
+FPO [PT-U] .
+Faster  Payment  Out.
+MPI.
+Mobile  Payment  In.
+MPO.
+Mobile  Payment  Out.
+PAY.
+Payment.
+SO.
+Standing  Order.
+TFR.
+Transfer.
+blank.
+blank.
+blank.
+blank.
+blank.
+blank.
+Page  1  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+BRIT [AN-B] FRIED [AN-I] CHICKEN [AN-I] LIMITED [AN-L] Unit [AA-B] 3 [AA-I] Station [AA-I] Gate [AA-I] Basildon [AA-I]
+Essex [AA-I] SS15 [AA-I] 6UA [AA-L] Your  Account  Sort  Code  30-90-90 [SC-U] Account 
+Number  31207668 [ANU-U] BUSINESS  ACCOUNT.
+01 [FD-B] February [FD-I] 2020 [FD-L] to  29 [TD-B] February [TD-I] 2020 [TD-L] .
+Money  In.
+£32,471.68 [PID-U] .
+Balance  on  01 [FD-B] February [FD-I] 2020 [FD-L] .
+£5,666.85 [OB-U] .
+Money  Out.
+£30,258.71 [POW-U] .
+Balance  on  29 [TD-B] February [TD-I] 2020 [TD-L] .
+£7,879.82 [CB-U] .
+[B-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] 01FEB20 [PDE-I] .
+[PDE-L] Type  DEP [PT-U] .
+Money  In  (£)  800.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,466.85 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 01FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  165.00 [PO-U] .
+Balance  (£)  6,301.85 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 01FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  21.81 [PO-U] .
+Balance  (£)  6,280.04 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 02FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  25.32 [PO-U] .
+Balance  (£)  6,254.72 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] COUNCIL [PDE-I] 01 [PDE-I] 1700511916 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  777.00 [PO-U] .
+Balance  (£)  5,477.72 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799300120 [PDE-B] BW2082117233403000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  531.63 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,009.35 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200203 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  120.45 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,129.80 [B-U] .
+Date  03 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  89.78 [PO-U] .
+Balance  (£)  6,040.02 [B-U] .
+Date  04 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799310120 [PDE-B] BW2085358024803100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  354.90 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,394.92 [B-U] .
+Date  04 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799010220 [PDE-B] BW2088200478903200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  898.85 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,293.77 [B-U] .
+Date  04 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799020220 [PDE-B] BW2091017530503300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  560.50 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,854.27 [B-U] .
+Date  05 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  AX8170932123 [PDE-B] 5.45 [PDE-I] 0.10 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  5.35 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,859.62 [B-U] .
+Date  05 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799030220 [PDE-B] BW2093335283503400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  398.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,258.57 [B-U] .
+Date  05 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  8.63 [PO-U] .
+Balance  (£)  8,249.94 [B-U] .
+Date  05 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  17.98 [PO-U] .
+Balance  (£)  8,231.96 [B-U] .
+Date  05 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOOMEY [PDE-B] MOTOR [PDE-I] GROUP [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  50.00 [PO-U] .
+Balance  (£)  8,181.96 [B-U] .
+(Continued  on  next  page)  Page  2  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-90-90 [SC-U]
+Account  Number  31207668 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  0  6 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  AX8170932123 [PDE-B] 13.15 [PDE-I] 0.25 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  12.90 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,194.86 [B-U] .
+Date  0  6 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  SAM [PDE-B] SINGH [PDE-I] CASHPLUS [PDE-I] 400000000568146730 [PDE-I] RENT [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  500.00 [PO-U] .
+Balance  (£)  7,694.86 [B-U] .
+Date  0  6 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799040220 [PDE-B] BW2095844026003500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  345.80 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,040.66 [B-U] .
+Date  0  6 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-L] .
+Type  DEP [PT-U] .
+Money  In  (£)  5,100.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  13,140.66 [B-U] .
+Date  0  6 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,136.16 [PO-U] .
+Balance  (£)  10,004.50 [B-U] .
+Date  07 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT3645069-566014 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  2,890.11 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  12,894.61 [B-U] .
+Date  07 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  ESSEX [PDE-B] MEAT [PDE-I] 300000000567411743 [PDE-I] BFS [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,040.00 [PO-U] .
+Balance  (£)  11,854.61 [B-U] .
+Date  07 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799050220 [PDE-B] BW2098424788903600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  319.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  12,173.71 [B-U] .
+Date  07 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 07FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  280.00 [PO-U] .
+Balance  (£)  11,893.71 [B-U] .
+Date  07 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  19.59 [PO-U] .
+Balance  (£)  11,874.12 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 200000000562475883 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  8,874.12 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 3060 [PDE-I] CD [PDE-I] 0616 [PDE-I] 08FEB20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  20.50 [PO-U] .
+Balance  (£)  8,853.62 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 08FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  44.64 [PO-U] .
+Balance  (£)  8,808.98 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 09FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  30.35 [PO-U] .
+Balance  (£)  8,778.63 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] PFS [PDE-I] 3987 [PDE-I] CD [PDE-I] 0616 [PDE-I] 09FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  34.00 [PO-U] .
+Balance  (£)  8,744.63 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BARCLAYCARD [PDE-B] BCD01477799310120 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  103.35 [PO-U] .
+Balance  (£)  8,641.28 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] COUNCIL [PDE-I] 600000000564402388 [PDE-I] RENT [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,700.00 [PO-U] .
+Balance  (£)  4,941.28 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799060220 [PDE-B] BW2100994501103700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  520.85 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,462.13 [B-U] .
+Date  10 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200210 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  277.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,740.08 [B-U] .
+Date  11 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799090220 [PDE-B] BW2109198845804000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  490.65 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,230.73 [B-U] .
+Date  11 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799080220 [PDE-B] BW2106475502403900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  834.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,064.93 [B-U] .
+Date  11 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799070220 [PDE-B] BW2103671438803800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  520.85 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,585.78 [B-U] .
+(Continued  on  next  page)  Page  3  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-90-90 [SC-U]
+Account  Number  31207668 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  11 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  23.99 [PO-U] .
+Balance  (£)  7,561.79 [B-U] .
+Date  12 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799100220 [PDE-B] BW2111156178604100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  325.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,887.74 [B-U] .
+Date  13 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799110220 [PDE-B] BW2113633723904200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  399.05 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,286.79 [B-U] .
+Date  13 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  SUMAN [PDE-B] S [PDE-I] POOP [PDE-I] 100000000564099752 [PDE-I] RENT [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  200.00 [PO-U] .
+Balance  (£)  8,086.79 [B-U] .
+Date  14 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT3696832-566041 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  3,210.44 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  11,297.23 [B-U] .
+Date  14 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799120220 [PDE-B] BW2116141578404300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  357.40 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  11,654.63 [B-U] .
+Date  14 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 100000000564524504 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,500.00 [PO-U] .
+Balance  (£)  9,154.63 [B-U] .
+Date  14 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-L] 14FEB20.
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  300.00 [PO-U] .
+Balance  (£)  8,854.63 [B-U] .
+Date  14 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  20.79 [PO-U] .
+Balance  (£)  8,833.84 [B-U] .
+Date  17 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 15FEB20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  60.27 [PO-U] .
+Balance  (£)  8,773.57 [B-U] .
+Date  17 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  ROCHVILLES [PDE-B] & [PDE-I] CO [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  90.00 [PO-U] .
+Balance  (£)  8,683.57 [B-U] .
+Date  17 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799130220 [PDE-B] BW2118730873504400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  550.30 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  9,233.87 [B-U] .
+Date  17 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200217 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  344.37 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  9,578.24 [B-U] .
+Date  17 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  10.26 [PO-U] .
+Balance  (£)  9,567.98 [B-U] .
+Date  17 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] PFS [PDE-I] 3987 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  52.00 [PO-U] .
+Balance  (£)  9,515.98 [B-U] .
+Date  18 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799160220 [PDE-B] BW2126944368204700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  467.95 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  9,983.93 [B-U] .
+Date  18 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799150220 [PDE-B] BW2124413778704600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  683.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  10,667.03 [B-U] .
+Date  18 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799140220 [PDE-B] BW2121518091304500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  467.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  11,134.23 [B-U] .
+Date  18 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BASILDON [PDE-B] COUNCIL [PDE-I] 400000000572206106 [PDE-I] RENT [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,500.00 [PO-U] .
+Balance  (£)  7,634.23 [B-U] .
+Date  18 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  21.89 [PO-U] .
+Balance  (£)  7,612.34 [B-U] .
+Date  19 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799170220 [PDE-B] BW2129093986104800 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  399.85 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,012.19 [B-U] .
+Date  19 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  25.60 [PO-U] .
+Balance  (£)  7,986.59 [B-U] .
+(Continued  on  next  page)  Page  4  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-90-90 [SC-U]
+Account  Number  31207668 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  19 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  MAKRO [PDE-B] SELF [PDE-I] SERVICE [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  123.75 [PO-U] .
+Balance  (£)  7,862.84 [B-U] .
+Date  20 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799180220 [PDE-B] BW2131631390104900 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  349.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,211.94 [B-U] .
+Date  21 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT3729020-566064 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  3,161.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  11,373.69 [B-U] .
+Date  21 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799190220 [PDE-B] BW2134162159605000 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  462.75 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  11,836.44 [B-U] .
+Date  21 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 21FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2,000.00 [PO-U] .
+Balance  (£)  9,836.44 [B-U] .
+Date  21 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 21FEB20 [PDE-I] .
+[PDE-L] Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  250.00 [PO-U] .
+Balance  (£)  9,586.44 [B-U] .
+Date  21 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  37.10 [PO-U] .
+Balance  (£)  9,549.34 [B-U] .
+Date  24 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-I] 23FEB20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  41.45 [PO-U] .
+Balance  (£)  9,507.89 [B-U] .
+Date  24 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616 [PDE-I] 23FEB20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,388.38 [PO-U] .
+Balance  (£)  6,119.51 [B-U] .
+Date  24 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TP [PDE-B] LTD [PDE-I] / [PDE-I] PAYZONE [PDE-I] TPL82028-1 [PDE-I] 0050417 [PDE-I] .
+[PDE-L] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  36.00 [PO-U] .
+Balance  (£)  6,083.51 [B-U] .
+Date  24 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799200220 [PDE-B] BW2136712982005100 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  453.70 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,537.21 [B-U] .
+Date  24 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  FLIPDISH [PDE-B] LTD [PDE-I] 6408 [PDE-I] FDISH200224 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  122.88 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,660.09 [B-U] .
+Date  24 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  24.21 [PO-U] .
+Balance  (£)  6,635.88 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799210220 [PDE-B] BW2139361605705200 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  362.30 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  6,998.18 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799220220 [PDE-B] BW2142127187005300 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  599.20 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,597.38 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799230220 [PDE-B] BW2144774481105400 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  587.80 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,185.18 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TESCO [PDE-B] PFS [PDE-I] 3987 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  48.00 [PO-U] .
+Balance  (£)  8,137.18 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  ABIS [PDE-B] KEBAB [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  52.46 [PO-U] .
+Balance  (£)  8,084.72 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  JJ [PDE-B] FOOD [PDE-I] SERVICE [PDE-I] - [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  61.93 [PO-U] .
+Balance  (£)  8,022.79 [B-U] .
+Date  25 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  SERVICE [PDE-B] CHARGES [PDE-I] REF [PDE-I] : [PDE-I] 300212117 [PDE-L] .
+Type  PAY [PDE-U] .
+Money  In  (£)blank.
+Money  Out  (£)  119.07 [PO-U] .
+Balance  (£)  7,903.72 [B-U] .
+Date  26 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799240220 [PDE-B] BW2146935414805500 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  371.60 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  8,275.32 [B-U] .
+Date  26 [PDA-B] Feb [PDA-I] 20 [PDA-I] .
+[PDA-L] Description  EXCEL [PDE-B] FOOD [PDE-I] LTD [PDE-I] 500000000570143437 [PDE-I] BILL [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,000.00 [PO-U] .
+Balance  (£)  5,275.32 [B-U] .
+(Continued  on  next  page)  Page  5  of  5  logo,  Lloyds  Bank.
+06 [ID-B] October [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.  BUSINESS  ACCOUNT  Sort  Code  30-90-90 [SC-U]
+Account  Number  31207668 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  26 [PDA-B] Feb [PDA-I] 20 [PDA-I] .
+[PDA-L] Description  TESCO [PDE-B] STORE [PDE-I] 2082 [PDE-I] CD [PDE-I] 0616 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  37.45 [PO-U] .
+Balance  (£)  5,237.87 [B-U] .
+Date  27 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799250220 [PDE-B] BW2149374975805600 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  422.85 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,660.72 [PDA-U] .
+Date  27 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  SAM [PDE-B] SINGH [PDE-I] CASHPLUS [PDE-I] 500000000570673630 [PDE-I] RENT [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  900.00 [PO-U] .
+Balance  (£)  4,760.72 [B-U] .
+Date  27 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  TOWN [PDE-B] SQ [PDE-I] BASILDON [PDE-I] CD [PDE-I] 0616 [PDE-I] 27FEB20 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  270.00 [PO-U] .
+Balance  (£)  4,490.72 [B-U] .
+Date  28 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  JUST [PDE-B] EAT.CO.UK [PDE-I] ACC [PDE-I] JEAT3759404-566086 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  3,078.10 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,568.82 [B-U] .
+Date  28 [PDA-B] Feb [PDA-I] 20 [PDA-L] .
+Description  BCARD1477799260220 [PDE-B] BW2151920235405700 [PDE-I] 200000 [PDE-L] Type  FPI [PT-U] .
+Money  In  (£)  311.00 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  7,879.82 [B-U] .
+Transaction  types.
+blank.
+BGC.
+Bank  Giro  Credit.
+BP.
+Bill  Payments.
+CHG.
+Charge.
+CHQ.
+Cheque.
+COR.
+Correction.
+CPT.
+Cashpoint.
+DD.
+Direct  Debit.
+DEB.
+Debit  Card.
+DEP.
+Deposit.
+FEE.
+Fixed  Service  FPI.
+Faster  Payment  In.
+FPO.
+Faster  Payment  Out.
+MPI.
+Mobile  Payment  In.
+MPO.
+Mobile  Payment  Out.
+PAY.
+Payment.
+SO.
+Standing  Order.
+TFR.
+Transfer.
+blank.
+blank.
+blank.
+blank.
+blank.
+blank.
+Page  1  of  3  logo,  Lloyds  Bank.
+09 [ID-B] September [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+Bown [AN-B] Design [AN-I] & [AN-I] Build [AN-I] Limited [AN-L] 12 [AA-B] Brook [AA-I] Lane [AA-I] Business [AA-I]
+Centre [AA-I] Brook [AA-I] Lane [AA-I] North [AA-I] Brentford [AA-I] Middlesex [AA-I] TW8 [AA-I] 0PP [AA-L] Your 
+Account  Sort  Code  30-92-82  Account  Number  00138608 [ANU-U] ELECTRONIC  TARIFF.
+01 [FD-B] May [FD-I] 2020 [FD-L] to  31 [TD-B] May [TD-I] 2020 [TD-L] .
+Money  In.
+£9,245.82.
+Balance  on  01 [FD-B] May [FD-I] 2020 [FD-L] .
+[PDA-U] £12,428.59 [OB-U] .
+[B-U] Money  Out.
+£23,019.83.
+Balance  on  31 [TD-B] May [TD-I] 2020 [TD-L] .
+-£1,205.42 [CB-U] .
+Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  01 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  C [PDE-B] NICOLAOU [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  140.00 [PO-U] .
+Balance  (£)  12,428.59 [B-U] .
+Date  01 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  SJP [PDE-B] C049479331244720 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  500.00 [PO-U] .
+Balance  (£)  11,928.59 [B-U] .
+Date  05 [PDA-B] May [PDA-I] 20.
+[PDA-L] Description  ALISTAIR [PDE-B] BOWN [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,000.00 [PO-U] .
+Balance  (£)  10,928.59 [B-U] .
+Date  05 [PDA-B] May [PDA-I] 20.
+[PDA-L] Description  MI [PDE-B] VEHICLE [PDE-I] FINANCE [PDE-I] M09669700773836 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1.00 [PO-U] .
+Balance  (£)  10,927.59 [B-U] .
+Date  05 [PDA-B] May [PDA-I] 20.
+[PDA-L] Description  MI [PDE-B] VEHICLE [PDE-I] FINANCE [PDE-I] M09321100773834 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2.00 [PO-U] .
+Balance  (£)  10,925.59 [B-U] .
+Date  05 [PDA-B] May [PDA-I] 20.
+[PDA-L] Description  MI [PDE-B] VEHICLE [PDE-I] FINANCE [PDE-I] M09324400773832 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  2.00 [PO-U] .
+Balance  (£)  10,923.59 [B-U] .
+Date  05 [PDA-B] May [PDA-I] 20.
+[PDA-L] Description  CLOSE-CARPOL [PDE-B] INS [PDE-I] 68012336 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  391.60 [PO-U] .
+Balance  (£)  10,531.99 [B-U] .
+Date  05 [PDA-B] May [PDA-I] 20.
+[PDA-L] Description  FORD [PDE-B] CREDIT [PDE-I] UK [PDE-I] 931793210 [PDE-I] 050520 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  483.11 [PO-U] .
+Balance  (£)  10,048.88 [B-U] .
+Date  06 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  HMRC [PDE-B] JRS [PDE-I] GRANT [PDE-I] 846PW00323647 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  4,622.91 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  14,671.79 [B-U] .
+Date  07 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  CLOSE-CARPOL [PDE-B] INS [PDE-I] 68012336 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  385.09 [PO-U] .
+Balance  (£)  14,286.70 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  BT [PDE-B] GROUP [PDE-I] PLC [PDE-I] WM40906515- [PDE-I] 000015 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  97.32 [PO-U] .
+Balance  (£)  14,189.38 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  BUSINESS [PDE-B] CRDT [PDE-I] CD [PDE-I] 5328650501471458 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  272.74 [PO-U] .
+Balance  (£)  13,916.64 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  LAWSONS [PDE-B] 400000000602749365 [PDE-I] BOWN [PDE-L] -  Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  5,494.85 [PO-U] .
+Balance  (£)  8,421.79 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  TRAVIS [PDE-B] PERKINS [PDE-I] 100000000596556550 [PDE-I] EY2617 [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  131.89 [PO-U] .
+Balance  (£)  8,289.90 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  ANNA  RZEDZICKA  100000000596556556  03/04/20  Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  920.00 [PO-U] .
+Balance  (£)  7,369.90 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  LYRECO [PDE-B] 300000000601515972 [PDE-I] 6410263039 [PDE-I] 200771 [PDE-I] 10 [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  278.22 [PO-U] .
+Balance  (£)  7,091.68 [B-U] .
+(Continued  on  next  page)  Page  2  of  3  logo,  Lloyds  Bank.
+09 [ID-B] September [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+ELECTRONIC  TARIFF  Sort  Code  30-92-82  Account  Number  00138608 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  HEYWOOD [PDE-B] HEATING [PDE-I] 100000000596556570 [PDE-I] 7013594- [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  3,584.17 [PO-U] .
+Balance  (£)  3,507.51 [B-U] .
+Date  11 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  O/DRAFT [PDE-B] INTEREST [PDE-L] .
+Type  CHG [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  23.03 [PO-U] .
+Balance  (£)  3,484.48 [B-U] .
+Date  12 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  ALISTAIR [PDE-B] BOWN [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,000.00 [PO-U] .
+Balance  (£)  2,484.48 [B-U] .
+Date  13 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  APPLE.COM/BILL [PDE-B] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  0.79 [PO-U] .
+Balance  (£)  2,483.69 [B-U] .
+Date  14 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  RBK [PDE-B] PARKING [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1.80 [PO-U] .
+Balance  (£)  2,481.89 [B-U] .
+Date  15 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  CARPHONE [PDE-B] WAREHOUSE [PDE-I] 000134757187017 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  14.99 [PO-U] .
+Balance  (£)  2,466.90 [B-U] .
+Date  18 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  SAGE [PDE-B] SOFTWARE [PDE-I] LTD [PDE-I] AA00706119 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  84.00 [PO-U] .
+Balance  (£)  2,382.90.
+[B-U] Date  18 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  TRANSFER [PDE-B] - [PDE-I] EX [PDE-I] T/O [PDE-I] LBGL [PDE-I] L40000869547 [PDE-I] LOAN [PDE-I] PAYMENT [PDE-L] .
+Type  PAY [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  520.72 [PO-U] .
+Balance  (£)  1,862.18 [B-U] .
+Date  19 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  ALISTAIR [PDE-B] BOWN [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,000.00 [PO-U] .
+Balance  (£)  862.18 [B-U] .
+Date  20 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  BT  GROUP  PLC  LW62951133-  000042  .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  56.52 [PO-U] .
+Balance  (£)  805.66 [B-U] .
+Date  26 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  HMRC [PDE-B] JRS [PDE-I] GRANT [PDE-I] 846PW00323647 [PDE-L] .
+Type  BGC [PT-U] .
+Money  In  (£)  4,622.91 [PI-U] .
+Money  Out  (£)blank.
+Balance  (£)  5,428.57 [B-U] .
+Date  26 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  ALISTAIR [PDE-B] BOWN [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,000.00 [PO-U] .
+Balance  (£)  4,428.57 [B-U] .
+Date  26 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  MI [PDE-B] VEHICLE [PDE-I] FINANCE [PDE-I] M09669700792958 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1.00 [PO-U] .
+Balance  (£)  4,427.57 [B-U] .
+Date  26 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  O2 [PDE-B] GED32373370 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  48.42 [PO-U] .
+Balance  (£)  4,379.15 [B-U] .
+Date  26 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  ALISTAIR [PDE-B] BOWN [PDE-I] 600000000603178047 [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,044.80 [PO-U] .
+Balance  (£)  3,334.35 [B-U] .
+Date  26 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  SARAH [PDE-B] RIGGALL [PDE-I] 600000000603178050 [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,487.90 [PO-U] .
+Balance  (£)  1,846.45 [B-U] .
+Date  27 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  WESTMINSTER [PDE-B] PARKIN [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  4.35 [PO-U] .
+Balance  (£)  1,842.10.
+Date  28 [PO-B] May [PO-I] 20 [PO-L] .
+Description  CASTLE [PDE-B] WATER [PDE-I] LTD [PDE-I] TW0314076250 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  17.11 [PO-U] .
+Balance  (£)  1,824.99 [B-U] .
+Date  28 [PO-B] May [PO-I] 20 [PO-L] .
+Description  Dulux [PDE-B] Decorator [PDE-I] Ce [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  121.25 [PO-U] .
+Balance  (£)  1,703.74 [B-U] .
+Date  28 [PO-B] May [PO-I] 20 [PO-L] .
+Description  Dulux [PDE-B] Decorator [PDE-I] Ce [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  169.27 [PO-U] .
+Balance  (£)  1,534.47 [B-U] .
+Date  28 [PO-B] May [PO-I] 20 [PO-L] .
+Description  DVLA [PDE-B] VEHICLE [PDE-I] TAX [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  265.00 [PO-U] .
+Balance  (£)  1,269.47 [B-U] .
+Date  28 [PO-B] May [PO-I] 20 [PO-L] .
+Description  WEST [PDE-B] EALING [PDE-I] TIMBER [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  316.35 [PO-U] .
+Balance  (£)  953.12 [B-U] .
+(Continued  on  next  page)  Page  3  of  3  logo,  Lloyds  Bank.
+09 [ID-B] September [ID-I] 2020 [ID-L] Lloyds  Bank  plc.
+Registered  Office:  25  Gresham  Street,  London  EC2V  7HN.
+Registered  in  England  and  Wales  no.
+2065.
+Authorised  by  the  Prudential  Regulation  Authority  and  regulated  by 
+the  Financial  Conduct  Authority  and  the  Prudential  Regulation  Authority 
+under  Registration  Number  119278.
+ELECTRONIC  TARIFF  Sort  Code  30-92-82  Account  Number  00138608 [ANU-U] Your  Transactions  Column  Date.
+Column  Description.
+Column  Type.
+Column  Money  In  (£).
+Column  Money  Out  (£).
+Column  Balance  (£).
+Date  29 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  SARAH [PDE-B] RIGGALL [PDE-L] .
+Type  SO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1,487.90 [PO-U] .
+Balance  (£)  -534.78 [B-U] .
+Date  29 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  MI [PDE-B] VEHICLE [PDE-I] FINANCE [PDE-I] M09321100798139 [PDE-L] .
+Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1.00 [PO-U] .
+Balance  (£)  -535.78 [B-U] .
+Date  29 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  MI [PDE-B] VEHICLE [PDE-I] FINANCE [PDE-I] M09324400798138.
+[PDE-L] Type  DD [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  1.00 [PO-U] .
+Balance  (£)  -536.78 [B-U] .
+Date  29 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  CS [PDE-B] INTERIORS [PDE-I] 400000000609400696 [PDE-I] 9080 [PDE-L] Type  FPO [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  107.64 [PO-U] .
+Balance  (£)  -644.42 [B-U] .
+Date  29 [PDA-B] May [PDA-I] 20 [PDA-L] .
+Description  SAXTON [PDE-B] BLADES [PDE-I] CD [PDE-I] 3564 [PDE-L] .
+Type  DEB [PT-U] .
+Money  In  (£)blank.
+Money  Out  (£)  561.00 [PO-U] .
+Balance  (£)  -1,205.42 [B-U] .
+Transaction  types.
+blank.
+BGC.
+Bank  Giro  Credit.
+BP.
+Bill  Payments.
+CHG.
+Charge.
+CHQ.
+Cheque.
+COR.
+Correction.
+CPT.
+Cashpoint.
+DD.
+Direct  Debit.
+DEB.
+Debit  Card.
+DEP.
+Deposit.
+FEE.
+Fixed  Service  FPI.
+Faster  Payment  In.
+FPO.
+Faster  Payment  Out.
+MPI.
+Mobile  Payment  In.
+MPO.
+Mobile  Payment  Out.
+PAY.
+Payment.
+SO.
+Standing  Order.
+TFR.
+Transfer.
+blank.
+blank.
+blank.
+blank.
+blank.
+blank.
