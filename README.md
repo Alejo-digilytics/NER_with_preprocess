@@ -1,8 +1,8 @@
 ## NER with BERT like models
-This repository fine tunes for a NER task.
-The data must be added to the folder Data/NER_data as a csv with 4 columns:
 
-Sentence, Word, Pos, Tag
+This repository fine tunes for a NER task. There are two main classes: NER_preprocessing which preprocess 
+text files to get a data frame, and NER which trains a BER-like model using such a data frame. 
+This class also produces accuracy and loss pots and contains a prediction method for testing
 
 
 ### Launch
@@ -24,3 +24,28 @@ If you want to check your cuda you can do it as follows:
     or the version.txt localization if other
 
 Downloading pytorch: go to `https://pytorch.org/get-started/locally/` and follow the instructions for the download.
+
+
+### NER Dataset
+
+The NER data set must be added manually into the folder `Data/NER_data` as txt files.
+This data is preprocessed using the class NER_preprocessing from `src/Preprocessing.py`.
+There are two ways of splitting the data. The first one based on the sentences and a special one
+for this data set considering text and tables separately.
+
+Output:
+
+    Option Simple: Data Frame with columns "Sentences", "Words", "POS" and "Tag"
+        "Sentences": number of the sentence in the word and empty the rest of the sentence
+        "Words":token of the word
+        "POS": Part of speech ffor the token (based on Spacy)
+        "Tag": BILUO tag with entity and position
+
+    Option Simple: Data Frame with columns "Sentences", "Words", "POS", "Tag" and "NER"
+        "Sentences": number of the sentence in the word and empty the rest of the sentence
+        "Words":token of the word
+        "POS": Part of speech ffor the token (based on Spacy)
+        "Tag": BILUO tag with entity and position
+        "NER": general entities for the token given by Spacy
+
+This data frame is saved in `Data/NER_DF` where it is then used to train the model

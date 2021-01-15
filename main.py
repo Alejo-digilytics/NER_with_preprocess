@@ -1,5 +1,5 @@
 from NER_model import NER
-from src.NER_preprocessing import *
+from src.Preprocessing import *
 import os
 import logging
 
