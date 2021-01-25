@@ -10,7 +10,7 @@ To use this repository you must verify the requirements listed in requirements.t
 This can be done moving to the working directory and running the following command on terminal 
 `pip install -r requiremnts.txt`
 
-
+#### Pytorch and cuda
 One of the libraries used here is pytorch.
 The version depends on the computer and must be compatible with the cuda installed in the computer as well as the OS.
 Pay attention to the fact that the current Pytorch version do not support cuda 11.1 even it exits already.
@@ -24,6 +24,13 @@ If you want to check your cuda you can do it as follows:
     or the version.txt localization if other
 
 Downloading pytorch: go to `https://pytorch.org/get-started/locally/` and follow the instructions for the download.
+
+#### BERT-like models
+The BERT-like model must be added in the folder models containing the following files:
+
+    1. config.json: the model's configuration
+    2. pytorch_model.bin: weights of the model 3.special_tokens.json: Not mandatory, since it is created alongthe process if there is a vocab.txt file
+    3. vocab.txt: vocabulary of the model in a column with rows number the id of the model
 
 
 ### NER Dataset
@@ -48,4 +55,4 @@ Output:
         "Tag": BILUO tag with entity and position
         "NER": general entities for the token given by Spacy
 
-This data frame is saved in `Data/NER_DF` where it is then used to train the model
+This data frame is saved in `Data/NER_DF` where it will be then used to fine tune the model.
