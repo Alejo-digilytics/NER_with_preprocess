@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(filename='test.log', level=logging.DEBUG, format='%(asctime)s:%(levelname)s:%(message)s')
 
 if __name__ == '__main__':
-  #Preprocessing part
+    # Preprocessing part
     path = os.path.join(os.getcwd(), "Data", "NER_data", "BankStatements.txt")
     Preprocesser = NER_preprocessing(lines_sent=1, spliter="lines")
     # Preprocesser.special_split(path)

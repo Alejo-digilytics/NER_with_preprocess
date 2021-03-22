@@ -57,3 +57,232 @@
 
 2021-01-14 09:27:42,362:INFO:Starting Fine-tuning ...
 2021-01-14 09:27:42,362:INFO:Start epoch 1
+2021-03-22 14:36:39,706:INFO:Loading NLP libraries ... 
+2021-03-22 14:36:40,176:INFO:The libraries were loaded in 0.4705371856689453 seconds
+2021-03-22 14:37:17,375:INFO:Loading NLP libraries ... 
+2021-03-22 14:37:41,073:INFO:Loading NLP libraries ... 
+2021-03-22 14:37:53,837:INFO:The libraries were loaded in 12.764562606811523 seconds
+2021-03-22 14:38:11,691:INFO:Loading NLP libraries ... 
+2021-03-22 14:38:22,105:INFO:The libraries were loaded in 10.413743257522583 seconds
+2021-03-22 14:38:22,609:INFO: Creating the data frame ...
+2021-03-22 14:38:22,662:INFO: There were at least 12 wrong labels in the file
+2021-03-22 14:38:35,772:INFO: There were at least 0 wrong labels in the file
+2021-03-22 14:38:35,791:INFO: ... created
+2021-03-22 14:38:35,791:INFO: It took 13.181759119033813 seconds
+2021-03-22 14:38:35,889:INFO:preprocessing data ...
+2021-03-22 14:38:36,065:INFO:Data has been preprocessed
+2021-03-22 14:38:36,065:INFO:Making checkpoint for the preprocessed data ...
+2021-03-22 14:38:36,065:INFO: Splitting data and creating data sets ...
+2021-03-22 14:38:36,065:INFO:Moving model to cuda ...
+2021-03-22 14:38:36,065:INFO:loading archive file C:\Users\AlejoLopezAvila\PycharmProjects\NER_with_preprocess\models\bert-base-uncased
+2021-03-22 14:38:36,065:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-03-22 14:38:37,247:INFO:Starting Fine-tuning ...
+2021-03-22 14:38:37,255:INFO:Start epoch 1
+2021-03-22 14:40:13,545:INFO:Loading NLP libraries ... 
+2021-03-22 14:40:22,195:INFO:The libraries were loaded in 8.650177478790283 seconds
+2021-03-22 14:40:22,195:INFO:Loading NLP libraries ... 
+2021-03-22 14:40:31,174:INFO:The libraries were loaded in 8.97826886177063 seconds
+2021-03-22 14:40:31,660:INFO: Creating the data frame ...
+2021-03-22 14:40:31,713:INFO: There were at least 12 wrong labels in the file
+2021-03-22 14:40:45,400:INFO: There were at least 0 wrong labels in the file
+2021-03-22 14:40:45,409:INFO: ... created
+2021-03-22 14:40:45,409:INFO: It took 13.749327421188354 seconds
+2021-03-22 14:40:45,512:INFO:preprocessing data ...
+2021-03-22 14:40:45,685:INFO:Data has been preprocessed
+2021-03-22 14:40:45,685:INFO:Making checkpoint for the preprocessed data ...
+2021-03-22 14:40:45,695:INFO: Splitting data and creating data sets ...
+2021-03-22 14:40:45,695:INFO:Moving model to cuda ...
+2021-03-22 14:40:45,695:INFO:loading archive file C:\Users\AlejoLopezAvila\PycharmProjects\NER_with_preprocess\models\bert-base-uncased
+2021-03-22 14:40:45,695:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-03-22 14:40:46,799:INFO:Starting Fine-tuning ...
+2021-03-22 14:40:46,799:INFO:Start epoch 1
+2021-03-22 14:40:50,784:INFO:Loading NLP libraries ... 
+2021-03-22 14:40:58,734:INFO:The libraries were loaded in 7.950465202331543 seconds
+2021-03-22 14:41:02,703:INFO:Loading NLP libraries ... 
+2021-03-22 14:41:10,752:INFO:The libraries were loaded in 8.049321174621582 seconds
+2021-03-22 14:41:14,754:INFO:Loading NLP libraries ... 
+2021-03-22 14:41:22,968:INFO:The libraries were loaded in 8.214330196380615 seconds
+2021-03-22 14:41:27,017:INFO:Loading NLP libraries ... 
+2021-03-22 14:41:35,359:INFO:The libraries were loaded in 8.342442035675049 seconds
+2021-03-22 14:42:02,771:INFO:Loading NLP libraries ... 
+2021-03-22 14:42:11,083:INFO:The libraries were loaded in 8.31187129020691 seconds
+2021-03-22 14:42:11,550:INFO: Creating the data frame ...
+2021-03-22 14:42:11,596:INFO: There were at least 12 wrong labels in the file
+2021-03-22 14:42:24,820:INFO: There were at least 0 wrong labels in the file
+2021-03-22 14:42:24,838:INFO: ... created
+2021-03-22 14:42:24,838:INFO: It took 13.28732967376709 seconds
+2021-03-22 14:42:24,938:INFO:preprocessing data ...
+2021-03-22 14:42:25,101:INFO:Data has been preprocessed
+2021-03-22 14:42:25,101:INFO:Making checkpoint for the preprocessed data ...
+2021-03-22 14:42:25,101:INFO: Splitting data and creating data sets ...
+2021-03-22 14:42:25,101:INFO:Moving model to cuda ...
+2021-03-22 14:42:25,101:INFO:loading archive file C:\Users\AlejoLopezAvila\PycharmProjects\NER_with_preprocess\models\bert-base-uncased
+2021-03-22 14:42:25,101:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-03-22 14:42:26,214:INFO:Starting Fine-tuning ...
+2021-03-22 14:42:26,214:INFO:Start epoch 1
+2021-03-22 14:50:21,297:INFO:Loading NLP libraries ... 
+2021-03-22 14:50:30,155:INFO:The libraries were loaded in 8.857534170150757 seconds
+2021-03-22 14:50:30,654:INFO: Creating the data frame ...
+2021-03-22 14:50:30,708:INFO: There were at least 12 wrong labels in the file
+2021-03-22 14:50:44,565:INFO: There were at least 0 wrong labels in the file
+2021-03-22 14:50:44,576:INFO: ... created
+2021-03-22 14:50:44,576:INFO: It took 13.921674251556396 seconds
+2021-03-22 14:50:44,681:INFO:preprocessing data ...
+2021-03-22 14:50:44,854:INFO:Data has been preprocessed
+2021-03-22 14:50:44,854:INFO:Making checkpoint for the preprocessed data ...
+2021-03-22 14:50:44,854:INFO: Splitting data and creating data sets ...
+2021-03-22 14:50:44,862:INFO:Moving model to cuda ...
+2021-03-22 14:50:44,862:INFO:loading archive file C:\Users\AlejoLopezAvila\PycharmProjects\NER_with_preprocess\models\bert-base-uncased
+2021-03-22 14:50:44,865:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-03-22 14:51:26,359:INFO:Loading NLP libraries ... 
+2021-03-22 14:51:34,679:INFO:The libraries were loaded in 8.319919347763062 seconds
+2021-03-22 14:51:35,645:INFO: Creating the data frame ...
+2021-03-22 14:51:35,815:INFO: There were at least 12 wrong labels in the file
+2021-03-22 14:51:55,986:INFO: There were at least 0 wrong labels in the file
+2021-03-22 14:51:56,045:INFO: ... created
+2021-03-22 14:51:56,045:INFO: It took 20.4008948802948 seconds
+2021-03-22 14:51:56,119:INFO:preprocessing data ...
+2021-03-22 14:51:56,843:INFO:Data has been preprocessed
+2021-03-22 14:51:56,843:INFO:Making checkpoint for the preprocessed data ...
+2021-03-22 14:51:56,845:INFO: Splitting data and creating data sets ...
+2021-03-22 14:51:56,845:INFO:Moving model to cuda ...
+2021-03-22 14:51:56,845:INFO:loading archive file C:\Users\AlejoLopezAvila\PycharmProjects\NER_with_preprocess\models\bert-base-uncased
+2021-03-22 14:51:56,845:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-03-22 14:52:50,218:INFO:Loading NLP libraries ... 
+2021-03-22 14:52:58,860:INFO:The libraries were loaded in 8.64265489578247 seconds
+2021-03-22 14:52:59,338:INFO: Creating the data frame ...
+2021-03-22 14:52:59,385:INFO: There were at least 12 wrong labels in the file
+2021-03-22 14:53:12,543:INFO: There were at least 0 wrong labels in the file
+2021-03-22 14:53:12,578:INFO: ... created
+2021-03-22 14:53:12,578:INFO: It took 13.240058422088623 seconds
+2021-03-22 14:53:12,678:INFO:preprocessing data ...
+2021-03-22 14:53:12,841:INFO:Data has been preprocessed
+2021-03-22 14:53:12,841:INFO:Making checkpoint for the preprocessed data ...
+2021-03-22 14:53:12,841:INFO: Splitting data and creating data sets ...
+2021-03-22 14:53:12,841:INFO:Moving model to cuda ...
+2021-03-22 14:53:12,841:INFO:loading archive file C:\Users\AlejoLopezAvila\PycharmProjects\NER_with_preprocess\models\bert-base-uncased
+2021-03-22 14:53:12,856:INFO:Model config {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+2021-03-22 14:53:13,922:INFO:Starting Fine-tuning ...
+2021-03-22 14:53:13,922:INFO:Start epoch 1
+2021-03-22 15:12:47,013:INFO:Train Loss = 1.2606798161758235
+2021-03-22 15:12:47,013:INFO:Test Loss = 0.5630571725891858
+2021-03-22 15:12:47,013:INFO:Accuracy for tags is = 91.00814759223978
+2021-03-22 15:12:47,013:INFO:Accuracy for pos is = 91.65815011531562
+2021-03-22 15:12:47,013:INFO:End epoch 1
+2021-03-22 15:12:47,013:INFO:Testing epoch 1
+2021-03-22 15:12:47,448:INFO:End epoch 1 with loss 0.5630571725891858 asnd best loss 0.5630571725891858
+2021-03-22 15:12:47,448:INFO:Start epoch 2

@@ -110,4 +110,6 @@ def validation(data_loader, model, device):
         final_loss += loss.item()
     tag_acc = np.array(total_tag_acc).mean()
     pos_acc = np.array(total_pos_acc).mean()
-    return final_loss / len(data_loader), tag_acc, pos_acc
+    return final_loss / len(
+
+    ), tag_acc, pos_acc

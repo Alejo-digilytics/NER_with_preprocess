@@ -1,6 +1,7 @@
 from os.path import join
 import os
 
+
 # Hyperparameters
 MAX_LEN = 128
 TRAIN_BATCH_SIZE = 16
@@ -13,15 +14,13 @@ BASE_DATA_PATH = join(BASE_PATH, "Data")
 MODELS_PATHS = join(BASE_PATH, "models")
 
 # MODELS
-FINBERT_UNCASED_PATH = join(MODELS_PATHS, "finbert-uncased")
-FINBERT_CASED_PATH = join(MODELS_PATHS, "finbert-cased")
-BERT_CASED_PATH = join(MODELS_PATHS, "bert-base-cased")
+FINBERT_UNCASED = join(MODELS_PATHS, "finbert-uncased")
+MORTBERT_UNCASED = join(MODELS_PATHS, "mortbert-uncased")
 BERT_UNCASED_PATH = join(MODELS_PATHS, "bert-base-uncased")
 
 # Vocabularies
-FINBERT_UNCASED_VOCAB = join(FINBERT_UNCASED_PATH, "vocab.txt")
-FINBERT_CASED_VOCAB = join(FINBERT_CASED_PATH, "vocab.txt")
-BERT_CASED_VOCAB = join(BERT_CASED_PATH, "vocab.txt")
+FINBERT_UNCASED_VOCAB = join(FINBERT_UNCASED, "vocab.txt")
+MORTBERT_UNCASED_VOCAB = join(MORTBERT_UNCASED, "vocab.txt")
 BERT_UNCASED_VOCAB = join(BERT_UNCASED_PATH, "vocab.txt")
 
 # DATA PATHS

@@ -1,5 +1,4 @@
 import nltk
-from nltk import word_tokenize
 import pandas as pd
 import os
 import re
@@ -36,10 +35,10 @@ class NER_preprocessing:
         self.path_NER_DF = os.path.join(self.path_Data, "NER_DF")
         self.NER_listed = os.listdir(self.path_NER_data)
         self.lines_sent = lines_sent
+        nlp_setup("NER")
         self.nlp = spacy.load("en_core_web_sm")
         self.tokenizer = self.nlp.tokenizer
         self.spliter = "lines" if spliter == "lines" else "dots"
-        nlp_setup("NER")
 
     def split_by_dots(self, path):
         """

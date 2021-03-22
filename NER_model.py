@@ -70,13 +70,17 @@ class NER:
 
         # Fix the tokenizer and special tokens
         if base_model == "bert-base-uncased":
-            #self.tokenizer = transformers.BertTokenizer.from_pretrained('bert-base-uncased')
             self.tokenizer = BertTokenizer(vocab_file=config.BERT_UNCASED_VOCAB,
                                            do_lower_case=True,
                                            do_basic_tokenize=True
                                            )
             self.special_tokens_dict = special_tokens_dict(config.BERT_UNCASED_VOCAB)
         elif base_model == "finbert-uncased":
+            self.tokenizer = BertTokenizer(vocab_file=config.FINBERT_UNCASED_VOCAB,
+                                           do_lower_case=True,
+                                           do_basic_tokenize=True)
+            self.special_tokens_dict = special_tokens_dict(config.FINBERT_UNCASED_VOCAB)
+        elif base_model == "mortbert-uncased":
             self.tokenizer = BertTokenizer(vocab_file=config.FINBERT_UNCASED_VOCAB,
                                            do_lower_case=True,
                                            do_basic_tokenize=True)
@@ -200,7 +204,7 @@ class NER:
         name += str(config.VALID_BATCH_SIZE) + "_train_batch=" + str(config.TRAIN_BATCH_SIZE) + "_max_len="
         name += str(config.MAX_LEN) + "_dropouts=" + str(self.tag_dropout) + "_" + str(self.pos_dropout)
         name += "_" + str(self.ner_dropout) + "_architecture=" + str(self.architecture)
-        name += '_POS='+str(best_pos_acc)+'_TAG='+str(best_tag_acc)
+        name += '_POS=' + str(best_pos_acc) + '_TAG=' + str(best_tag_acc)
         ploter(output_path=config.BASE_DATA_PATH,
                name=name,
                num_epochs=self.config.EPOCHS,
@@ -254,23 +258,23 @@ class NER:
             # argmax: max value axis 2 ; cpu().numpy(): convert to cuda variable
             print(tokenized_text)
             print(self.tag_std.inverse_transform(tag.argmax(2).cpu().numpy().reshape(-1))
-                  [1:len(tokenized_text)+1])
+                  [1:len(tokenized_text) + 1])
             print(self.pos_std.inverse_transform(pos.argmax(2).cpu().numpy().reshape(-1))
-                  [1:len(tokenized_text)+1])
+                  [1:len(tokenized_text) + 1])
 
     def model_device(self, phase, num_tag, num_pos):
         """ Use GPU, load model and move it there -- device or cpu if cuda is not available """
         self.device = check_device()
-        self.model = BERT_NER(num_tag=num_tag,
+        self.model = BERT_NER(base_model=self.base_model,
+                              num_tag=num_tag,
                               num_pos=num_pos,
                               num_ner=self.num_ner,
-                              base_model=self.base_model,
                               tag_dropout=self.tag_dropout,
                               pos_dropout=self.pos_dropout,
                               ner_dropout=self.ner_dropout,
-                              tag_dropout_2 = self.tag_dropout_2,
-                              pos_dropout_2 = self.pos_dropout_2,
-                              ner_dropout_2 = self.ner_dropout_2,
+                              tag_dropout_2=self.tag_dropout_2,
+                              pos_dropout_2=self.pos_dropout_2,
+                              ner_dropout_2=self.ner_dropout_2,
                               architecture=self.architecture,
                               ner=self.ner,
                               middle_layer=self.middle_layer)

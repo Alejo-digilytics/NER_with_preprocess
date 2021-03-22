@@ -14,7 +14,8 @@ import time
 logging.basicConfig(filename='test.log', level=logging.DEBUG,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
-#Preprocessing Part
+
+# Preprocessing Part
 
 def txt_finder(path, position, encod):
     """
@@ -41,18 +42,17 @@ def nlp_setup(preprocessing):
     """
     start = time.time()
     logging.info("Loading NLP libraries ... ")
-    if preprocessing.lower()=="NER":
+    if preprocessing.lower() == "ner":
         os.system("python -m spacy download en_core_web_sm")
         spacy.prefer_gpu()
     else:
         pass
     nltk.download('punkt')
     end = time.time()
-    logging.info("The libraries were loaded in {} seconds".format(end-start))
+    logging.info("The libraries were loaded in {} seconds".format(end - start))
 
 
-
-#NER part
+# NER part
 
 def check_device():
     """ This function checks the cuda's setting. It prints the setting. """

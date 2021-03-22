@@ -1,7 +1,7 @@
 import torch.nn as nn
 import src.config as config
 from src.train_val_loss import loss_function
-from pytorch_pretrained_bert import BertModel, BertConfig
+from pytorch_pretrained_bert import BertModel
 
 
 class BERT_NER(nn.Module):
@@ -24,80 +24,56 @@ class BERT_NER(nn.Module):
                  middle_layer=100):
         super(BERT_NER, self).__init__()
 
+        # base model and architecture
         self.base_model = base_model
         self.architecture = architecture
         self.ner = ner
+
+        # fix path to the base model
         if base_model == "bert-base-uncased":
             self.base_model_path = config.BERT_UNCASED_PATH
-        elif base_model == "bert_base_cased":
-            self.base_model_path = config.BERT_CASED_PATH
-        elif base_model == "finbert-vocab-cased":
-            self.base_model_path = config.FINBERT_CASED_PATH
-        elif base_model == "finbert-vocab-uncased":
-            self.base_model_path = config.FINBERT_UNCASED_PATH
+        elif base_model == "mortbert-uncased":
+            self.base_model_path = config.MORTBERT_UNCASED
+        elif base_model == "finbert-uncased":
+            self.base_model_path = config.FINBERT_UNCASED
 
         if base_model == "bert-base-uncased":
             self.model = BertModel.from_pretrained(config.BERT_UNCASED_PATH)
-            self.config = BertConfig(vocab_size_or_config_json_file=30522,
-                                     hidden_size=768,
-                                     num_hidden_layers=12,
-                                     num_attention_heads=12,
-                                     intermediate_size=3072,
-                                     hidden_act='gelu',
-                                     hidden_dropout_prob=0.1,
-                                     attention_probs_dropout_prob=0.1,
-                                     max_position_embeddings=512,
-                                     type_vocab_size=2,
-                                     initializer_range=0.02
-
-                                     )
         if base_model == "finbert-uncased":
-            self.model = BertModel.from_pretrained(config.FINBERT_UNCASED_PATH)
-            self.config = BertConfig(vocab_size_or_config_json_file=30873,
-                                     hidden_size=768,
-                                     num_hidden_layers=12,
-                                     num_attention_heads=12,
-                                     intermediate_size=3072,
-                                     hidden_act='gelu',
-                                     hidden_dropout_prob=0.1,
-                                     attention_probs_dropout_prob=0.1,
-                                     max_position_embeddings=512,
-                                     type_vocab_size=2,
-                                     initializer_range=0.02
-                                     )
+            self.model = BertModel.from_pretrained(config.FINBERT_UNCASED)
 
-            # NER parameters
-            self.num_tag = num_tag
-            self.num_pos = num_pos
+        # NER parameters
+        self.num_tag = num_tag
+        self.num_pos = num_pos
+        if self.ner:
+            self.num_ner = num_ner
+
+        # First dropout
+        self.bert_drop_tag_1 = nn.Dropout(tag_dropout)
+        self.bert_drop_pos_1 = nn.Dropout(pos_dropout)
+        if self.ner:
+            self.bert_drop_ner_1 = nn.Dropout(ner_dropout)
+
+        # Architecture
+        if self.architecture == "simple":
+            # 768 (BERT) composed with a linear function
+            self.out_tag = nn.Linear(self.model.config.hidden_size, self.num_tag)
+            self.out_pos = nn.Linear(self.model.config.hidden_size, self.num_pos)
+            if ner:
+                self.out_pos = nn.Linear(768, self.num_ner)
+
+        if self.architecture == "complex":
+            # 768 (BERT) composed with a linear function
+            self.tag_mid = nn.Linear(self.model.config.hidden_size, middle_layer)
+            self.bert_drop_tag_2 = nn.Dropout(tag_dropout_2)
+            self.out_tag = nn.Linear(middle_layer, self.num_tag)
+            self.pos_mid = nn.Linear(self.model.config.hidden_size, middle_layer)
+            self.bert_drop_pos_2 = nn.Dropout(pos_dropout_2)
+            self.out_pos = nn.Linear(middle_layer, self.num_pos)
             if self.ner:
-                self.num_ner = num_ner
-
-            # First dropout
-            self.bert_drop_tag_1 = nn.Dropout(tag_dropout)
-            self.bert_drop_pos_1 = nn.Dropout(pos_dropout)
-            if self.ner:
-                self.bert_drop_ner_1 = nn.Dropout(ner_dropout)
-
-            # Architecture
-            if self.architecture == "simple":
-                # 768 (BERT) composed with a linear function
-                self.out_tag = nn.Linear(self.config.hidden_size, self.num_tag)
-                self.out_pos = nn.Linear(self.config.hidden_size, self.num_pos)
-                if ner:
-                    self.out_pos = nn.Linear(768, self.num_ner)
-
-            if self.architecture == "complex":
-                # 768 (BERT) composed with a linear function
-                self.tag_mid = nn.Linear(self.config.hidden_size, middle_layer)
-                self.bert_drop_tag_2 = nn.Dropout(tag_dropout_2)
-                self.out_tag = nn.Linear(middle_layer, self.num_tag)
-                self.pos_mid = nn.Linear(self.config.hidden_size, middle_layer)
-                self.bert_drop_pos_2 = nn.Dropout(pos_dropout_2)
-                self.out_pos = nn.Linear(middle_layer, self.num_pos)
-                if self.ner:
-                    self.ner_mid = nn.Linear(self.config.hidden_size, middle_layer)
-                    self.bert_drop_ner_2 = nn.Dropout(ner_dropout_2)
-                    self.out_ner = nn.Linear(middle_layer, self.num_ner)
+                self.ner_mid = nn.Linear(self.model.config.hidden_size, middle_layer)
+                self.bert_drop_ner_2 = nn.Dropout(ner_dropout_2)
+                self.out_ner = nn.Linear(middle_layer, self.num_ner)
 
     def forward(self, ids, mask, tokens_type_ids, target_pos, target_tag, target_ner=None):
         """
