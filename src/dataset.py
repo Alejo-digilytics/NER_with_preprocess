@@ -27,6 +27,7 @@ class Entities_dataset:
         self.special_tokens = special_tokens
 
     def __len__(self):
+
         return len(self.texts)
 
     def __getitem__(self, item):

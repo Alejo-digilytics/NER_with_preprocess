@@ -169,7 +169,9 @@ class NER:
                                               self.optimizer,
                                               self.device,
                                               self.scheduler)
-            test_loss, tag_acc, pos_acc = train_val_loss.validation(self.test_data_loader,
+            test_loss, tag_acc, pos_acc = train_val_loss.validation(self.tag_std,
+                                                                    self.pos_std,
+                                                                    self.test_data_loader,
                                                                     self.model,
                                                                     self.device)
 

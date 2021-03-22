@@ -71,7 +71,7 @@ def loss_function(output, target, mask, num_labels):
     return loss
 
 
-def validation(data_loader, model, device):
+def validation(tag_std, pos_std, data_loader, model, device):
     """ Computes loss and accuracy for the test set
         -  data_loader: pytorch.DataLoader object
         -  model: BERT or another
@@ -91,6 +91,7 @@ def validation(data_loader, model, device):
 
         # FP and loss
         _tag, _pos, loss = model(**data)
+        O_tag = tag_std.transform(['O'])[0]
 
         # Accuracy
         np_ids = data["ids"].detach().cpu().numpy()
@@ -103,13 +104,13 @@ def validation(data_loader, model, device):
         # Loop over sentences to compute accuracy per sentence
         for i in range(dim_1):
             real_tokens = np.count_nonzero(data["ids"].detach().cpu().numpy()[i, :])
-            comparison_tag = (pred_tag[i, :real_tokens] == target_tag[i, :real_tokens]).sum()
+            O_array = np.empty(real_tokens)
+            O_array.fill(O_tag)
+            comparison_tag = (pred_tag[i, :real_tokens] == target_tag[i, :real_tokens] != O_array).sum()
             comparison_pos = (pred_pos[i, :real_tokens] == target_pos[i, :real_tokens]).sum()
             total_tag_acc.append((comparison_tag / real_tokens) * 100)
             total_pos_acc.append((comparison_pos / real_tokens) * 100)
         final_loss += loss.item()
     tag_acc = np.array(total_tag_acc).mean()
     pos_acc = np.array(total_pos_acc).mean()
-    return final_loss / len(
-
-    ), tag_acc, pos_acc
+    return final_loss / len(data_loader), tag_acc, pos_acc

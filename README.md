@@ -17,6 +17,9 @@ Pay attention to the fact that the current Pytorch version do not support cuda 1
 At most you can use cuda 11.0, which can be found here:
 `https://developer.nvidia.com/cuda-11.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal`
 
+It can be install using the following command:
+`pip install torch==1.7.1+cu110 -f https://download.pytorch.org/whl/torch_stable.html`
+
 If you want to check your cuda you can do it as follows:
 
     1. Check cuda for windows: run the following command in the cmd "nvcc --version"

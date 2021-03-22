@@ -7,12 +7,12 @@ logging.basicConfig(filename='test.log', level=logging.DEBUG, format='%(asctime)
 
 if __name__ == '__main__':
     # Preprocessing part
-    path = os.path.join(os.getcwd(), "Data", "NER_data", "BankStatements.txt")
-    Preprocesser = NER_preprocessing(lines_sent=1, spliter="lines")
+    #path = os.path.join(os.getcwd(), "Data", "NER_data", "BankStatements.txt")
+    #Preprocesser = NER_preprocessing(lines_sent=1, spliter="lines")
     # Preprocesser.special_split(path)
     # Preprocesser.create_csv_NER_combined()
-    Preprocesser.create_csv_NER()
-    print('Preprocessing Complete....')
+    #Preprocesser.create_csv_NER()
+    #print('Preprocessing Complete....')
 
 
     #NER part
