@@ -5,3 +5,4 @@ Data/NER_data/ner_dataset.csv
 Data/NER_data/ner.csv
 models/bert_base_uncased/
 models/finbert_vocab_uncased/
+test.log
