@@ -28,4 +28,5 @@ TRAINING_FILE = join(BASE_DATA_PATH, "NER_DF", "ner_dataset.csv")
 ACC_FILE = join(BASE_DATA_PATH, "NER_data")
 CHECKPOINTS_META_PATH = join(BASE_DATA_PATH, "Checkpoints", "std_data.bin")
 CHECKPOINTS_MODEL_PATH = join(BASE_DATA_PATH, "Checkpoints", "model.bin")
+CHECKPOINTS_LOG = join(BASE_DATA_PATH, "Checkpoints", "test.log")
 

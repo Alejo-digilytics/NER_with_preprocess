@@ -10,8 +10,9 @@ import spacy
 import nltk
 import logging
 import time
+import src.config as config
 
-logging.basicConfig(filename='test.log', level=logging.DEBUG,
+logging.basicConfig(filename= config.CHECKPOINTS_LOG, level=logging.DEBUG,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
 
