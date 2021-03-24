@@ -83,6 +83,7 @@ def validation(tag_std, pos_std, data_loader, model, device):
     final_loss = 0
     total_tag_acc = []
     total_pos_acc = []
+    O_tag = tag_std.transform(['O'])[0]
 
     for data in tqdm(data_loader, total=len(data_loader)):
         # Load data
@@ -91,25 +92,27 @@ def validation(tag_std, pos_std, data_loader, model, device):
 
         # FP and loss
         _tag, _pos, loss = model(**data)
-        O_tag = tag_std.transform(['O'])[0]
 
         # Accuracy
-        np_ids = data["ids"].detach().cpu().numpy()
+        mask = data["mask"].detach().cpu().numpy()
         target_pos = data["target_pos"].detach().cpu().numpy()
         target_tag = data["target_tag"].detach().cpu().numpy()
+        O_array = np.empty(mask.shape)
+        O_array.fill(O_tag)
+        my_null = np.zeros(mask.shape)
         pred_pos = _pos.argmax(2).cpu().numpy()
         pred_tag = _tag.argmax(2).cpu().numpy()
-        dim_1 = np_ids.shape[0]
+        # filter for padding and O tag
+        mask_2 = np.where(target_tag != O_array, mask, my_null)
+        # filter by input
+        mask_2_total = mask_2.sum(axis=1)
+        mask_1_total = mask.sum(axis=1)
+        comparison_tag = np.where((target_tag == pred_tag), mask_2, my_null).sum(axis=1)/mask_2_total
+        comparison_pos = np.where((target_pos == pred_pos), mask, my_null).sum(axis=1)/mask_1_total
 
-        # Loop over sentences to compute accuracy per sentence
-        for i in range(dim_1):
-            real_tokens = np.count_nonzero(data["ids"].detach().cpu().numpy()[i, :])
-            O_array = np.empty(real_tokens)
-            O_array.fill(O_tag)
-            comparison_tag = (pred_tag[i, :real_tokens] == target_tag[i, :real_tokens] != O_array).sum()
-            comparison_pos = (pred_pos[i, :real_tokens] == target_pos[i, :real_tokens]).sum()
-            total_tag_acc.append((comparison_tag / real_tokens) * 100)
-            total_pos_acc.append((comparison_pos / real_tokens) * 100)
+        total_tag_acc.append(comparison_tag.mean() * 100)
+        total_pos_acc.append(comparison_pos.mean() * 100)
+
         final_loss += loss.item()
     tag_acc = np.array(total_tag_acc).mean()
     pos_acc = np.array(total_pos_acc).mean()
