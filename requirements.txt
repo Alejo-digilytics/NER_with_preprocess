@@ -4,29 +4,16 @@ scipy==1.5.4
 spacy==2.3.2
 tqdm==4.53.0
 sklearn==0.0
-torch>=1.7.0
 scikit-learn~=0.23.2
 joblib~=0.17.0
 pytorch-pretrained-bert==0.6.2
 matplotlib==3.1.3 # 3.1.3 to avoid problems in the cloud
 gensim==3.8.3
-#pdftotext==2.1.5
-poppler-utils>=0.1.0
-opencv-python==4.4.0.46
-pdfplumber==0.5.24
 wget==3.2
-bs4==0.0.1
-BeautifulSoup4==4.9.3
 requests==2.24.0
-lxml==4.6.1
-pytesseract==0.3.6
 pdf2image==1.14.0
 PyPDF2==1.26.0
-Pillow~=8.0.1
 numpy==1.18.5
 nltk == 3.5
-#pdfminer==20191125
-#pdfminer2==20151206
 pdfminer.six==20200517
 pyPdf==1.13
-pandas==1.1.4
