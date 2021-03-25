@@ -40,7 +40,6 @@ The BERT-like model must be added in the folder models containing the following 
 
 The NER data set must be added manually into the folder `Data/NER_data` as txt files.
 This data is preprocessed using the class NER_preprocessing from `src/Preprocessing.py`.
-
 There are two ways of splitting the data. The first one based on the sentences and a special one
 for this data set considering text and tables separately.
 
