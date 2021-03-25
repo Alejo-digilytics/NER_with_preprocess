@@ -6,15 +6,11 @@ import logging
 logging.basicConfig(filename='test.log', level=logging.DEBUG, format='%(asctime)s:%(levelname)s:%(message)s')
 
 if __name__ == '__main__':
-    # Preprocessing part
-    #path = os.path.join(os.getcwd(), "Data", "NER_data", "BankStatements.txt")
-    #Preprocesser = NER_preprocessing(lines_sent=1, spliter="lines")
-    # Preprocesser.special_split(path)
-    # Preprocesser.create_csv_NER_combined()
-    #Preprocesser.create_csv_NER()
-    #print('Preprocessing Complete....')
-
-
+    """
+    Preprocessor = NER_preprocessing(lines_sent=1, spliter="lines")
+    Preprocessor.create_csv_NER()
+    logging.info('Preprocessing Complete....')
+    """
     #NER part
     print('NER Started....')
     model = NER(encoding="utf-8", base_model="bert-base-uncased",
