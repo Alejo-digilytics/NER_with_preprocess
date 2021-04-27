@@ -74,6 +74,7 @@ class NER_preprocessing:
         file = open(path, "r", encoding="utf8")
         # the following is a list of strings, which are the lines
         lines_sentences = [" ".join(sentence.split()) for sentence in file]
+
         # lines_sentences = list(filter(lambda a: a not in ["", ",", ".", ""], lines_sentences))
         nonlabeled = 0
         B_counter = 0
@@ -170,6 +171,7 @@ class NER_preprocessing:
             for sentence in list_sentences:
                 counter_new = counter + 1
                 wt = sentence.strip().split(" ")
+                wt = [word for word in wt if word != " "]
                 just_words = []
                 for i in range(len(wt)):
                     # Real words case
@@ -189,7 +191,7 @@ class NER_preprocessing:
                             counter = counter_new
                         l_tag.extend(["O"] * tokens_len)
                     elif self.label_matcher(wt[i]) != "space":
-                        tag = wt[i].replace("[", "").replace("]", "")
+                        tag = wt[i].replace("['", "").replace("']", "")
                         l_tag[-tokens_len:] = [tag] * tokens_len
                     else:
                         pass
@@ -198,6 +200,11 @@ class NER_preprocessing:
                 doc = self.nlp(sentence)
                 for token in doc:
                     l_POS.append(token.pos_)
+        if len(l_POS) < len(l_sentence):
+            padding_no = len(l_sentence) - len(l_POS)
+            l_POS.extend(["O"] * padding_no)
+        if len(l_POS) > len(l_sentence):
+            l_POS = l_POS[:len(l_sentence)]
         df["Sentence"] = l_sentence
         df["Word"] = l_words
         df["POS"] = l_POS

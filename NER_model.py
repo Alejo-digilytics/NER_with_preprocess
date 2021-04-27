@@ -263,6 +263,7 @@ class NER:
                   [1:len(tokenized_text) + 1])
             print(self.pos_std.inverse_transform(pos.argmax(2).cpu().numpy().reshape(-1))
                   [1:len(tokenized_text) + 1])
+    #
 
     def model_device(self, phase, num_tag, num_pos):
         """ Use GPU, load model and move it there -- device or cpu if cuda is not available """
