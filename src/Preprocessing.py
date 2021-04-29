@@ -74,7 +74,23 @@ class NER_preprocessing:
         file = open(path, "r", encoding="utf8")
         # the following is a list of strings, which are the lines
         lines_sentences = [" ".join(sentence.split()) for sentence in file]
-
+        if not lines_sentences:
+            print("Following file was empty: ", path)
+        elif len(lines_sentences) == 1:
+            list_of_words = lines_sentences[0].split(" ")
+            lines_sentences = []
+            aux_list = []
+            counter = 0
+            for word in list_of_words:
+                if counter % 4 == 0:
+                    aux_list.append(word)
+                    lines_sentences.append(" ".join(aux_list))
+                    aux_list = []
+                else:
+                    aux_list.append(word)
+                counter += 1
+        else:
+            pass
         # lines_sentences = list(filter(lambda a: a not in ["", ",", ".", ""], lines_sentences))
         nonlabeled = 0
         B_counter = 0
@@ -130,11 +146,11 @@ class NER_preprocessing:
     def BL_matcher(case, text):
         """ Matcher to count numbers of B, L or any labels in the text """
         if case == "B":
-            return re.findall("\[[A-Z]{1,4}-B\]", text)
+            return re.findall("\[\'[A-Z]{1,4}-B\'\]", text)
         elif case == "L":
-            return re.findall("\[[A-Z]{1,4}-L\]", text)
+            return re.findall("\[\'[A-Z]{1,4}-L\'\]", text)
         elif case == "all":
-            return len(re.findall("\[[A-Z]{1,4}-[A-Z]\]", text))
+            return len(re.findall("\[\'[A-Z]{1,4}-[A-Z]\'\]", text))
 
     @staticmethod
     def label_matcher(word):
@@ -142,7 +158,7 @@ class NER_preprocessing:
         if word == " ":
             return "space"
         else:
-            return re.search("\[[A-Z]{1,4}-[A-Z]\]", word)
+            return re.search("\[\'[A-Z]{1,4}-[A-Z]\'\]", word)
 
     def create_csv_NER(self):
         """
@@ -171,7 +187,6 @@ class NER_preprocessing:
             for sentence in list_sentences:
                 counter_new = counter + 1
                 wt = sentence.strip().split(" ")
-                wt = [word for word in wt if word != " "]
                 just_words = []
                 for i in range(len(wt)):
                     # Real words case

@@ -71,39 +71,33 @@ def check_device():
 
 def preprocess_data_BERT(data_path, my_encoding="utf-8"):
     """
-    This function standardizes the pos and tag columns from the dataframe
+    This function standardizes the tag columns from the dataframe
     Input:
-        - data_path (str): path to the DF : Sentence, word, pos, tag
+        - data_path (str): path to the DF : Sentence, word, tag
     Output:
         - sentences (ndarray): contains sentences
-        - pos (ndarray): contains pos
         - tag (ndarray): contains tag
-        - pos_std (ndarray): contains pos_std standardized
         - tag_std (ndarray): contains tag_std standardized
     """
 
-    # The data from the df comes with 4 columns> Sentence, word, pos, tag
+    # The data from the df comes with 4 columns> Sentence, word, tag
     df = pd.read_csv(data_path, encoding=my_encoding)
 
     # Get columns names and fill possible Nan values
     cols = df.columns.tolist()
     df[cols[0]] = df[cols[0]].fillna(method="ffill")
-    # df.to_csv("processed_df_K.csv")
 
-    # Encoding tags and pos for preprocessing, which will be added as columns
+    # Encoding tags for preprocessing, which will be added as columns
     tag_std = prep.LabelEncoder()
-    pos_std = prep.LabelEncoder()
 
-    # using fit_transform we standardize the distributions of POS and tag
-    df["POS"] = pos_std.fit_transform(df["POS"])
+    # using fit_transform we standardize the distributions of tag
     df["Tag"] = tag_std.fit_transform(df["Tag"])
 
     # Convert into lists of lists and group by sentence
     sentences = df.groupby(cols[0])["Word"].apply(list).values
-    pos = df.groupby(cols[0])["POS"].apply(list).values
     tag = df.groupby(cols[0])["Tag"].apply(list).values
 
-    return sentences, pos, tag, pos_std, tag_std
+    return sentences, tag, tag_std
 
 
 def special_tokens_dict(vocab_path):

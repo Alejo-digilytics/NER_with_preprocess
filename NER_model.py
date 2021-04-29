@@ -6,7 +6,6 @@ import numpy as np
 from torch.utils.data import DataLoader
 import torch
 from transformers import AdamW, get_linear_schedule_with_warmup
-# import transformers
 from pytorch_pretrained_bert import BertTokenizer
 
 # Internal calls
@@ -33,31 +32,25 @@ logger.addHandler(handler)
 
 
 class NER:
-    def __init__(self, encoding, base_model="bert-base-uncased",
-                 num_ner=0, tag_dropout=0.3, pos_dropout=0.3, ner_dropout=None,
-                 tag_dropout_2=0.3, pos_dropout_2=0.3, ner_dropout_2=None,
-                 architecture="simple", ner=False, middle_layer=None
+    def __init__(self, encoding,
+                 base_model="bert-base-uncased",
+                 tag_dropout=0.3,
+                 tag_dropout_2=0.3,
+                 architecture="simple",
+                 middle_layer=None
                  ):
         """ There are only two base_model options allowed: "bert-base-uncased" and "finbert-uncased" """
         # Fine Tuning parameters
-        self.ner = ner
-        self.num_ner = num_ner
-        self.ner_dropout = ner_dropout
         self.architecture = architecture
         self.middle_layer = middle_layer
         self.tag_dropout = tag_dropout
-        self.pos_dropout = pos_dropout
         self.tag_dropout_2 = tag_dropout_2
-        self.pos_dropout_2 = pos_dropout_2
-        self.ner_dropout_2 = ner_dropout_2
 
         # configuration
         self.config = config
         self.list_train_losses = []
         self.list_test_losses = []
         self.list_tag_acc = []
-        self.list_pos_acc = []
-        self.pos_std = None
         self.tag_std = None
         self.device = None
         if "utf" in encoding.lower():
@@ -87,20 +80,16 @@ class NER:
             self.special_tokens_dict = special_tokens_dict(config.FINBERT_UNCASED_VOCAB)
 
     def training(self, saving=True):
-        logger.info("preprocessing data ...")
+        logger.info("Processing data ...")
 
         # We preprocess and normalize the data and output it as np.arrays/ pd.series
+        sentences, tag, self.tag_std = preprocess_data_BERT(self.config.TRAINING_FILE, self.encoding)
+        logger.info("Data has been processed")
 
-        sentences, pos, tag, self.pos_std, self.tag_std = preprocess_data_BERT(self.config.TRAINING_FILE,
-                                                                               self.encoding)
-
-        logger.info("Data has been preprocessed")
-
-        # Checkpoint for the standardized pos and tag
+        # Checkpoint for the standardized tag
         logger.info("Making checkpoint for the preprocessed data ...")
         if saving:
             data_check_pt = {
-                "pos_std": self.pos_std,
                 "tag_std": self.tag_std
             }
             joblib.dump(value=data_check_pt, filename=config.CHECKPOINTS_META_PATH)
@@ -109,20 +98,16 @@ class NER:
 
         # Save the number of cases per class
         num_tag = len(list(self.tag_std.classes_))
-        num_pos = len(list(self.pos_std.classes_))
-        data4 = np.array(num_pos)
-        np.savez(join(config.BASE_DATA_PATH, "num_pos"), data4)
         data3 = np.array(num_tag)
         np.savez(join(config.BASE_DATA_PATH, "num_tag"), data3)
 
         # Split training set with skl
         logger.info(" Splitting data and creating data sets ...")
-        self.train_sentences, self.test_sentences, self.train_pos, self.test_pos, self.train_tag, self.test_tag \
-            = train_test_split(sentences, pos, tag, random_state=42, test_size=0.2)
+        self.train_sentences, self.test_sentences, self.train_tag, self.test_tag \
+            = train_test_split(sentences, tag, random_state=42, test_size=0.2)
 
         # Format based on Entities_dataset: getitem outputs pandas dataframes
         self.train = dataset.Entities_dataset(texts=self.train_sentences,
-                                              pos=self.train_pos,
                                               tags=self.train_tag,
                                               tokenizer=self.tokenizer,
                                               special_tokens=self.special_tokens_dict,
@@ -130,7 +115,6 @@ class NER:
                                               )
 
         self.test = dataset.Entities_dataset(texts=self.test_sentences,
-                                             pos=self.test_pos,
                                              tags=self.test_tag,
                                              tokenizer=self.tokenizer,
                                              special_tokens=self.special_tokens_dict,
@@ -150,13 +134,12 @@ class NER:
 
         # Load tensor to device and hyperparameters
         logger.info("Moving model to cuda ...")
-        self.model_device(phase="train", num_tag=num_tag, num_pos=num_pos)
+        self.model_device(phase="train", num_tag=num_tag)
         self.hyperparameters()
 
         # initialize the loss
         best_loss = np.inf
         best_tag_acc = 0
-        best_pos_acc = 0
 
         # EPOCHS
         logger.info("Starting Fine-tuning ...")
@@ -169,28 +152,23 @@ class NER:
                                               self.optimizer,
                                               self.device,
                                               self.scheduler)
-            test_loss, tag_acc, pos_acc = train_val_loss.validation(self.tag_std,
-                                                                    self.pos_std,
-                                                                    self.test_data_loader,
-                                                                    self.model,
-                                                                    self.device)
+            test_loss, tag_acc = train_val_loss.validation(self.tag_std,
+                                                           self.test_data_loader,
+                                                           self.model,
+                                                           self.device)
 
             # Accuracies and Losses
             logger.info("Train Loss = {}".format(train_loss))
             logger.info("Test Loss = {}".format(test_loss))
             logger.info("Accuracy for tags is = {}".format(tag_acc))
-            logger.info("Accuracy for pos is = {}".format(pos_acc))
             self.list_train_losses.append(float(train_loss))
             self.list_test_losses.append(float(test_loss))
             self.list_tag_acc.append(float(tag_acc))
-            self.list_pos_acc.append(float(pos_acc))
             logger.info("End epoch {}".format(epoch + 1))
             logger.info("Testing epoch {}".format(epoch + 1))
             if test_loss < best_loss:
                 torch.save(self.model.state_dict(), self.config.CHECKPOINTS_MODEL_PATH)
                 best_loss = test_loss
-            if pos_acc > best_pos_acc:
-                best_pos_acc = pos_acc
             if tag_acc > best_tag_acc:
                 best_tag_acc = tag_acc
             logger.info("End epoch {} with loss {} asnd best loss {}".format(epoch + 1, test_loss, best_loss))
@@ -200,21 +178,19 @@ class NER:
         logger.info("With test losses: {}".format(self.list_test_losses))
 
         # plotting
-        losses_accuracies = {"Tag accuracy": self.list_tag_acc, "Pos accuracy": self.list_pos_acc,
-                             "Train loss": self.list_train_losses, "Test loss": self.list_test_losses}
+        losses_accuracies = {"Tag accuracy": self.list_tag_acc,
+                             "Train loss": self.list_train_losses,
+                             "Test loss": self.list_test_losses}
         name = "model=" + self.base_model + "_epochs=" + str(config.EPOCHS) + "_test_batch="
         name += str(config.VALID_BATCH_SIZE) + "_train_batch=" + str(config.TRAIN_BATCH_SIZE) + "_max_len="
-        name += str(config.MAX_LEN) + "_dropouts=" + str(self.tag_dropout) + "_" + str(self.pos_dropout)
-        name += "_" + str(self.ner_dropout) + "_architecture=" + str(self.architecture)
-        name += '_POS=' + str(best_pos_acc) + '_TAG=' + str(best_tag_acc)
+        name += str(config.MAX_LEN) + "_dropouts=" + str(self.tag_dropout)
+        name += "_architecture=" + str(self.architecture) + '_TAG=' + str(best_tag_acc)
         ploter(output_path=config.BASE_DATA_PATH,
                name=name,
                num_epochs=self.config.EPOCHS,
                **losses_accuracies)
 
         # Saving results
-        data_pos = np.array(self.list_pos_acc)
-        np.savez(join(config.BASE_DATA_PATH, "pos_accuracies_" + name), data_pos)
         data_tag = np.array(self.list_tag_acc)
         np.savez(join(config.BASE_DATA_PATH, "tag_accuracies_" + name), data_tag)
         data1 = np.array(self.list_train_losses)
@@ -228,13 +204,10 @@ class NER:
         # Loading the results
         num_tag = np.load(join(config.BASE_DATA_PATH, "num_tag.npz"))
         num_tag = num_tag.f.arr_0
-        num_pos = np.load(join(config.BASE_DATA_PATH, "num_pos.npz"))
-        num_pos = num_pos.f.arr_0
 
-        # check pos and tag
-        if self.pos_std is None:
+        # check tag
+        if self.tag_std is None:
             std_data = joblib.load(config.CHECKPOINTS_META_PATH)
-            self.pos_std = std_data["pos_std"]
             self.tag_std = std_data["tag_std"]
         else:
             pass
@@ -243,43 +216,32 @@ class NER:
         sentence = text.split()
         tokenized_text = self.tokenizer.tokenize(text)
         tets_text = dataset.Entities_dataset(texts=[sentence],
-                                             pos=[[0] * len(sentence)],
                                              tags=[[0] * len(sentence)],
                                              tokenizer=self.tokenizer,
                                              special_tokens=self.special_tokens_dict,
                                              model_name=self.base_model
                                              )
-        self.model_device(phase="predict", num_tag=num_tag, num_pos=num_pos)
+        self.model_device(phase="predict", num_tag=num_tag)
 
         with torch.no_grad():
             data = tets_text[0]
             for k, v in data.items():
                 data[k] = v.to(self.device).unsqueeze(0)
-            tag, pos, _ = self.model(**data)
+            tag, _ = self.model(**data)
 
             # argmax: max value axis 2 ; cpu().numpy(): convert to cuda variable
             print(tokenized_text)
             print(self.tag_std.inverse_transform(tag.argmax(2).cpu().numpy().reshape(-1))
                   [1:len(tokenized_text) + 1])
-            print(self.pos_std.inverse_transform(pos.argmax(2).cpu().numpy().reshape(-1))
-                  [1:len(tokenized_text) + 1])
-    #
 
-    def model_device(self, phase, num_tag, num_pos):
+    def model_device(self, phase, num_tag):
         """ Use GPU, load model and move it there -- device or cpu if cuda is not available """
         self.device = check_device()
         self.model = BERT_NER(base_model=self.base_model,
                               num_tag=num_tag,
-                              num_pos=num_pos,
-                              num_ner=self.num_ner,
                               tag_dropout=self.tag_dropout,
-                              pos_dropout=self.pos_dropout,
-                              ner_dropout=self.ner_dropout,
                               tag_dropout_2=self.tag_dropout_2,
-                              pos_dropout_2=self.pos_dropout_2,
-                              ner_dropout_2=self.ner_dropout_2,
                               architecture=self.architecture,
-                              ner=self.ner,
                               middle_layer=self.middle_layer)
         if phase == "train":
             self.model.to(self.device)
@@ -292,7 +254,7 @@ class NER:
     def hyperparameters(self):
         """ This method fix the parameters and makes a filter over to exclude LayerNorm and biases """
 
-        # nn.module list of parameters: all parameters from BERT plus the pos and tag layer
+        # nn.module list of parameters: all parameters from BERT plus tag layer
         self.param_optimizer = list(self.model.named_parameters())
 
         #  exclude LayerNorm and biases
