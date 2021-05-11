@@ -4,9 +4,9 @@ import os
 
 # Hyperparameters
 MAX_LEN = 280
-TRAIN_BATCH_SIZE = 8
-VALID_BATCH_SIZE = 6
-EPOCHS = 10
+TRAIN_BATCH_SIZE = 6
+VALID_BATCH_SIZE = 2
+EPOCHS = 8
 
 # PATHS
 BASE_PATH = os.getcwd()
@@ -29,5 +29,3 @@ ACC_FILE = join(BASE_DATA_PATH, "NER_data")
 CHECKPOINTS_META_PATH = join(BASE_DATA_PATH, "Checkpoints", "std_data.bin")
 CHECKPOINTS_MODEL_PATH = join(BASE_DATA_PATH, "Checkpoints", "model.bin")
 CHECKPOINTS_LOG = join(BASE_DATA_PATH, "Checkpoints", "test.log")
-
-

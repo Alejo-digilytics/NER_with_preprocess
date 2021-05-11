@@ -6,6 +6,7 @@ import spacy
 import time
 import logging
 from src.tools import nlp_setup
+import src.config as config
 
 logging.basicConfig(filename='test.log', level=logging.DEBUG, format='%(asctime)s:%(levelname)s:%(message)s')
 
@@ -68,10 +69,10 @@ class NER_preprocessing:
         Input:
             - path (string): path to the txt file to split
         Output:
-            - list of sentences as strings ([str,str,str, ...]): list of sentences in the txt spli
+            - list of sentences as strings ([str,str,str, ...]): list of sentences in the txt split
         """
-        tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
         file = open(path, "r", encoding="utf8")
+
         # the following is a list of strings, which are the lines
         lines_sentences = [" ".join(sentence.split()) for sentence in file]
         if not lines_sentences:
@@ -82,7 +83,7 @@ class NER_preprocessing:
             aux_list = []
             counter = 0
             for word in list_of_words:
-                if counter % 4 == 0:
+                if counter % 10 == 0:
                     aux_list.append(word)
                     lines_sentences.append(" ".join(aux_list))
                     aux_list = []
@@ -91,56 +92,29 @@ class NER_preprocessing:
                 counter += 1
         else:
             pass
-        # lines_sentences = list(filter(lambda a: a not in ["", ",", ".", ""], lines_sentences))
-        nonlabeled = 0
-        B_counter = 0
-        L_counter = 0
-        diff = 0
-        wrong_labels = 0
-        list_sentences = []
+
         current_sentence = ""
+        list_sentences = []
+        # lines_sentences = list(filter(lambda a: a not in ["", ",", ".", ""], lines_sentences))
         for sentence in lines_sentences:
             #  joining the new sentence to the current one, which can be just ""
             join_sentence = current_sentence + " " + sentence
             join_sentence = join_sentence.strip()
-            # considering zones of the text which are not labelled to apply other preprocessing
-            labelled = self.BL_matcher(case="all", text=join_sentence)
-            if labelled == 0:
-                nonlabeled += 1
-            else:
-                # count each of the B-L labels in the current one
-                B_counter = len(self.BL_matcher(case="B", text=join_sentence))
-                L_counter = len(self.BL_matcher(case="L", text=join_sentence))
 
-            # join or split depending on the type of text contained in the last sentences
-            # Entities are not complete v pure text ==> join sentences
-            if labelled == 0:
-                current_sentence = join_sentence
-                diff = 0
-            elif B_counter != L_counter + diff:
-                if len(join_sentence.strip().split(" ")) > 140:
-                    list_sentences.extend([sentence for sentence in tokenizer.tokenize(current_sentence)])
-                    current_sentence = sentence
-                    B_counter = len(self.BL_matcher(case="B", text=current_sentence))
-                    L_counter = len(self.BL_matcher(case="L", text=current_sentence))
-                    diff = B_counter - L_counter
-                    nonlabeled = 0
-                    wrong_labels += 1
-                else:
-                    current_sentence = join_sentence
-                    diff = 0
-            # First sentences with labels and same amounts Bs Ls
-            elif nonlabeled == 0:
-                list_sentences.append(join_sentence)
-                current_sentence = ""
-                diff = 0
-            # Acumulation
+            # Case splitting current sentences and adding it.
+            if len(join_sentence.split()) > (config.MAX_LEN / 2):
+                list_sentences.append(current_sentence)
+                current_sentence = sentence
+
+            # Case not long enough to be added. Then we extend the sentence
             else:
-                list_sentences.extend([sentence for sentence in tokenizer.tokenize(join_sentence)])
-                current_sentence = ""
-                nonlabeled = 0
-                diff = 0
-        return list_sentences, wrong_labels
+                current_sentence = join_sentence
+
+            # Last sentence case
+            if sentence == lines_sentences[-1]:
+                list_sentences.append(current_sentence)
+
+        return list_sentences
 
     @staticmethod
     def BL_matcher(case, text):
@@ -178,8 +152,7 @@ class NER_preprocessing:
         # loop over files
         for file in self.NER_listed:
             if self.spliter == "lines":
-                list_sentences, wrong = self.special_split(os.path.join(self.path_NER_data, file))
-                logging.info(" There were at least {} wrong labels in the file".format(wrong))
+                list_sentences = self.special_split(os.path.join(self.path_NER_data, file))
             else:
                 list_sentences = self.split_by_dots(os.path.join(self.path_NER_data, file))
 
@@ -253,8 +226,7 @@ class NER_preprocessing:
         # loop over files
         for file in self.NER_listed:
             if self.spliter == "lines":
-                list_sentences, wrong = self.special_split(os.path.join(self.path_NER_data, file))
-                logging.info(" There were at least {} wrong labels in the file".format(wrong))
+                list_sentences = self.special_split(os.path.join(self.path_NER_data, file))
             else:
                 list_sentences = self.split_by_dots(os.path.join(self.path_NER_data, file))
             count_no_ner = 0
