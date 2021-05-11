@@ -1,71 +1,84 @@
+import torch.nn as nn
 import src.config as config
-import torch
+from src.train_val_loss import loss_function
+from pytorch_pretrained_bert import BertModel
 
 
-class Entities_dataset:
+class BERT_NER(nn.Module):
     """
-    This class produces the input for the model as masked language model with its special tokens
-    , ids, masks and padding, creating a getitem method that produces the batches.
-    Data must be preprocessed before using this class as a list of words to be tokenized
-    Input:
-        - text (list(list(), ..): list of lists of words [["hi","I", "am", ...], ["And", ...]...]
-        - tag (list(list(), ..): list of lists of tags associated [["O","O","[BLABLA-B]",...], [...]...]
-    Output:
-        - ids (np.array): token's ids array
-        - masks (np.array): 1 if token 0 if padding
-        - tokens (np.array): token's array
-        - tags (np.array): NER's tags array
+    This class is the DL model. It can be tuned to use one or two different extra layers with different dropouts per
+    classification: tag, or ner
     """
-    def __init__(self, texts, tags, tokenizer, special_tokens, model_name):
-        self.model_name = model_name
-        self.texts = texts
-        self.tags = tags
-        self.tokenizer = tokenizer
-        self.special_tokens = special_tokens
+    def __init__(self, num_tag,
+                 base_model="bert-base-uncased",
+                 tag_dropout=0.3,
+                 tag_dropout_2=0.3,
+                 architecture="simple",
+                 middle_layer=100):
+        super(BERT_NER, self).__init__()
 
-    def __len__(self):
+        # base model and architecture
+        self.base_model = base_model
+        self.architecture = architecture
 
-        return len(self.texts)
+        # fix path to the base model
+        if base_model == "bert-base-uncased":
+            self.base_model_path = config.BERT_UNCASED_PATH
+        elif base_model == "mortbert-uncased":
+            self.base_model_path = config.MORTBERT_UNCASED
+        elif base_model == "finbert-uncased":
+            self.base_model_path = config.FINBERT_UNCASED
 
-    def __getitem__(self, item):
-        text = self.texts[item]
-        tags = self.tags[item]
+        if base_model == "bert-base-uncased":
+            self.model = BertModel.from_pretrained(config.BERT_UNCASED_PATH)
+        if base_model == "finbert-uncased":
+            self.model = BertModel.from_pretrained(config.FINBERT_UNCASED)
+        if base_model == "mortbert-uncased":
+            self.model = BertModel.from_pretrained(config.MORTBERT_UNCASED)
 
-        ids = []
-        target_tag = []
+        # NER parameters
+        self.num_tag = num_tag
 
-        for i, s in enumerate(text):  # i = position, s = words
-            # token id from Bert tokenizer
-            inputs = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(str(s)))
-            input_len = len(inputs)
-            ids.extend(inputs)
+        # First dropout
+        self.bert_drop_tag_1 = nn.Dropout(tag_dropout)
 
-            # words had become tokens and the size increase.
-            # So the tags
-            target_tag.extend([tags[i]] * input_len)
+        # Architecture
+        if self.architecture == "simple":
+            # 768 (BERT) composed with a linear function
+            self.out_tag = nn.Linear(self.model.config.hidden_size, self.num_tag)
 
-        # Adding spacy for the special tokens
-        ids = ids[:config.MAX_LEN - 2]
-        target_tag = target_tag[:config.MAX_LEN - 2]
+        if self.architecture == "complex":
+            # 768 (BERT) composed with a linear function
+            self.tag_mid = nn.Linear(self.model.config.hidden_size, middle_layer)
+            self.bert_drop_tag_2 = nn.Dropout(tag_dropout_2)
+            self.out_tag = nn.Linear(middle_layer, self.num_tag)
 
-        # Adding CLS and SEP ids and padding the tags
-        ids = [self.special_tokens["[CLS]"]] + ids + [self.special_tokens["[SEP]"]]
-        target_tag = [0] + target_tag + [0]
+    def forward(self, ids, mask, tokens_type_ids, target_tag):
+        """
+        This method if the extra fine tuning NN for tags
+        """
+        # Since this model is for NER we need to take the sequence output
+        # We don't want to get a value as output but a sequence of outputs, one per token
+        # BERT sequence output is the first output. Here o1
+        o1, _ = self.model(input_ids=ids,
+                           token_type_ids=tokens_type_ids,
+                           attention_mask=mask,
+                           output_all_encoded_layers=False
+                           )
 
-        # Prepare masks: 1 means token
-        mask = [1] * len(ids)
-        tokens_type_ids = [0] * len(ids)
+        # Simple architecture
+        if self.architecture == "simple":
+            output_tag = self.bert_drop_tag_1(o1)
 
-        # PADDING FIXED, NOT DYNAMIC
-        padding_len = config.MAX_LEN - len(ids)
-        ids = ids + ([self.special_tokens["[PAD]"]] * padding_len)
-        tokens_type_ids = tokens_type_ids + ([0] * padding_len)
-        mask = mask + ([0] * padding_len)
-        target_tag = target_tag + ([0] * padding_len)
+        # Complex architecture
+        if self.architecture == "complex":
+            # Add dropout 1
+            output_tag1 = self.bert_drop_tag_1(o1)
+            # Add middle layer
+            output_tag_2 = self.tag_mid(output_tag1)
+            # Add second dropout
+            output_tag = self.bert_drop_tag_2(output_tag_2)
 
-        return {
-            "ids": torch.tensor(ids, dtype=torch.long),
-            "mask": torch.tensor(mask, dtype=torch.long),
-            "tokens_type_ids": torch.tensor(tokens_type_ids, dtype=torch.long),
-            "target_tag": torch.tensor(target_tag, dtype=torch.long),
-            }
+        # We add the linear outputs
+        tag = self.out_tag(output_tag)
+        return tag, loss_function(tag, target_tag, mask, self.num_tag)
