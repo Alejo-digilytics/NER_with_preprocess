@@ -34,7 +34,7 @@ class NER_preprocessing:
         self.path_Data = os.path.join(os.getcwd(), "Data")
         self.path_NER_data = os.path.join(self.path_Data, "NER_data")
         self.path_NER_DF = os.path.join(self.path_Data, "NER_DF")
-        self.NER_listed = [file for file in os.listdir(self.path_NER_data) if file.endswith(".txt")]
+        self.NER_listed = [file for file in os.listdir(self.path_NER_data) if file.endswith(".txt") if os.stat(file).st_size > 5 ]
         self.lines_sent = lines_sent
         nlp_setup("NER")
         self.nlp = spacy.load("en_core_web_sm")
