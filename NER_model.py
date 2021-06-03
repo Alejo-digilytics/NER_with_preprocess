@@ -234,8 +234,12 @@ class NER:
             print(self.tag_std.inverse_transform(tag.argmax(2).cpu().numpy().reshape(-1))
                   [1:len(tokenized_text) + 1])
 
-    def model_device(self, phase, num_tag):
+    def model_device(self, phase, num_tag):        
         """ Use GPU, load model and move it there -- device or cpu if cuda is not available """
+        # Use GPU, load model and move it there; device == cpu if cuda is not available
+        torch.cuda.empty_cache()
+        
+        # Check device
         self.device = check_device()
         self.model = BERT_NER(base_model=self.base_model,
                               num_tag=num_tag,
