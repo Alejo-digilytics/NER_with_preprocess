@@ -14,20 +14,13 @@ class BERT_NER(nn.Module):
                  tag_dropout=0.3,
                  tag_dropout_2=0.3,
                  architecture="simple",
-                 middle_layer=100):
+                 middle_layer=100,
+                 freezing=False):
         super(BERT_NER, self).__init__()
 
         # base model and architecture
         self.base_model = base_model
         self.architecture = architecture
-
-        # fix path to the base model
-        if base_model == "bert-base-uncased":
-            self.base_model_path = config.BERT_UNCASED_PATH
-        elif base_model == "mortbert-uncased":
-            self.base_model_path = config.MORTBERT_UNCASED
-        elif base_model == "finbert-uncased":
-            self.base_model_path = config.FINBERT_UNCASED
 
         if base_model == "bert-base-uncased":
             self.model = BertModel.from_pretrained(config.BERT_UNCASED_PATH)
@@ -35,6 +28,10 @@ class BERT_NER(nn.Module):
             self.model = BertModel.from_pretrained(config.FINBERT_UNCASED)
         if base_model == "mortbert-uncased":
             self.model = BertModel.from_pretrained(config.MORTBERT_UNCASED)
+
+        if freezing:
+            for param in self.model.parameters():
+                param.requires_grad = False
 
         # NER parameters
         self.num_tag = num_tag
@@ -50,6 +47,7 @@ class BERT_NER(nn.Module):
         if self.architecture == "complex":
             # 768 (BERT) composed with a linear function
             self.tag_mid = nn.Linear(self.model.config.hidden_size, middle_layer)
+            # self.ac = nn.GELU()
             self.bert_drop_tag_2 = nn.Dropout(tag_dropout_2)
             self.out_tag = nn.Linear(middle_layer, self.num_tag)
 
@@ -76,6 +74,7 @@ class BERT_NER(nn.Module):
             output_tag1 = self.bert_drop_tag_1(o1)
             # Add middle layer
             output_tag_2 = self.tag_mid(output_tag1)
+            # output_tag_2 = self.ac(output_tag_2)
             # Add second dropout
             output_tag = self.bert_drop_tag_2(output_tag_2)
 

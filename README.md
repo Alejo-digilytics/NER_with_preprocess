@@ -32,7 +32,7 @@ Downloading pytorch: go to `https://pytorch.org/get-started/locally/` and follow
 The BERT-like model must be added in the folder models containing the following files:
 
     1. config.json: the model's configuration
-    2. pytorch_model.bin: weights of the model 3.special_tokens.json: Not mandatory, since it is created alongthe process if there is a vocab.txt file
+    2. pytorch_model.bin: weights of the model 3.special_tokens.json: Not mandatory, since it is created along the process if there is a vocab.txt file
     3. vocab.txt: vocabulary of the model in a column with rows number the id of the model
 
 
@@ -48,13 +48,13 @@ Output:
     Option Simple: Data Frame with columns "Sentences", "Words", "POS" and "Tag"
         "Sentences": number of the sentence in the word and empty the rest of the sentence
         "Words":token of the word
-        "POS": Part of speech ffor the token (based on Spacy)
+        "POS": Part of speech for the token (based on Spacy)
         "Tag": BILUO tag with entity and position
 
-    Option Simple: Data Frame with columns "Sentences", "Words", "POS", "Tag" and "NER"
+    Option Combined: Data Frame with columns "Sentences", "Words", "POS", "Tag" and "NER"
         "Sentences": number of the sentence in the word and empty the rest of the sentence
         "Words":token of the word
-        "POS": Part of speech ffor the token (based on Spacy)
+        "POS": Part of speech for the token (based on Spacy)
         "Tag": BILUO tag with entity and position
         "NER": general entities for the token given by Spacy
 

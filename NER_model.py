@@ -234,11 +234,11 @@ class NER:
             print(self.tag_std.inverse_transform(tag.argmax(2).cpu().numpy().reshape(-1))
                   [1:len(tokenized_text) + 1])
 
-    def model_device(self, phase, num_tag):        
+    def model_device(self, phase, num_tag):
         """ Use GPU, load model and move it there -- device or cpu if cuda is not available """
         # Use GPU, load model and move it there; device == cpu if cuda is not available
         torch.cuda.empty_cache()
-        
+
         # Check device
         self.device = check_device()
         self.model = BERT_NER(base_model=self.base_model,
@@ -270,7 +270,7 @@ class NER:
              "weight_decay": 0.0}]
 
         num_train_steps = int(len(self.train_sentences) / self.config.TRAIN_BATCH_SIZE * self.config.EPOCHS)
-        self.optimizer = AdamW(optimizer_parameters, lr=3e-5)
+        self.optimizer = AdamW(optimizer_parameters, lr=1e-5)
 
         # Scheduler
         self.scheduler = get_linear_schedule_with_warmup(self.optimizer,
