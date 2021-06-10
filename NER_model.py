@@ -74,10 +74,10 @@ class NER:
                                            do_basic_tokenize=True)
             self.special_tokens_dict = special_tokens_dict(config.FINBERT_UNCASED_VOCAB)
         elif base_model == "mortbert-uncased":
-            self.tokenizer = BertTokenizer(vocab_file=config.FINBERT_UNCASED_VOCAB,
+            self.tokenizer = BertTokenizer(vocab_file=config.MORTBERT_UNCASED_VOCAB,
                                            do_lower_case=True,
                                            do_basic_tokenize=True)
-            self.special_tokens_dict = special_tokens_dict(config.FINBERT_UNCASED_VOCAB)
+            self.special_tokens_dict = special_tokens_dict(config.MORTBERT_UNCASED_VOCAB)
 
     def training(self, saving=True):
         logger.info("Processing data ...")
@@ -266,7 +266,7 @@ class NER:
              "weight_decay": 0.0}]
 
         num_train_steps = int(len(self.train_sentences) / self.config.TRAIN_BATCH_SIZE * self.config.EPOCHS)
-        self.optimizer = AdamW(optimizer_parameters, lr=3e-5)
+        self.optimizer = AdamW(optimizer_parameters, lr=1e-5)
 
         # Scheduler
         self.scheduler = get_linear_schedule_with_warmup(self.optimizer,

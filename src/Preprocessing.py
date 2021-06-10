@@ -102,7 +102,7 @@ class NER_preprocessing:
             join_sentence = join_sentence.strip()
 
             # Case splitting current sentences and adding it.
-            if len(join_sentence.split()) > (config.MAX_LEN / 2):
+            if len(join_sentence.split()) > int(config.MAX_LEN / 2):
                 list_sentences.append(current_sentence)
                 current_sentence = sentence
 
@@ -149,8 +149,10 @@ class NER_preprocessing:
         l_POS = []
         l_tag = []
         counter = 0
+        count=0
         # loop over files
         for file in self.NER_listed:
+            count=count+1
             if self.spliter == "lines":
                 list_sentences = self.special_split(os.path.join(self.path_NER_data, file))
             else:
@@ -188,6 +190,7 @@ class NER_preprocessing:
                 doc = self.nlp(sentence)
                 for token in doc:
                     l_POS.append(token.pos_)
+            assert len(l_sentence)==len(l_tag)==len(l_words)
         if len(l_POS) < len(l_sentence):
             padding_no = len(l_sentence) - len(l_POS)
             l_POS.extend(["O"] * padding_no)
