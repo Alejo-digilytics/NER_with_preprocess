@@ -17,3 +17,5 @@ numpy==1.18.5
 nltk == 3.5
 pdfminer.six==20200517
 pyPdf==1.13
+wheel==0.36.2
+Cython 0.29.23
